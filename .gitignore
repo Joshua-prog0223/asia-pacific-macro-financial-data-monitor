@@ -1,0 +1,34 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Tests and tools
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Raw source data: keep local, do not commit by default
+data/raw/
+
+# Temporary and backup artifacts
+figures/*_backup.png
+figures/*_old.png
+figures/test_plot.png
+figures_backup
+research_backup
+tests_backup
+
+# Accidental backup placeholder files
+data/processed_backup
+data/raw_backup
