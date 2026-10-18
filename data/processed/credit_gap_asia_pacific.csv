@@ -1,0 +1,2639 @@
+country_code,series_code,series_name,quarter,value
+JP,B,Credit-to-GDP trend (HP filter),1974Q4,136.953
+JP,B,Credit-to-GDP trend (HP filter),1975Q1,137.1126
+JP,B,Credit-to-GDP trend (HP filter),1975Q2,137.2611
+JP,B,Credit-to-GDP trend (HP filter),1975Q3,137.5679
+JP,B,Credit-to-GDP trend (HP filter),1975Q4,138.1397
+JP,B,Credit-to-GDP trend (HP filter),1976Q1,138.6325
+JP,B,Credit-to-GDP trend (HP filter),1976Q2,139.0281
+JP,B,Credit-to-GDP trend (HP filter),1976Q3,139.4142
+JP,B,Credit-to-GDP trend (HP filter),1976Q4,139.9024
+JP,B,Credit-to-GDP trend (HP filter),1977Q1,140.2426
+JP,B,Credit-to-GDP trend (HP filter),1977Q2,140.4374
+JP,B,Credit-to-GDP trend (HP filter),1977Q3,140.641
+JP,B,Credit-to-GDP trend (HP filter),1977Q4,140.8941
+JP,B,Credit-to-GDP trend (HP filter),1978Q1,141.02
+JP,B,Credit-to-GDP trend (HP filter),1978Q2,141.0124
+JP,B,Credit-to-GDP trend (HP filter),1978Q3,141.004
+JP,B,Credit-to-GDP trend (HP filter),1978Q4,141.1246
+JP,B,Credit-to-GDP trend (HP filter),1979Q1,141.1319
+JP,B,Credit-to-GDP trend (HP filter),1979Q2,141.0893
+JP,B,Credit-to-GDP trend (HP filter),1979Q3,141.158
+JP,B,Credit-to-GDP trend (HP filter),1979Q4,141.406
+JP,B,Credit-to-GDP trend (HP filter),1980Q1,141.6681
+JP,B,Credit-to-GDP trend (HP filter),1980Q2,141.9075
+JP,B,Credit-to-GDP trend (HP filter),1980Q3,142.1374
+JP,B,Credit-to-GDP trend (HP filter),1980Q4,142.4164
+JP,B,Credit-to-GDP trend (HP filter),1981Q1,142.6276
+JP,B,Credit-to-GDP trend (HP filter),1981Q2,142.7504
+JP,B,Credit-to-GDP trend (HP filter),1981Q3,142.974
+JP,B,Credit-to-GDP trend (HP filter),1981Q4,143.3942
+JP,B,Credit-to-GDP trend (HP filter),1982Q1,143.8123
+JP,B,Credit-to-GDP trend (HP filter),1982Q2,144.1992
+JP,B,Credit-to-GDP trend (HP filter),1982Q3,144.7081
+JP,B,Credit-to-GDP trend (HP filter),1982Q4,145.3725
+JP,B,Credit-to-GDP trend (HP filter),1983Q1,146.1225
+JP,B,Credit-to-GDP trend (HP filter),1983Q2,146.8234
+JP,B,Credit-to-GDP trend (HP filter),1983Q3,147.6006
+JP,B,Credit-to-GDP trend (HP filter),1983Q4,148.5082
+JP,B,Credit-to-GDP trend (HP filter),1984Q1,149.4224
+JP,B,Credit-to-GDP trend (HP filter),1984Q2,150.2202
+JP,B,Credit-to-GDP trend (HP filter),1984Q3,151.1346
+JP,B,Credit-to-GDP trend (HP filter),1984Q4,152.0829
+JP,B,Credit-to-GDP trend (HP filter),1985Q1,153.0457
+JP,B,Credit-to-GDP trend (HP filter),1985Q2,153.8798
+JP,B,Credit-to-GDP trend (HP filter),1985Q3,154.7488
+JP,B,Credit-to-GDP trend (HP filter),1985Q4,155.6751
+JP,B,Credit-to-GDP trend (HP filter),1986Q1,156.5723
+JP,B,Credit-to-GDP trend (HP filter),1986Q2,157.3998
+JP,B,Credit-to-GDP trend (HP filter),1986Q3,158.337
+JP,B,Credit-to-GDP trend (HP filter),1986Q4,159.4427
+JP,B,Credit-to-GDP trend (HP filter),1987Q1,160.6079
+JP,B,Credit-to-GDP trend (HP filter),1987Q2,162.0665
+JP,B,Credit-to-GDP trend (HP filter),1987Q3,163.6847
+JP,B,Credit-to-GDP trend (HP filter),1987Q4,165.4271
+JP,B,Credit-to-GDP trend (HP filter),1988Q1,167.0637
+JP,B,Credit-to-GDP trend (HP filter),1988Q2,168.6576
+JP,B,Credit-to-GDP trend (HP filter),1988Q3,170.3391
+JP,B,Credit-to-GDP trend (HP filter),1988Q4,172.1569
+JP,B,Credit-to-GDP trend (HP filter),1989Q1,173.9634
+JP,B,Credit-to-GDP trend (HP filter),1989Q2,175.7729
+JP,B,Credit-to-GDP trend (HP filter),1989Q3,177.7602
+JP,B,Credit-to-GDP trend (HP filter),1989Q4,179.8816
+JP,B,Credit-to-GDP trend (HP filter),1990Q1,182.1875
+JP,B,Credit-to-GDP trend (HP filter),1990Q2,184.3079
+JP,B,Credit-to-GDP trend (HP filter),1990Q3,186.4345
+JP,B,Credit-to-GDP trend (HP filter),1990Q4,188.5663
+JP,B,Credit-to-GDP trend (HP filter),1991Q1,190.4945
+JP,B,Credit-to-GDP trend (HP filter),1991Q2,192.2784
+JP,B,Credit-to-GDP trend (HP filter),1991Q3,193.9916
+JP,B,Credit-to-GDP trend (HP filter),1991Q4,195.717
+JP,B,Credit-to-GDP trend (HP filter),1992Q1,197.2855
+JP,B,Credit-to-GDP trend (HP filter),1992Q2,198.7736
+JP,B,Credit-to-GDP trend (HP filter),1992Q3,200.226
+JP,B,Credit-to-GDP trend (HP filter),1992Q4,201.7801
+JP,B,Credit-to-GDP trend (HP filter),1993Q1,203.2554
+JP,B,Credit-to-GDP trend (HP filter),1993Q2,204.6937
+JP,B,Credit-to-GDP trend (HP filter),1993Q3,206.1741
+JP,B,Credit-to-GDP trend (HP filter),1993Q4,207.7078
+JP,B,Credit-to-GDP trend (HP filter),1994Q1,209.048
+JP,B,Credit-to-GDP trend (HP filter),1994Q2,210.1841
+JP,B,Credit-to-GDP trend (HP filter),1994Q3,211.275
+JP,B,Credit-to-GDP trend (HP filter),1994Q4,212.3304
+JP,B,Credit-to-GDP trend (HP filter),1995Q1,213.2905
+JP,B,Credit-to-GDP trend (HP filter),1995Q2,214.0926
+JP,B,Credit-to-GDP trend (HP filter),1995Q3,214.8732
+JP,B,Credit-to-GDP trend (HP filter),1995Q4,215.6553
+JP,B,Credit-to-GDP trend (HP filter),1996Q1,216.28
+JP,B,Credit-to-GDP trend (HP filter),1996Q2,216.7404
+JP,B,Credit-to-GDP trend (HP filter),1996Q3,217.0899
+JP,B,Credit-to-GDP trend (HP filter),1996Q4,217.4388
+JP,B,Credit-to-GDP trend (HP filter),1997Q1,217.5651
+JP,B,Credit-to-GDP trend (HP filter),1997Q2,217.5959
+JP,B,Credit-to-GDP trend (HP filter),1997Q3,217.5658
+JP,B,Credit-to-GDP trend (HP filter),1997Q4,217.6694
+JP,B,Credit-to-GDP trend (HP filter),1998Q1,217.6007
+JP,B,Credit-to-GDP trend (HP filter),1998Q2,217.5055
+JP,B,Credit-to-GDP trend (HP filter),1998Q3,217.4593
+JP,B,Credit-to-GDP trend (HP filter),1998Q4,217.1642
+JP,B,Credit-to-GDP trend (HP filter),1999Q1,216.6796
+JP,B,Credit-to-GDP trend (HP filter),1999Q2,216.0818
+JP,B,Credit-to-GDP trend (HP filter),1999Q3,215.4561
+JP,B,Credit-to-GDP trend (HP filter),1999Q4,214.9786
+JP,B,Credit-to-GDP trend (HP filter),2000Q1,214.342
+JP,B,Credit-to-GDP trend (HP filter),2000Q2,213.4847
+JP,B,Credit-to-GDP trend (HP filter),2000Q3,212.5923
+JP,B,Credit-to-GDP trend (HP filter),2000Q4,211.6152
+JP,B,Credit-to-GDP trend (HP filter),2001Q1,210.5095
+JP,B,Credit-to-GDP trend (HP filter),2001Q2,209.2813
+JP,B,Credit-to-GDP trend (HP filter),2001Q3,208.0669
+JP,B,Credit-to-GDP trend (HP filter),2001Q4,206.9106
+JP,B,Credit-to-GDP trend (HP filter),2002Q1,205.7327
+JP,B,Credit-to-GDP trend (HP filter),2002Q2,204.513
+JP,B,Credit-to-GDP trend (HP filter),2002Q3,203.1875
+JP,B,Credit-to-GDP trend (HP filter),2002Q4,201.9288
+JP,B,Credit-to-GDP trend (HP filter),2003Q1,200.579
+JP,B,Credit-to-GDP trend (HP filter),2003Q2,199.0966
+JP,B,Credit-to-GDP trend (HP filter),2003Q3,197.5328
+JP,B,Credit-to-GDP trend (HP filter),2003Q4,196.0141
+JP,B,Credit-to-GDP trend (HP filter),2004Q1,194.3715
+JP,B,Credit-to-GDP trend (HP filter),2004Q2,192.642
+JP,B,Credit-to-GDP trend (HP filter),2004Q3,190.8779
+JP,B,Credit-to-GDP trend (HP filter),2004Q4,189.1846
+JP,B,Credit-to-GDP trend (HP filter),2005Q1,187.5894
+JP,B,Credit-to-GDP trend (HP filter),2005Q2,185.9316
+JP,B,Credit-to-GDP trend (HP filter),2005Q3,184.3701
+JP,B,Credit-to-GDP trend (HP filter),2005Q4,182.874
+JP,B,Credit-to-GDP trend (HP filter),2006Q1,181.3857
+JP,B,Credit-to-GDP trend (HP filter),2006Q2,179.903
+JP,B,Credit-to-GDP trend (HP filter),2006Q3,178.506
+JP,B,Credit-to-GDP trend (HP filter),2006Q4,177.1626
+JP,B,Credit-to-GDP trend (HP filter),2007Q1,175.8173
+JP,B,Credit-to-GDP trend (HP filter),2007Q2,174.3543
+JP,B,Credit-to-GDP trend (HP filter),2007Q3,172.9839
+JP,B,Credit-to-GDP trend (HP filter),2007Q4,171.7205
+JP,B,Credit-to-GDP trend (HP filter),2008Q1,170.4056
+JP,B,Credit-to-GDP trend (HP filter),2008Q2,169.2613
+JP,B,Credit-to-GDP trend (HP filter),2008Q3,168.1941
+JP,B,Credit-to-GDP trend (HP filter),2008Q4,167.3946
+JP,B,Credit-to-GDP trend (HP filter),2009Q1,166.7097
+JP,B,Credit-to-GDP trend (HP filter),2009Q2,166.1562
+JP,B,Credit-to-GDP trend (HP filter),2009Q3,165.7519
+JP,B,Credit-to-GDP trend (HP filter),2009Q4,165.4486
+JP,B,Credit-to-GDP trend (HP filter),2010Q1,165.0138
+JP,B,Credit-to-GDP trend (HP filter),2010Q2,164.5137
+JP,B,Credit-to-GDP trend (HP filter),2010Q3,163.9032
+JP,B,Credit-to-GDP trend (HP filter),2010Q4,163.238
+JP,B,Credit-to-GDP trend (HP filter),2011Q1,162.5505
+JP,B,Credit-to-GDP trend (HP filter),2011Q2,161.9037
+JP,B,Credit-to-GDP trend (HP filter),2011Q3,161.3376
+JP,B,Credit-to-GDP trend (HP filter),2011Q4,160.8266
+JP,B,Credit-to-GDP trend (HP filter),2012Q1,160.276
+JP,B,Credit-to-GDP trend (HP filter),2012Q2,159.5869
+JP,B,Credit-to-GDP trend (HP filter),2012Q3,158.9851
+JP,B,Credit-to-GDP trend (HP filter),2012Q4,158.4811
+JP,B,Credit-to-GDP trend (HP filter),2013Q1,158.0096
+JP,B,Credit-to-GDP trend (HP filter),2013Q2,157.4938
+JP,B,Credit-to-GDP trend (HP filter),2013Q3,156.9884
+JP,B,Credit-to-GDP trend (HP filter),2013Q4,156.5172
+JP,B,Credit-to-GDP trend (HP filter),2014Q1,156.0078
+JP,B,Credit-to-GDP trend (HP filter),2014Q2,155.4168
+JP,B,Credit-to-GDP trend (HP filter),2014Q3,154.8569
+JP,B,Credit-to-GDP trend (HP filter),2014Q4,154.3494
+JP,B,Credit-to-GDP trend (HP filter),2015Q1,153.788
+JP,B,Credit-to-GDP trend (HP filter),2015Q2,153.1222
+JP,B,Credit-to-GDP trend (HP filter),2015Q3,152.4524
+JP,B,Credit-to-GDP trend (HP filter),2015Q4,151.8353
+JP,B,Credit-to-GDP trend (HP filter),2016Q1,151.1946
+JP,B,Credit-to-GDP trend (HP filter),2016Q2,150.6154
+JP,B,Credit-to-GDP trend (HP filter),2016Q3,150.1428
+JP,B,Credit-to-GDP trend (HP filter),2016Q4,149.7769
+JP,B,Credit-to-GDP trend (HP filter),2017Q1,149.4609
+JP,B,Credit-to-GDP trend (HP filter),2017Q2,149.1305
+JP,B,Credit-to-GDP trend (HP filter),2017Q3,148.8236
+JP,B,Credit-to-GDP trend (HP filter),2017Q4,148.5537
+JP,B,Credit-to-GDP trend (HP filter),2018Q1,148.2789
+JP,B,Credit-to-GDP trend (HP filter),2018Q2,148.0578
+JP,B,Credit-to-GDP trend (HP filter),2018Q3,147.9251
+JP,B,Credit-to-GDP trend (HP filter),2018Q4,147.8982
+JP,B,Credit-to-GDP trend (HP filter),2019Q1,147.9069
+JP,B,Credit-to-GDP trend (HP filter),2019Q2,147.9533
+JP,B,Credit-to-GDP trend (HP filter),2019Q3,148.0871
+JP,B,Credit-to-GDP trend (HP filter),2019Q4,148.3608
+JP,B,Credit-to-GDP trend (HP filter),2020Q1,148.6879
+JP,B,Credit-to-GDP trend (HP filter),2020Q2,149.6463
+JP,B,Credit-to-GDP trend (HP filter),2020Q3,150.7845
+JP,B,Credit-to-GDP trend (HP filter),2020Q4,152.0153
+JP,B,Credit-to-GDP trend (HP filter),2021Q1,153.2623
+JP,B,Credit-to-GDP trend (HP filter),2021Q2,154.3454
+JP,B,Credit-to-GDP trend (HP filter),2021Q3,155.372
+JP,B,Credit-to-GDP trend (HP filter),2021Q4,156.4308
+JP,B,Credit-to-GDP trend (HP filter),2022Q1,157.4517
+JP,B,Credit-to-GDP trend (HP filter),2022Q2,158.4983
+JP,B,Credit-to-GDP trend (HP filter),2022Q3,159.5188
+JP,B,Credit-to-GDP trend (HP filter),2022Q4,160.5346
+JP,B,Credit-to-GDP trend (HP filter),2023Q1,161.4321
+JP,B,Credit-to-GDP trend (HP filter),2023Q2,162.2383
+JP,B,Credit-to-GDP trend (HP filter),2023Q3,162.9713
+JP,B,Credit-to-GDP trend (HP filter),2023Q4,163.6536
+JP,B,Credit-to-GDP trend (HP filter),2024Q1,164.3267
+JP,B,Credit-to-GDP trend (HP filter),2024Q2,164.9611
+JP,B,Credit-to-GDP trend (HP filter),2024Q3,165.4533
+JP,B,Credit-to-GDP trend (HP filter),2024Q4,165.9863
+JP,B,Credit-to-GDP trend (HP filter),2025Q1,166.3791
+JP,B,Credit-to-GDP trend (HP filter),2025Q2,166.7065
+JP,B,Credit-to-GDP trend (HP filter),2025Q3,167.0877
+JP,B,Credit-to-GDP trend (HP filter),2025Q4,167.5734
+JP,B,Credit-to-GDP trend (HP filter),2026Q1,168.0569
+AU,A,Credit-to-GDP ratios (actual data),1960Q2,53.367719108888
+AU,A,Credit-to-GDP ratios (actual data),1960Q3,53.418609700328
+AU,A,Credit-to-GDP ratios (actual data),1960Q4,53.737411320401
+AU,A,Credit-to-GDP ratios (actual data),1961Q1,53.433826905732
+AU,A,Credit-to-GDP ratios (actual data),1961Q2,54.080163232156
+AU,A,Credit-to-GDP ratios (actual data),1961Q3,54.779595736652
+AU,A,Credit-to-GDP ratios (actual data),1961Q4,55.456048295907
+AU,A,Credit-to-GDP ratios (actual data),1962Q1,55.766201940179
+AU,A,Credit-to-GDP ratios (actual data),1962Q2,55.466031829311
+AU,A,Credit-to-GDP ratios (actual data),1962Q3,55.031864491031
+AU,A,Credit-to-GDP ratios (actual data),1962Q4,54.339115526808
+AU,A,Credit-to-GDP ratios (actual data),1963Q1,54.406755961962
+AU,A,Credit-to-GDP ratios (actual data),1963Q2,54.861359467037
+AU,A,Credit-to-GDP ratios (actual data),1963Q3,54.745603819527
+AU,A,Credit-to-GDP ratios (actual data),1963Q4,54.697591747989
+AU,A,Credit-to-GDP ratios (actual data),1964Q1,55.100869568372
+AU,A,Credit-to-GDP ratios (actual data),1964Q2,54.920033034683
+AU,A,Credit-to-GDP ratios (actual data),1964Q3,55.211147454575
+AU,A,Credit-to-GDP ratios (actual data),1964Q4,55.308363367029
+AU,A,Credit-to-GDP ratios (actual data),1965Q1,56.058684932518
+AU,A,Credit-to-GDP ratios (actual data),1965Q2,56.963327947835
+AU,A,Credit-to-GDP ratios (actual data),1965Q3,58.011156426495
+AU,A,Credit-to-GDP ratios (actual data),1965Q4,59.290759071467
+AU,A,Credit-to-GDP ratios (actual data),1966Q1,60.198448562691
+AU,A,Credit-to-GDP ratios (actual data),1966Q2,60.992092641978
+AU,A,Credit-to-GDP ratios (actual data),1966Q3,61.125552088305
+AU,A,Credit-to-GDP ratios (actual data),1966Q4,61.030874002371
+AU,A,Credit-to-GDP ratios (actual data),1967Q1,60.938424513885
+AU,A,Credit-to-GDP ratios (actual data),1967Q2,61.115651302354
+AU,A,Credit-to-GDP ratios (actual data),1967Q3,61.698361178829
+AU,A,Credit-to-GDP ratios (actual data),1967Q4,62.310871955167
+AU,A,Credit-to-GDP ratios (actual data),1968Q1,63.486711776751
+AU,A,Credit-to-GDP ratios (actual data),1968Q2,64.326884765399
+AU,A,Credit-to-GDP ratios (actual data),1968Q3,64.903282142357
+AU,A,Credit-to-GDP ratios (actual data),1968Q4,64.875435909374
+AU,A,Credit-to-GDP ratios (actual data),1969Q1,64.531483772169
+AU,A,Credit-to-GDP ratios (actual data),1969Q2,64.075433848493
+AU,A,Credit-to-GDP ratios (actual data),1969Q3,63.497942984401
+AU,A,Credit-to-GDP ratios (actual data),1969Q4,63.313134507954
+AU,A,Credit-to-GDP ratios (actual data),1970Q1,62.915130390365
+AU,A,Credit-to-GDP ratios (actual data),1970Q2,62.391602503569
+AU,A,Credit-to-GDP ratios (actual data),1970Q3,62.322774284568
+AU,A,Credit-to-GDP ratios (actual data),1970Q4,62.342477728937
+AU,A,Credit-to-GDP ratios (actual data),1971Q1,62.218093991242
+AU,A,Credit-to-GDP ratios (actual data),1971Q2,62.308433859672
+AU,A,Credit-to-GDP ratios (actual data),1971Q3,61.88938148804
+AU,A,Credit-to-GDP ratios (actual data),1971Q4,61.707015584376
+AU,A,Credit-to-GDP ratios (actual data),1972Q1,62.101912314965
+AU,A,Credit-to-GDP ratios (actual data),1972Q2,62.215008028563
+AU,A,Credit-to-GDP ratios (actual data),1972Q3,62.680755221504
+AU,A,Credit-to-GDP ratios (actual data),1972Q4,62.624151330961
+AU,A,Credit-to-GDP ratios (actual data),1973Q1,64.586954668343
+AU,A,Credit-to-GDP ratios (actual data),1973Q2,66.236219986022
+AU,A,Credit-to-GDP ratios (actual data),1973Q3,67.054911637629
+AU,A,Credit-to-GDP ratios (actual data),1973Q4,67.133636657331
+AU,A,Credit-to-GDP ratios (actual data),1974Q1,68.378342580609
+AU,A,Credit-to-GDP ratios (actual data),1974Q2,69.932496122578
+AU,A,Credit-to-GDP ratios (actual data),1974Q3,71.137252240439
+AU,A,Credit-to-GDP ratios (actual data),1974Q4,72.283081272411
+AU,A,Credit-to-GDP ratios (actual data),1975Q1,72.296216224118
+AU,A,Credit-to-GDP ratios (actual data),1975Q2,71.76603598218
+AU,A,Credit-to-GDP ratios (actual data),1975Q3,71.705783583307
+AU,A,Credit-to-GDP ratios (actual data),1975Q4,71.611393008616
+AU,A,Credit-to-GDP ratios (actual data),1976Q1,71.510870170461
+AU,A,Credit-to-GDP ratios (actual data),1976Q2,71.328419941424
+AU,A,Credit-to-GDP ratios (actual data),1976Q3,71.022406054934
+AU,A,Credit-to-GDP ratios (actual data),1976Q4,70.899616885838
+AU,A,Credit-to-GDP ratios (actual data),1977Q1,70.239348871082
+AU,A,Credit-to-GDP ratios (actual data),1977Q2,69.718878785469
+AU,A,Credit-to-GDP ratios (actual data),1977Q3,69.551827579045
+AU,A,Credit-to-GDP ratios (actual data),1977Q4,69.700159252859
+AU,A,Credit-to-GDP ratios (actual data),1978Q1,70.281568718581
+AU,A,Credit-to-GDP ratios (actual data),1978Q2,72.20812361919
+AU,A,Credit-to-GDP ratios (actual data),1978Q3,72.163996681606
+AU,A,Credit-to-GDP ratios (actual data),1978Q4,72.775916092127
+AU,A,Credit-to-GDP ratios (actual data),1979Q1,72.112819156327
+AU,A,Credit-to-GDP ratios (actual data),1979Q2,73.967742769097
+AU,A,Credit-to-GDP ratios (actual data),1979Q3,74.357456996139
+AU,A,Credit-to-GDP ratios (actual data),1979Q4,74.356887745475
+AU,A,Credit-to-GDP ratios (actual data),1980Q1,75.084413825929
+AU,A,Credit-to-GDP ratios (actual data),1980Q2,76.991011647172
+AU,A,Credit-to-GDP ratios (actual data),1980Q3,76.746347222049
+AU,A,Credit-to-GDP ratios (actual data),1980Q4,77.10083196456
+AU,A,Credit-to-GDP ratios (actual data),1981Q1,77.493749378212
+AU,A,Credit-to-GDP ratios (actual data),1981Q2,79.427521008114
+AU,A,Credit-to-GDP ratios (actual data),1981Q3,79.555686551272
+AU,A,Credit-to-GDP ratios (actual data),1981Q4,79.844792595131
+AU,A,Credit-to-GDP ratios (actual data),1982Q1,81.006621710475
+AU,A,Credit-to-GDP ratios (actual data),1982Q2,82.166287826865
+AU,A,Credit-to-GDP ratios (actual data),1982Q3,83.135992097604
+AU,A,Credit-to-GDP ratios (actual data),1982Q4,83.707830521538
+AU,A,Credit-to-GDP ratios (actual data),1983Q1,85.765261740846
+AU,A,Credit-to-GDP ratios (actual data),1983Q2,87.610945320061
+AU,A,Credit-to-GDP ratios (actual data),1983Q3,86.822829714146
+AU,A,Credit-to-GDP ratios (actual data),1983Q4,87.233526810881
+AU,A,Credit-to-GDP ratios (actual data),1984Q1,86.511270018807
+AU,A,Credit-to-GDP ratios (actual data),1984Q2,86.313267125688
+AU,A,Credit-to-GDP ratios (actual data),1984Q3,86.766116664848
+AU,A,Credit-to-GDP ratios (actual data),1984Q4,88.128338038038
+AU,A,Credit-to-GDP ratios (actual data),1985Q1,89.245265901185
+AU,A,Credit-to-GDP ratios (actual data),1985Q2,91.784292540035
+AU,A,Credit-to-GDP ratios (actual data),1985Q3,92.938582195034
+AU,A,Credit-to-GDP ratios (actual data),1985Q4,94.781443197739
+AU,A,Credit-to-GDP ratios (actual data),1986Q1,95.50527924307
+AU,A,Credit-to-GDP ratios (actual data),1986Q2,100.19781380664
+AU,A,Credit-to-GDP ratios (actual data),1986Q3,104.43635776993
+AU,A,Credit-to-GDP ratios (actual data),1986Q4,106.15607288036
+AU,A,Credit-to-GDP ratios (actual data),1987Q1,106.40970424708
+AU,A,Credit-to-GDP ratios (actual data),1987Q2,109.08410244972
+AU,A,Credit-to-GDP ratios (actual data),1987Q3,109.86667999027
+AU,A,Credit-to-GDP ratios (actual data),1987Q4,112.15471436999
+AU,A,Credit-to-GDP ratios (actual data),1988Q1,114.63526924442
+AU,A,Credit-to-GDP ratios (actual data),1988Q2,118.02853556794
+AU,A,Credit-to-GDP ratios (actual data),1988Q3,118.6333533118
+AU,A,Credit-to-GDP ratios (actual data),1988Q4,117.8152469373
+AU,A,Credit-to-GDP ratios (actual data),1989Q1,119.25795944453
+AU,A,Credit-to-GDP ratios (actual data),1989Q2,122.3658385834
+AU,A,Credit-to-GDP ratios (actual data),1989Q3,120.35127529464
+AU,A,Credit-to-GDP ratios (actual data),1989Q4,119.29208308209
+AU,A,Credit-to-GDP ratios (actual data),1990Q1,121.13569573023
+AU,A,Credit-to-GDP ratios (actual data),1990Q2,121.02770145844
+AU,A,Credit-to-GDP ratios (actual data),1990Q3,120.43299520786
+AU,A,Credit-to-GDP ratios (actual data),1990Q4,120.81564380265
+AU,A,Credit-to-GDP ratios (actual data),1991Q1,122.41483586374
+AU,A,Credit-to-GDP ratios (actual data),1991Q2,121.46008178612
+AU,A,Credit-to-GDP ratios (actual data),1991Q3,119.39250654058
+AU,A,Credit-to-GDP ratios (actual data),1991Q4,120.08392681582
+AU,A,Credit-to-GDP ratios (actual data),1992Q1,119.44142451024
+AU,A,Credit-to-GDP ratios (actual data),1992Q2,119.23932295167
+AU,A,Credit-to-GDP ratios (actual data),1992Q3,120.30283911672
+AU,A,Credit-to-GDP ratios (actual data),1992Q4,117.57326812914
+AU,A,Credit-to-GDP ratios (actual data),1993Q1,115.7067131767
+AU,A,Credit-to-GDP ratios (actual data),1993Q2,113.22509294767
+AU,A,Credit-to-GDP ratios (actual data),1993Q3,113.35471367675
+AU,A,Credit-to-GDP ratios (actual data),1993Q4,112.04933878125
+AU,A,Credit-to-GDP ratios (actual data),1994Q1,111.60224829762
+AU,A,Credit-to-GDP ratios (actual data),1994Q2,112.3181564192
+AU,A,Credit-to-GDP ratios (actual data),1994Q3,112.74245023087
+AU,A,Credit-to-GDP ratios (actual data),1994Q4,112.74677428358
+AU,A,Credit-to-GDP ratios (actual data),1995Q1,113.02854462201
+AU,A,Credit-to-GDP ratios (actual data),1995Q2,113.3938361194
+AU,A,Credit-to-GDP ratios (actual data),1995Q3,113.30624319102
+AU,A,Credit-to-GDP ratios (actual data),1995Q4,113.96429903221
+AU,A,Credit-to-GDP ratios (actual data),1996Q1,114.41311714618
+AU,A,Credit-to-GDP ratios (actual data),1996Q2,115.30943457469
+AU,A,Credit-to-GDP ratios (actual data),1996Q3,114.10480398146
+AU,A,Credit-to-GDP ratios (actual data),1996Q4,115.7164999503
+AU,A,Credit-to-GDP ratios (actual data),1997Q1,115.63418284304
+AU,A,Credit-to-GDP ratios (actual data),1997Q2,117.11479496985
+AU,A,Credit-to-GDP ratios (actual data),1997Q3,117.98867558163
+AU,A,Credit-to-GDP ratios (actual data),1997Q4,121.06057174712
+AU,A,Credit-to-GDP ratios (actual data),1998Q1,121.50031365801
+AU,A,Credit-to-GDP ratios (actual data),1998Q2,124.31193903472
+AU,A,Credit-to-GDP ratios (actual data),1998Q3,125.02870034173
+AU,A,Credit-to-GDP ratios (actual data),1998Q4,126.31942145562
+AU,A,Credit-to-GDP ratios (actual data),1999Q1,127.52907033428
+AU,A,Credit-to-GDP ratios (actual data),1999Q2,127.06706366267
+AU,A,Credit-to-GDP ratios (actual data),1999Q3,128.80879495386
+AU,A,Credit-to-GDP ratios (actual data),1999Q4,131.59771141213
+AU,A,Credit-to-GDP ratios (actual data),2000Q1,132.60063864395
+AU,A,Credit-to-GDP ratios (actual data),2000Q2,134.79794556655
+AU,A,Credit-to-GDP ratios (actual data),2000Q3,135.51989997302
+AU,A,Credit-to-GDP ratios (actual data),2000Q4,138.6375449733
+AU,A,Credit-to-GDP ratios (actual data),2001Q1,140.79327122479
+AU,A,Credit-to-GDP ratios (actual data),2001Q2,139.4743298001
+AU,A,Credit-to-GDP ratios (actual data),2001Q3,140.24536992598
+AU,A,Credit-to-GDP ratios (actual data),2001Q4,138.99604929971
+AU,A,Credit-to-GDP ratios (actual data),2002Q1,138.68152901343
+AU,A,Credit-to-GDP ratios (actual data),2002Q2,141.94999366474
+AU,A,Credit-to-GDP ratios (actual data),2002Q3,144.54684601294
+AU,A,Credit-to-GDP ratios (actual data),2002Q4,144.83442838203
+AU,A,Credit-to-GDP ratios (actual data),2003Q1,145.33321427359
+AU,A,Credit-to-GDP ratios (actual data),2003Q2,147.90659955466
+AU,A,Credit-to-GDP ratios (actual data),2003Q3,149.07796975951
+AU,A,Credit-to-GDP ratios (actual data),2003Q4,152.42152633547
+AU,A,Credit-to-GDP ratios (actual data),2004Q1,152.82753755185
+AU,A,Credit-to-GDP ratios (actual data),2004Q2,154.92528308516
+AU,A,Credit-to-GDP ratios (actual data),2004Q3,155.98401614274
+AU,A,Credit-to-GDP ratios (actual data),2004Q4,158.47195848
+AU,A,Credit-to-GDP ratios (actual data),2005Q1,159.69717503204
+AU,A,Credit-to-GDP ratios (actual data),2005Q2,163.73893022373
+AU,A,Credit-to-GDP ratios (actual data),2005Q3,165.76538657185
+AU,A,Credit-to-GDP ratios (actual data),2005Q4,168.83577848946
+AU,A,Credit-to-GDP ratios (actual data),2006Q1,169.64559564023
+AU,A,Credit-to-GDP ratios (actual data),2006Q2,173.55162621711
+AU,A,Credit-to-GDP ratios (actual data),2006Q3,176.13327522293
+AU,A,Credit-to-GDP ratios (actual data),2006Q4,178.21079123018
+AU,A,Credit-to-GDP ratios (actual data),2007Q1,178.88225371974
+AU,A,Credit-to-GDP ratios (actual data),2007Q2,181.44687234142
+AU,A,Credit-to-GDP ratios (actual data),2007Q3,185.08916369275
+AU,A,Credit-to-GDP ratios (actual data),2007Q4,187.05764831384
+AU,A,Credit-to-GDP ratios (actual data),2008Q1,188.06711459287
+AU,A,Credit-to-GDP ratios (actual data),2008Q2,188.15297000434
+AU,A,Credit-to-GDP ratios (actual data),2008Q3,187.47770957942
+AU,A,Credit-to-GDP ratios (actual data),2008Q4,187.5155291035
+AU,A,Credit-to-GDP ratios (actual data),2009Q1,185.1528918691
+AU,A,Credit-to-GDP ratios (actual data),2009Q2,183.774293363
+AU,A,Credit-to-GDP ratios (actual data),2009Q3,184.84326346168
+AU,A,Credit-to-GDP ratios (actual data),2009Q4,185.73396266557
+AU,A,Credit-to-GDP ratios (actual data),2010Q1,185.28388642512
+AU,A,Credit-to-GDP ratios (actual data),2010Q2,183.75195529872
+AU,A,Credit-to-GDP ratios (actual data),2010Q3,180.97560538277
+AU,A,Credit-to-GDP ratios (actual data),2010Q4,177.39045360257
+AU,A,Credit-to-GDP ratios (actual data),2011Q1,175.99285704061
+AU,A,Credit-to-GDP ratios (actual data),2011Q2,174.04735820962
+AU,A,Credit-to-GDP ratios (actual data),2011Q3,174.07458215998
+AU,A,Credit-to-GDP ratios (actual data),2011Q4,172.79162522615
+AU,A,Credit-to-GDP ratios (actual data),2012Q1,172.80813930864
+AU,A,Credit-to-GDP ratios (actual data),2012Q2,173.81143263599
+AU,A,Credit-to-GDP ratios (actual data),2012Q3,174.11984669588
+AU,A,Credit-to-GDP ratios (actual data),2012Q4,174.83211882248
+AU,A,Credit-to-GDP ratios (actual data),2013Q1,175.09492659575
+AU,A,Credit-to-GDP ratios (actual data),2013Q2,178.48418025859
+AU,A,Credit-to-GDP ratios (actual data),2013Q3,178.28398975367
+AU,A,Credit-to-GDP ratios (actual data),2013Q4,180.60292492556
+AU,A,Credit-to-GDP ratios (actual data),2014Q1,179.53943658173
+AU,A,Credit-to-GDP ratios (actual data),2014Q2,181.49532826594
+AU,A,Credit-to-GDP ratios (actual data),2014Q3,183.55358238156
+AU,A,Credit-to-GDP ratios (actual data),2014Q4,186.02331185842
+AU,A,Credit-to-GDP ratios (actual data),2015Q1,190.21306200432
+AU,A,Credit-to-GDP ratios (actual data),2015Q2,192.83376172453
+AU,A,Credit-to-GDP ratios (actual data),2015Q3,195.27650655107
+AU,A,Credit-to-GDP ratios (actual data),2015Q4,196.36032933941
+AU,A,Credit-to-GDP ratios (actual data),2016Q1,197.98019595846
+AU,A,Credit-to-GDP ratios (actual data),2016Q2,199.27368209171
+AU,A,Credit-to-GDP ratios (actual data),2016Q3,199.34169299557
+AU,A,Credit-to-GDP ratios (actual data),2016Q4,198.1146015248
+AU,A,Credit-to-GDP ratios (actual data),2017Q1,194.75729407686
+AU,A,Credit-to-GDP ratios (actual data),2017Q2,194.53463844579
+AU,A,Credit-to-GDP ratios (actual data),2017Q3,192.92446196534
+AU,A,Credit-to-GDP ratios (actual data),2017Q4,193.41005289103
+AU,A,Credit-to-GDP ratios (actual data),2018Q1,194.16538148628
+AU,A,Credit-to-GDP ratios (actual data),2018Q2,193.51879646381
+AU,A,Credit-to-GDP ratios (actual data),2018Q3,193.57272829144
+AU,A,Credit-to-GDP ratios (actual data),2018Q4,193.08287663561
+AU,A,Credit-to-GDP ratios (actual data),2019Q1,192.42538385948
+AU,A,Credit-to-GDP ratios (actual data),2019Q2,191.35478312388
+AU,A,Credit-to-GDP ratios (actual data),2019Q3,190.07028723674
+AU,A,Credit-to-GDP ratios (actual data),2019Q4,188.77565957132
+AU,A,Credit-to-GDP ratios (actual data),2020Q1,191.93099122017
+AU,A,Credit-to-GDP ratios (actual data),2020Q2,192.23758835273
+AU,A,Credit-to-GDP ratios (actual data),2020Q3,192.71155685519
+AU,A,Credit-to-GDP ratios (actual data),2020Q4,191.18703918404
+AU,A,Credit-to-GDP ratios (actual data),2021Q1,190.40464513017
+AU,A,Credit-to-GDP ratios (actual data),2021Q2,185.74426799829
+AU,A,Credit-to-GDP ratios (actual data),2021Q3,183.24759183203
+AU,A,Credit-to-GDP ratios (actual data),2021Q4,180.89595183335
+AU,A,Credit-to-GDP ratios (actual data),2022Q1,178.08018112181
+AU,A,Credit-to-GDP ratios (actual data),2022Q2,176.79772406609
+AU,A,Credit-to-GDP ratios (actual data),2022Q3,173.91886202396
+AU,A,Credit-to-GDP ratios (actual data),2022Q4,170.14923815404
+AU,A,Credit-to-GDP ratios (actual data),2023Q1,168.28412929448
+AU,A,Credit-to-GDP ratios (actual data),2023Q2,168.30730699179
+AU,A,Credit-to-GDP ratios (actual data),2023Q3,168.32781695484
+AU,A,Credit-to-GDP ratios (actual data),2023Q4,168.68295465348
+AU,A,Credit-to-GDP ratios (actual data),2024Q1,169.94623098626
+AU,A,Credit-to-GDP ratios (actual data),2024Q2,170.41665018948
+AU,A,Credit-to-GDP ratios (actual data),2024Q3,171.00259703745
+AU,A,Credit-to-GDP ratios (actual data),2024Q4,173.40608236592
+AU,A,Credit-to-GDP ratios (actual data),2025Q1,174.35682570719
+AU,A,Credit-to-GDP ratios (actual data),2025Q2,175.73835422128
+AU,A,Credit-to-GDP ratios (actual data),2025Q3,175.50235985316
+AU,A,Credit-to-GDP ratios (actual data),2025Q4,176.08243999172
+AU,A,Credit-to-GDP ratios (actual data),2026Q1,175.79283325899
+JP,C,Credit-to-GDP gaps (actual-trend),1974Q4,-3.8668
+JP,C,Credit-to-GDP gaps (actual-trend),1975Q1,-5.1581
+JP,C,Credit-to-GDP gaps (actual-trend),1975Q2,-5.1892
+JP,C,Credit-to-GDP gaps (actual-trend),1975Q3,-3.5039
+JP,C,Credit-to-GDP gaps (actual-trend),1975Q4,-0.6993
+JP,C,Credit-to-GDP gaps (actual-trend),1976Q1,-1.5269
+JP,C,Credit-to-GDP gaps (actual-trend),1976Q2,-2.5548
+JP,C,Credit-to-GDP gaps (actual-trend),1976Q3,-2.6208
+JP,C,Credit-to-GDP gaps (actual-trend),1976Q4,-1.4331
+JP,C,Credit-to-GDP gaps (actual-trend),1977Q1,-3.1061
+JP,C,Credit-to-GDP gaps (actual-trend),1977Q2,-4.7556
+JP,C,Credit-to-GDP gaps (actual-trend),1977Q3,-4.5774
+JP,C,Credit-to-GDP gaps (actual-trend),1977Q4,-3.9071
+JP,C,Credit-to-GDP gaps (actual-trend),1978Q1,-5.4069
+JP,C,Credit-to-GDP gaps (actual-trend),1978Q2,-6.9861
+JP,C,Credit-to-GDP gaps (actual-trend),1978Q3,-6.882
+JP,C,Credit-to-GDP gaps (actual-trend),1978Q4,-5.1128
+JP,C,Credit-to-GDP gaps (actual-trend),1979Q1,-6.5053
+JP,C,Credit-to-GDP gaps (actual-trend),1979Q2,-7.0547
+JP,C,Credit-to-GDP gaps (actual-trend),1979Q3,-5.4444
+JP,C,Credit-to-GDP gaps (actual-trend),1979Q4,-2.9184
+JP,C,Credit-to-GDP gaps (actual-trend),1980Q1,-2.6749
+JP,C,Credit-to-GDP gaps (actual-trend),1980Q2,-2.9424
+JP,C,Credit-to-GDP gaps (actual-trend),1980Q3,-3.0228
+JP,C,Credit-to-GDP gaps (actual-trend),1980Q4,-2.2711
+JP,C,Credit-to-GDP gaps (actual-trend),1981Q1,-3.2026
+JP,C,Credit-to-GDP gaps (actual-trend),1981Q2,-4.4261
+JP,C,Credit-to-GDP gaps (actual-trend),1981Q3,-2.8637
+JP,C,Credit-to-GDP gaps (actual-trend),1981Q4,0.0982
+JP,C,Credit-to-GDP gaps (actual-trend),1982Q1,0.0661
+JP,C,Credit-to-GDP gaps (actual-trend),1982Q2,-0.4044
+JP,C,Credit-to-GDP gaps (actual-trend),1982Q3,1.4538
+JP,C,Credit-to-GDP gaps (actual-trend),1982Q4,3.8055
+JP,C,Credit-to-GDP gaps (actual-trend),1983Q1,5.0461
+JP,C,Credit-to-GDP gaps (actual-trend),1983Q2,4.1773
+JP,C,Credit-to-GDP gaps (actual-trend),1983Q3,5.2827
+JP,C,Credit-to-GDP gaps (actual-trend),1983Q4,7.2193
+JP,C,Credit-to-GDP gaps (actual-trend),1984Q1,7.1683
+JP,C,Credit-to-GDP gaps (actual-trend),1984Q2,5.1576
+JP,C,Credit-to-GDP gaps (actual-trend),1984Q3,6.909
+JP,C,Credit-to-GDP gaps (actual-trend),1984Q4,7.2997
+JP,C,Credit-to-GDP gaps (actual-trend),1985Q1,7.3665
+JP,C,Credit-to-GDP gaps (actual-trend),1985Q2,5.1064
+JP,C,Credit-to-GDP gaps (actual-trend),1985Q3,5.5568
+JP,C,Credit-to-GDP gaps (actual-trend),1985Q4,6.3649
+JP,C,Credit-to-GDP gaps (actual-trend),1986Q1,5.7356
+JP,C,Credit-to-GDP gaps (actual-trend),1986Q2,4.4451
+JP,C,Credit-to-GDP gaps (actual-trend),1986Q3,6.1581
+JP,C,Credit-to-GDP gaps (actual-trend),1986Q4,8.8092
+JP,C,Credit-to-GDP gaps (actual-trend),1987Q1,9.5831
+JP,C,Credit-to-GDP gaps (actual-trend),1987Q2,14.2558
+JP,C,Credit-to-GDP gaps (actual-trend),1987Q3,16.5768
+JP,C,Credit-to-GDP gaps (actual-trend),1987Q4,18.2462
+JP,C,Credit-to-GDP gaps (actual-trend),1988Q1,15.9981
+JP,C,Credit-to-GDP gaps (actual-trend),1988Q2,14.8683
+JP,C,Credit-to-GDP gaps (actual-trend),1988Q3,15.9681
+JP,C,Credit-to-GDP gaps (actual-trend),1988Q4,17.8646
+JP,C,Credit-to-GDP gaps (actual-trend),1989Q1,17.2066
+JP,C,Credit-to-GDP gaps (actual-trend),1989Q2,16.8068
+JP,C,Credit-to-GDP gaps (actual-trend),1989Q3,19.3923
+JP,C,Credit-to-GDP gaps (actual-trend),1989Q4,21.1683
+JP,C,Credit-to-GDP gaps (actual-trend),1990Q1,23.7554
+JP,C,Credit-to-GDP gaps (actual-trend),1990Q2,19.9487
+JP,C,Credit-to-GDP gaps (actual-trend),1990Q3,19.5186
+JP,C,Credit-to-GDP gaps (actual-trend),1990Q4,19.0806
+JP,C,Credit-to-GDP gaps (actual-trend),1991Q1,15.0713
+JP,C,Credit-to-GDP gaps (actual-trend),1991Q2,12.1848
+JP,C,Credit-to-GDP gaps (actual-trend),1991Q3,10.6396
+JP,C,Credit-to-GDP gaps (actual-trend),1991Q4,10.5578
+JP,C,Credit-to-GDP gaps (actual-trend),1992Q1,7.5694
+JP,C,Credit-to-GDP gaps (actual-trend),1992Q2,5.9791
+JP,C,Credit-to-GDP gaps (actual-trend),1992Q3,5.1973
+JP,C,Credit-to-GDP gaps (actual-trend),1992Q4,6.8068
+JP,C,Credit-to-GDP gaps (actual-trend),1993Q1,5.2622
+JP,C,Credit-to-GDP gaps (actual-trend),1993Q2,4.4768
+JP,C,Credit-to-GDP gaps (actual-trend),1993Q3,5.0797
+JP,C,Credit-to-GDP gaps (actual-trend),1993Q4,5.8568
+JP,C,Credit-to-GDP gaps (actual-trend),1994Q1,2.3565
+JP,C,Credit-to-GDP gaps (actual-trend),1994Q2,-1.2321
+JP,C,Credit-to-GDP gaps (actual-trend),1994Q3,-1.9765
+JP,C,Credit-to-GDP gaps (actual-trend),1994Q4,-2.5346
+JP,C,Credit-to-GDP gaps (actual-trend),1995Q1,-4.1093
+JP,C,Credit-to-GDP gaps (actual-trend),1995Q2,-6.7219
+JP,C,Credit-to-GDP gaps (actual-trend),1995Q3,-6.904
+JP,C,Credit-to-GDP gaps (actual-trend),1995Q4,-6.6842
+JP,C,Credit-to-GDP gaps (actual-trend),1996Q1,-9.2163
+JP,C,Credit-to-GDP gaps (actual-trend),1996Q2,-11.7948
+JP,C,Credit-to-GDP gaps (actual-trend),1996Q3,-13.3776
+JP,C,Credit-to-GDP gaps (actual-trend),1996Q4,-13.014
+JP,C,Credit-to-GDP gaps (actual-trend),1997Q1,-16.4915
+JP,C,Credit-to-GDP gaps (actual-trend),1997Q2,-17.6781
+JP,C,Credit-to-GDP gaps (actual-trend),1997Q3,-18.2331
+JP,C,Credit-to-GDP gaps (actual-trend),1997Q4,-15.4114
+JP,C,Credit-to-GDP gaps (actual-trend),1998Q1,-17.955
+JP,C,Credit-to-GDP gaps (actual-trend),1998Q2,-17.9068
+JP,C,Credit-to-GDP gaps (actual-trend),1998Q3,-16.5553
+JP,C,Credit-to-GDP gaps (actual-trend),1998Q4,-20.3904
+JP,C,Credit-to-GDP gaps (actual-trend),1999Q1,-23.0907
+JP,C,Credit-to-GDP gaps (actual-trend),1999Q2,-24.3945
+JP,C,Credit-to-GDP gaps (actual-trend),1999Q3,-24.1908
+JP,C,Credit-to-GDP gaps (actual-trend),1999Q4,-20.9512
+JP,C,Credit-to-GDP gaps (actual-trend),2000Q1,-23.1092
+JP,C,Credit-to-GDP gaps (actual-trend),2000Q2,-26.2704
+JP,C,Credit-to-GDP gaps (actual-trend),2000Q3,-26.1389
+JP,C,Credit-to-GDP gaps (actual-trend),2000Q4,-26.8655
+JP,C,Credit-to-GDP gaps (actual-trend),2001Q1,-28.3322
+JP,C,Credit-to-GDP gaps (actual-trend),2001Q2,-29.6498
+JP,C,Credit-to-GDP gaps (actual-trend),2001Q3,-28.5782
+JP,C,Credit-to-GDP gaps (actual-trend),2001Q4,-26.7701
+JP,C,Credit-to-GDP gaps (actual-trend),2002Q1,-26.3916
+JP,C,Credit-to-GDP gaps (actual-trend),2002Q2,-26.3719
+JP,C,Credit-to-GDP gaps (actual-trend),2002Q3,-27.4565
+JP,C,Credit-to-GDP gaps (actual-trend),2002Q4,-25.5309
+JP,C,Credit-to-GDP gaps (actual-trend),2003Q1,-26.388
+JP,C,Credit-to-GDP gaps (actual-trend),2003Q2,-27.9355
+JP,C,Credit-to-GDP gaps (actual-trend),2003Q3,-28.5562
+JP,C,Credit-to-GDP gaps (actual-trend),2003Q4,-26.9749
+JP,C,Credit-to-GDP gaps (actual-trend),2004Q1,-28.3563
+JP,C,Credit-to-GDP gaps (actual-trend),2004Q2,-29.0602
+JP,C,Credit-to-GDP gaps (actual-trend),2004Q3,-28.8427
+JP,C,Credit-to-GDP gaps (actual-trend),2004Q4,-26.8072
+JP,C,Credit-to-GDP gaps (actual-trend),2005Q1,-24.3598
+JP,C,Credit-to-GDP gaps (actual-trend),2005Q2,-24.7584
+JP,C,Credit-to-GDP gaps (actual-trend),2005Q3,-22.3961
+JP,C,Credit-to-GDP gaps (actual-trend),2005Q4,-20.6391
+JP,C,Credit-to-GDP gaps (actual-trend),2006Q1,-19.9232
+JP,C,Credit-to-GDP gaps (actual-trend),2006Q2,-19.2671
+JP,C,Credit-to-GDP gaps (actual-trend),2006Q3,-17.2443
+JP,C,Credit-to-GDP gaps (actual-trend),2006Q4,-15.8347
+JP,C,Credit-to-GDP gaps (actual-trend),2007Q1,-15.422
+JP,C,Credit-to-GDP gaps (actual-trend),2007Q2,-17.0223
+JP,C,Credit-to-GDP gaps (actual-trend),2007Q3,-14.9438
+JP,C,Credit-to-GDP gaps (actual-trend),2007Q4,-12.6764
+JP,C,Credit-to-GDP gaps (actual-trend),2008Q1,-13.2084
+JP,C,Credit-to-GDP gaps (actual-trend),2008Q2,-9.8906
+JP,C,Credit-to-GDP gaps (actual-trend),2008Q3,-8.2801
+JP,C,Credit-to-GDP gaps (actual-trend),2008Q4,-3.4204
+JP,C,Credit-to-GDP gaps (actual-trend),2009Q1,-1.3461
+JP,C,Credit-to-GDP gaps (actual-trend),2009Q2,0.9653
+JP,C,Credit-to-GDP gaps (actual-trend),2009Q3,3.5141
+JP,C,Credit-to-GDP gaps (actual-trend),2009Q4,5.1611
+JP,C,Credit-to-GDP gaps (actual-trend),2010Q1,2.7448
+JP,C,Credit-to-GDP gaps (actual-trend),2010Q2,1.5384
+JP,C,Credit-to-GDP gaps (actual-trend),2010Q3,-0.412
+JP,C,Credit-to-GDP gaps (actual-trend),2010Q4,-1.3471
+JP,C,Credit-to-GDP gaps (actual-trend),2011Q1,-1.6941
+JP,C,Credit-to-GDP gaps (actual-trend),2011Q2,-0.9434
+JP,C,Credit-to-GDP gaps (actual-trend),2011Q3,0.4786
+JP,C,Credit-to-GDP gaps (actual-trend),2011Q4,1.4176
+JP,C,Credit-to-GDP gaps (actual-trend),2012Q1,0.6915
+JP,C,Credit-to-GDP gaps (actual-trend),2012Q2,-1.7201
+JP,C,Credit-to-GDP gaps (actual-trend),2012Q3,-0.1635
+JP,C,Credit-to-GDP gaps (actual-trend),2012Q4,1.5318
+JP,C,Credit-to-GDP gaps (actual-trend),2013Q1,2.0503
+JP,C,Credit-to-GDP gaps (actual-trend),2013Q2,1.228
+JP,C,Credit-to-GDP gaps (actual-trend),2013Q3,1.3728
+JP,C,Credit-to-GDP gaps (actual-trend),2013Q4,1.925
+JP,C,Credit-to-GDP gaps (actual-trend),2014Q1,1.2104
+JP,C,Credit-to-GDP gaps (actual-trend),2014Q2,-0.2345
+JP,C,Credit-to-GDP gaps (actual-trend),2014Q3,0.3105
+JP,C,Credit-to-GDP gaps (actual-trend),2014Q4,1.2075
+JP,C,Credit-to-GDP gaps (actual-trend),2015Q1,0.2419
+JP,C,Credit-to-GDP gaps (actual-trend),2015Q2,-1.5708
+JP,C,Credit-to-GDP gaps (actual-trend),2015Q3,-1.5938
+JP,C,Credit-to-GDP gaps (actual-trend),2015Q4,-0.6398
+JP,C,Credit-to-GDP gaps (actual-trend),2016Q1,-1.0284
+JP,C,Credit-to-GDP gaps (actual-trend),2016Q2,0.0633
+JP,C,Credit-to-GDP gaps (actual-trend),2016Q3,1.9047
+JP,C,Credit-to-GDP gaps (actual-trend),2016Q4,3.6939
+JP,C,Credit-to-GDP gaps (actual-trend),2017Q1,4.453
+JP,C,Credit-to-GDP gaps (actual-trend),2017Q2,4.0799
+JP,C,Credit-to-GDP gaps (actual-trend),2017Q3,4.3718
+JP,C,Credit-to-GDP gaps (actual-trend),2017Q4,4.8876
+JP,C,Credit-to-GDP gaps (actual-trend),2018Q1,4.6648
+JP,C,Credit-to-GDP gaps (actual-trend),2018Q2,5.4627
+JP,C,Credit-to-GDP gaps (actual-trend),2018Q3,6.8373
+JP,C,Credit-to-GDP gaps (actual-trend),2018Q4,8.4738
+JP,C,Credit-to-GDP gaps (actual-trend),2019Q1,8.8518
+JP,C,Credit-to-GDP gaps (actual-trend),2019Q2,9.2542
+JP,C,Credit-to-GDP gaps (actual-trend),2019Q3,10.5045
+JP,C,Credit-to-GDP gaps (actual-trend),2019Q4,12.6264
+JP,C,Credit-to-GDP gaps (actual-trend),2020Q1,13.1958
+JP,C,Credit-to-GDP gaps (actual-trend),2020Q2,23.7384
+JP,C,Credit-to-GDP gaps (actual-trend),2020Q3,26.1791
+JP,C,Credit-to-GDP gaps (actual-trend),2020Q4,27.0421
+JP,C,Credit-to-GDP gaps (actual-trend),2021Q1,26.5631
+JP,C,Credit-to-GDP gaps (actual-trend),2021Q2,22.9842
+JP,C,Credit-to-GDP gaps (actual-trend),2021Q3,21.3604
+JP,C,Credit-to-GDP gaps (actual-trend),2021Q4,21.3163
+JP,C,Credit-to-GDP gaps (actual-trend),2022Q1,20.0626
+JP,C,Credit-to-GDP gaps (actual-trend),2022Q2,19.9419
+JP,C,Credit-to-GDP gaps (actual-trend),2022Q3,18.9306
+JP,C,Credit-to-GDP gaps (actual-trend),2022Q4,18.3174
+JP,C,Credit-to-GDP gaps (actual-trend),2023Q1,15.7567
+JP,C,Credit-to-GDP gaps (actual-trend),2023Q2,13.7375
+JP,C,Credit-to-GDP gaps (actual-trend),2023Q3,12.0831
+JP,C,Credit-to-GDP gaps (actual-trend),2023Q4,10.869
+JP,C,Credit-to-GDP gaps (actual-trend),2024Q1,10.4043
+JP,C,Credit-to-GDP gaps (actual-trend),2024Q2,9.4427
+JP,C,Credit-to-GDP gaps (actual-trend),2024Q3,6.7199
+JP,C,Credit-to-GDP gaps (actual-trend),2024Q4,7.2338
+JP,C,Credit-to-GDP gaps (actual-trend),2025Q1,4.6087
+JP,C,Credit-to-GDP gaps (actual-trend),2025Q2,3.3488
+JP,C,Credit-to-GDP gaps (actual-trend),2025Q3,4.1848
+JP,C,Credit-to-GDP gaps (actual-trend),2025Q4,5.8727
+JP,C,Credit-to-GDP gaps (actual-trend),2026Q1,5.6702
+KR,A,Credit-to-GDP ratios (actual data),1962Q4,26.342641227878
+KR,A,Credit-to-GDP ratios (actual data),1963Q1,26.871724199183
+KR,A,Credit-to-GDP ratios (actual data),1963Q2,27.059147956179
+KR,A,Credit-to-GDP ratios (actual data),1963Q3,26.270795959801
+KR,A,Credit-to-GDP ratios (actual data),1963Q4,23.7441561406
+KR,A,Credit-to-GDP ratios (actual data),1964Q1,22.91946538521
+KR,A,Credit-to-GDP ratios (actual data),1964Q2,22.172613079213
+KR,A,Credit-to-GDP ratios (actual data),1964Q3,21.216990522747
+KR,A,Credit-to-GDP ratios (actual data),1964Q4,19.484532783979
+KR,A,Credit-to-GDP ratios (actual data),1965Q1,19.507689267044
+KR,A,Credit-to-GDP ratios (actual data),1965Q2,20.401502120293
+KR,A,Credit-to-GDP ratios (actual data),1965Q3,20.870110609972
+KR,A,Credit-to-GDP ratios (actual data),1965Q4,23.474002830013
+KR,A,Credit-to-GDP ratios (actual data),1966Q1,23.893517669282
+KR,A,Credit-to-GDP ratios (actual data),1966Q2,24.968029456833
+KR,A,Credit-to-GDP ratios (actual data),1966Q3,25.658446353272
+KR,A,Credit-to-GDP ratios (actual data),1966Q4,26.032655255866
+KR,A,Credit-to-GDP ratios (actual data),1967Q1,27.08543712023
+KR,A,Credit-to-GDP ratios (actual data),1967Q2,30.182898446766
+KR,A,Credit-to-GDP ratios (actual data),1967Q3,34.100862340431
+KR,A,Credit-to-GDP ratios (actual data),1967Q4,35.931147567987
+KR,A,Credit-to-GDP ratios (actual data),1968Q1,35.373495463593
+KR,A,Credit-to-GDP ratios (actual data),1968Q2,36.098794591205
+KR,A,Credit-to-GDP ratios (actual data),1968Q3,40.462935114962
+KR,A,Credit-to-GDP ratios (actual data),1968Q4,44.122771902111
+KR,A,Credit-to-GDP ratios (actual data),1969Q1,48.160926677043
+KR,A,Credit-to-GDP ratios (actual data),1969Q2,52.689237920078
+KR,A,Credit-to-GDP ratios (actual data),1969Q3,54.852964604571
+KR,A,Credit-to-GDP ratios (actual data),1969Q4,53.56255264654
+KR,A,Credit-to-GDP ratios (actual data),1970Q1,50.989028910103
+KR,A,Credit-to-GDP ratios (actual data),1970Q2,51.693708630504
+KR,A,Credit-to-GDP ratios (actual data),1970Q3,53.301131123417
+KR,A,Credit-to-GDP ratios (actual data),1970Q4,54.603181630521
+KR,A,Credit-to-GDP ratios (actual data),1971Q1,55.516120090485
+KR,A,Credit-to-GDP ratios (actual data),1971Q2,55.664658916306
+KR,A,Credit-to-GDP ratios (actual data),1971Q3,57.753095116136
+KR,A,Credit-to-GDP ratios (actual data),1971Q4,57.97860852173
+KR,A,Credit-to-GDP ratios (actual data),1972Q1,58.477250714052
+KR,A,Credit-to-GDP ratios (actual data),1972Q2,59.035457056626
+KR,A,Credit-to-GDP ratios (actual data),1972Q3,59.708261455253
+KR,A,Credit-to-GDP ratios (actual data),1972Q4,57.30754622165
+KR,A,Credit-to-GDP ratios (actual data),1973Q1,57.38195817281
+KR,A,Credit-to-GDP ratios (actual data),1973Q2,58.217846774846
+KR,A,Credit-to-GDP ratios (actual data),1973Q3,58.385879734521
+KR,A,Credit-to-GDP ratios (actual data),1973Q4,58.491212642352
+KR,A,Credit-to-GDP ratios (actual data),1974Q1,58.069400930749
+KR,A,Credit-to-GDP ratios (actual data),1974Q2,58.574925690985
+KR,A,Credit-to-GDP ratios (actual data),1974Q3,60.674243309137
+KR,A,Credit-to-GDP ratios (actual data),1974Q4,60.434267823884
+KR,A,Credit-to-GDP ratios (actual data),1975Q1,56.601947078013
+KR,A,Credit-to-GDP ratios (actual data),1975Q2,55.363687949891
+KR,A,Credit-to-GDP ratios (actual data),1975Q3,54.956821108872
+KR,A,Credit-to-GDP ratios (actual data),1975Q4,53.645240918624
+KR,A,Credit-to-GDP ratios (actual data),1976Q1,52.949228816202
+KR,A,Credit-to-GDP ratios (actual data),1976Q2,50.954381591541
+KR,A,Credit-to-GDP ratios (actual data),1976Q3,51.485554496815
+KR,A,Credit-to-GDP ratios (actual data),1976Q4,50.749561687462
+KR,A,Credit-to-GDP ratios (actual data),1977Q1,50.33982954397
+KR,A,Credit-to-GDP ratios (actual data),1977Q2,50.796531393471
+KR,A,Credit-to-GDP ratios (actual data),1977Q3,52.219739878261
+KR,A,Credit-to-GDP ratios (actual data),1977Q4,51.365834125642
+KR,A,Credit-to-GDP ratios (actual data),1978Q1,53.23114292601
+KR,A,Credit-to-GDP ratios (actual data),1978Q2,55.029555100448
+KR,A,Credit-to-GDP ratios (actual data),1978Q3,55.054921569781
+KR,A,Credit-to-GDP ratios (actual data),1978Q4,55.512953333775
+KR,A,Credit-to-GDP ratios (actual data),1979Q1,55.985410691624
+KR,A,Credit-to-GDP ratios (actual data),1979Q2,56.489722237282
+KR,A,Credit-to-GDP ratios (actual data),1979Q3,59.529604129178
+KR,A,Credit-to-GDP ratios (actual data),1979Q4,61.535529627394
+KR,A,Credit-to-GDP ratios (actual data),1980Q1,68.323215700512
+KR,A,Credit-to-GDP ratios (actual data),1980Q2,70.586588102362
+KR,A,Credit-to-GDP ratios (actual data),1980Q3,73.748901014575
+KR,A,Credit-to-GDP ratios (actual data),1980Q4,76.304774519608
+KR,A,Credit-to-GDP ratios (actual data),1981Q1,76.854745191925
+KR,A,Credit-to-GDP ratios (actual data),1981Q2,78.58089718425
+KR,A,Credit-to-GDP ratios (actual data),1981Q3,79.45623683714
+KR,A,Credit-to-GDP ratios (actual data),1981Q4,81.925001318103
+KR,A,Credit-to-GDP ratios (actual data),1982Q1,83.017432803267
+KR,A,Credit-to-GDP ratios (actual data),1982Q2,82.776980028295
+KR,A,Credit-to-GDP ratios (actual data),1982Q3,85.646398892552
+KR,A,Credit-to-GDP ratios (actual data),1982Q4,91.755139949968
+KR,A,Credit-to-GDP ratios (actual data),1983Q1,92.951008027836
+KR,A,Credit-to-GDP ratios (actual data),1983Q2,94.258315351501
+KR,A,Credit-to-GDP ratios (actual data),1983Q3,92.82484650793
+KR,A,Credit-to-GDP ratios (actual data),1983Q4,93.718339210262
+KR,A,Credit-to-GDP ratios (actual data),1984Q1,94.162837477419
+KR,A,Credit-to-GDP ratios (actual data),1984Q2,95.392657213257
+KR,A,Credit-to-GDP ratios (actual data),1984Q3,95.952935697343
+KR,A,Credit-to-GDP ratios (actual data),1984Q4,97.423528559901
+KR,A,Credit-to-GDP ratios (actual data),1985Q1,99.996523825346
+KR,A,Credit-to-GDP ratios (actual data),1985Q2,103.15270214086
+KR,A,Credit-to-GDP ratios (actual data),1985Q3,105.65959181112
+KR,A,Credit-to-GDP ratios (actual data),1985Q4,104.09832718717
+KR,A,Credit-to-GDP ratios (actual data),1986Q1,102.71527740472
+KR,A,Credit-to-GDP ratios (actual data),1986Q2,104.05320202431
+KR,A,Credit-to-GDP ratios (actual data),1986Q3,102.51176353904
+KR,A,Credit-to-GDP ratios (actual data),1986Q4,101.90647267715
+KR,A,Credit-to-GDP ratios (actual data),1987Q1,100.32429980829
+KR,A,Credit-to-GDP ratios (actual data),1987Q2,99.681681112402
+KR,A,Credit-to-GDP ratios (actual data),1987Q3,99.148469100006
+KR,A,Credit-to-GDP ratios (actual data),1987Q4,97.371340793756
+KR,A,Credit-to-GDP ratios (actual data),1988Q1,93.916366777507
+KR,A,Credit-to-GDP ratios (actual data),1988Q2,95.585586163147
+KR,A,Credit-to-GDP ratios (actual data),1988Q3,94.169363898034
+KR,A,Credit-to-GDP ratios (actual data),1988Q4,92.699256104072
+KR,A,Credit-to-GDP ratios (actual data),1989Q1,95.595777334969
+KR,A,Credit-to-GDP ratios (actual data),1989Q2,100.96929306213
+KR,A,Credit-to-GDP ratios (actual data),1989Q3,104.01787847692
+KR,A,Credit-to-GDP ratios (actual data),1989Q4,105.06846997556
+KR,A,Credit-to-GDP ratios (actual data),1990Q1,105.25768227691
+KR,A,Credit-to-GDP ratios (actual data),1990Q2,106.89541887308
+KR,A,Credit-to-GDP ratios (actual data),1990Q3,107.16155849631
+KR,A,Credit-to-GDP ratios (actual data),1990Q4,112.4071753466
+KR,A,Credit-to-GDP ratios (actual data),1991Q1,116.10667726734
+KR,A,Credit-to-GDP ratios (actual data),1991Q2,116.28675751199
+KR,A,Credit-to-GDP ratios (actual data),1991Q3,118.33073539781
+KR,A,Credit-to-GDP ratios (actual data),1991Q4,118.34749112427
+KR,A,Credit-to-GDP ratios (actual data),1992Q1,118.92673694644
+KR,A,Credit-to-GDP ratios (actual data),1992Q2,119.20568743292
+KR,A,Credit-to-GDP ratios (actual data),1992Q3,120.69671900413
+KR,A,Credit-to-GDP ratios (actual data),1992Q4,122.27271593206
+KR,A,Credit-to-GDP ratios (actual data),1993Q1,123.52722543726
+KR,A,Credit-to-GDP ratios (actual data),1993Q2,125.15968791084
+KR,A,Credit-to-GDP ratios (actual data),1993Q3,128.26254400345
+KR,A,Credit-to-GDP ratios (actual data),1993Q4,126.66012988397
+KR,A,Credit-to-GDP ratios (actual data),1994Q1,127.39628451825
+KR,A,Credit-to-GDP ratios (actual data),1994Q2,128.9025697024
+KR,A,Credit-to-GDP ratios (actual data),1994Q3,131.76607122332
+KR,A,Credit-to-GDP ratios (actual data),1994Q4,130.75352056233
+KR,A,Credit-to-GDP ratios (actual data),1995Q1,131.32444598326
+KR,A,Credit-to-GDP ratios (actual data),1995Q2,132.08446638696
+KR,A,Credit-to-GDP ratios (actual data),1995Q3,132.20458771863
+KR,A,Credit-to-GDP ratios (actual data),1995Q4,131.8643151576
+KR,A,Credit-to-GDP ratios (actual data),1996Q1,133.16884424618
+KR,A,Credit-to-GDP ratios (actual data),1996Q2,135.6740614262
+KR,A,Credit-to-GDP ratios (actual data),1996Q3,139.98714925866
+KR,A,Credit-to-GDP ratios (actual data),1996Q4,140.74403566024
+KR,A,Credit-to-GDP ratios (actual data),1997Q1,145.82608675889
+KR,A,Credit-to-GDP ratios (actual data),1997Q2,146.61465665164
+KR,A,Credit-to-GDP ratios (actual data),1997Q3,148.25809732006
+KR,A,Credit-to-GDP ratios (actual data),1997Q4,155.04333374802
+KR,A,Credit-to-GDP ratios (actual data),1998Q1,153.59773142822
+KR,A,Credit-to-GDP ratios (actual data),1998Q2,153.24282459509
+KR,A,Credit-to-GDP ratios (actual data),1998Q3,156.96046936373
+KR,A,Credit-to-GDP ratios (actual data),1998Q4,153.69986744814
+KR,A,Credit-to-GDP ratios (actual data),1999Q1,159.0504212185
+KR,A,Credit-to-GDP ratios (actual data),1999Q2,151.36183145811
+KR,A,Credit-to-GDP ratios (actual data),1999Q3,147.81129570201
+KR,A,Credit-to-GDP ratios (actual data),1999Q4,139.58058552506
+KR,A,Credit-to-GDP ratios (actual data),2000Q1,139.3921701877
+KR,A,Credit-to-GDP ratios (actual data),2000Q2,136.26357280729
+KR,A,Credit-to-GDP ratios (actual data),2000Q3,136.08891310529
+KR,A,Credit-to-GDP ratios (actual data),2000Q4,133.38032106091
+KR,A,Credit-to-GDP ratios (actual data),2001Q1,134.29574416291
+KR,A,Credit-to-GDP ratios (actual data),2001Q2,133.93898962808
+KR,A,Credit-to-GDP ratios (actual data),2001Q3,135.85961765247
+KR,A,Credit-to-GDP ratios (actual data),2001Q4,134.68941387011
+KR,A,Credit-to-GDP ratios (actual data),2002Q1,137.37356504936
+KR,A,Credit-to-GDP ratios (actual data),2002Q2,139.47924351961
+KR,A,Credit-to-GDP ratios (actual data),2002Q3,140.95894746227
+KR,A,Credit-to-GDP ratios (actual data),2002Q4,141.04875866711
+KR,A,Credit-to-GDP ratios (actual data),2003Q1,140.98983022329
+KR,A,Credit-to-GDP ratios (actual data),2003Q2,140.05351739438
+KR,A,Credit-to-GDP ratios (actual data),2003Q3,139.23751891084
+KR,A,Credit-to-GDP ratios (actual data),2003Q4,138.02978766268
+KR,A,Credit-to-GDP ratios (actual data),2004Q1,136.18685036863
+KR,A,Credit-to-GDP ratios (actual data),2004Q2,133.74200295884
+KR,A,Credit-to-GDP ratios (actual data),2004Q3,132.48780222572
+KR,A,Credit-to-GDP ratios (actual data),2004Q4,129.69250253849
+KR,A,Credit-to-GDP ratios (actual data),2005Q1,129.13039614275
+KR,A,Credit-to-GDP ratios (actual data),2005Q2,130.67592583887
+KR,A,Credit-to-GDP ratios (actual data),2005Q3,130.92213653131
+KR,A,Credit-to-GDP ratios (actual data),2005Q4,131.69092182049
+KR,A,Credit-to-GDP ratios (actual data),2006Q1,132.6573918828
+KR,A,Credit-to-GDP ratios (actual data),2006Q2,136.20088159262
+KR,A,Credit-to-GDP ratios (actual data),2006Q3,138.89485537025
+KR,A,Credit-to-GDP ratios (actual data),2006Q4,142.20665935042
+KR,A,Credit-to-GDP ratios (actual data),2007Q1,144.06856948717
+KR,A,Credit-to-GDP ratios (actual data),2007Q2,145.68423100193
+KR,A,Credit-to-GDP ratios (actual data),2007Q3,146.59746618644
+KR,A,Credit-to-GDP ratios (actual data),2007Q4,147.90329766205
+KR,A,Credit-to-GDP ratios (actual data),2008Q1,151.28470686223
+KR,A,Credit-to-GDP ratios (actual data),2008Q2,154.85558044861
+KR,A,Credit-to-GDP ratios (actual data),2008Q3,157.95538465584
+KR,A,Credit-to-GDP ratios (actual data),2008Q4,161.52077394921
+KR,A,Credit-to-GDP ratios (actual data),2009Q1,163.74023765649
+KR,A,Credit-to-GDP ratios (actual data),2009Q2,166.13103000569
+KR,A,Credit-to-GDP ratios (actual data),2009Q3,167.20844711185
+KR,A,Credit-to-GDP ratios (actual data),2009Q4,166.60886134889
+KR,A,Credit-to-GDP ratios (actual data),2010Q1,164.63869570295
+KR,A,Credit-to-GDP ratios (actual data),2010Q2,164.07036128897
+KR,A,Credit-to-GDP ratios (actual data),2010Q3,163.36701099968
+KR,A,Credit-to-GDP ratios (actual data),2010Q4,161.75471390911
+KR,A,Credit-to-GDP ratios (actual data),2011Q1,162.06242260104
+KR,A,Credit-to-GDP ratios (actual data),2011Q2,163.24592573011
+KR,A,Credit-to-GDP ratios (actual data),2011Q3,165.75869130941
+KR,A,Credit-to-GDP ratios (actual data),2011Q4,165.70312243282
+KR,A,Credit-to-GDP ratios (actual data),2012Q1,166.09450353819
+KR,A,Credit-to-GDP ratios (actual data),2012Q2,167.21381342982
+KR,A,Credit-to-GDP ratios (actual data),2012Q3,168.68262665737
+KR,A,Credit-to-GDP ratios (actual data),2012Q4,167.81427287145
+KR,A,Credit-to-GDP ratios (actual data),2013Q1,169.69480805817
+KR,A,Credit-to-GDP ratios (actual data),2013Q2,169.79059172774
+KR,A,Credit-to-GDP ratios (actual data),2013Q3,169.37326180715
+KR,A,Credit-to-GDP ratios (actual data),2013Q4,168.35702384728
+KR,A,Credit-to-GDP ratios (actual data),2014Q1,168.58737614463
+KR,A,Credit-to-GDP ratios (actual data),2014Q2,168.67202487221
+KR,A,Credit-to-GDP ratios (actual data),2014Q3,170.58493190677
+KR,A,Credit-to-GDP ratios (actual data),2014Q4,171.34352856636
+KR,A,Credit-to-GDP ratios (actual data),2015Q1,171.20562278739
+KR,A,Credit-to-GDP ratios (actual data),2015Q2,171.1977937368
+KR,A,Credit-to-GDP ratios (actual data),2015Q3,172.24041957397
+KR,A,Credit-to-GDP ratios (actual data),2015Q4,172.26920478391
+KR,A,Credit-to-GDP ratios (actual data),2016Q1,172.00917498254
+KR,A,Credit-to-GDP ratios (actual data),2016Q2,172.26438455415
+KR,A,Credit-to-GDP ratios (actual data),2016Q3,172.22859825386
+KR,A,Credit-to-GDP ratios (actual data),2016Q4,172.57105270595
+KR,A,Credit-to-GDP ratios (actual data),2017Q1,171.97444545356
+KR,A,Credit-to-GDP ratios (actual data),2017Q2,173.25483378663
+KR,A,Credit-to-GDP ratios (actual data),2017Q3,173.05191364568
+KR,A,Credit-to-GDP ratios (actual data),2017Q4,172.63991043896
+KR,A,Credit-to-GDP ratios (actual data),2018Q1,173.39265989665
+KR,A,Credit-to-GDP ratios (actual data),2018Q2,174.41965845319
+KR,A,Credit-to-GDP ratios (actual data),2018Q3,176.19841959136
+KR,A,Credit-to-GDP ratios (actual data),2018Q4,177.20693013289
+KR,A,Credit-to-GDP ratios (actual data),2019Q1,178.4422350506
+KR,A,Credit-to-GDP ratios (actual data),2019Q2,180.87158531937
+KR,A,Credit-to-GDP ratios (actual data),2019Q3,183.1271486347
+KR,A,Credit-to-GDP ratios (actual data),2019Q4,185.07770505877
+KR,A,Credit-to-GDP ratios (actual data),2020Q1,188.55473284471
+KR,A,Credit-to-GDP ratios (actual data),2020Q2,193.9571263777
+KR,A,Credit-to-GDP ratios (actual data),2020Q3,198.06424508995
+KR,A,Credit-to-GDP ratios (actual data),2020Q4,200.63118345623
+KR,A,Credit-to-GDP ratios (actual data),2021Q1,202.65763609963
+KR,A,Credit-to-GDP ratios (actual data),2021Q2,203.92850814321
+KR,A,Credit-to-GDP ratios (actual data),2021Q3,205.16605325363
+KR,A,Credit-to-GDP ratios (actual data),2021Q4,205.43353078927
+KR,A,Credit-to-GDP ratios (actual data),2022Q1,204.54608515011
+KR,A,Credit-to-GDP ratios (actual data),2022Q2,205.80264701698
+KR,A,Credit-to-GDP ratios (actual data),2022Q3,207.77262908936
+KR,A,Credit-to-GDP ratios (actual data),2022Q4,208.57347984618
+KR,A,Credit-to-GDP ratios (actual data),2023Q1,208.23218994428
+KR,A,Credit-to-GDP ratios (actual data),2023Q2,208.35403655856
+KR,A,Credit-to-GDP ratios (actual data),2023Q3,208.77371559844
+KR,A,Credit-to-GDP ratios (actual data),2023Q4,205.99825351293
+KR,A,Credit-to-GDP ratios (actual data),2024Q1,203.25225568526
+KR,A,Credit-to-GDP ratios (actual data),2024Q2,201.61853367432
+KR,A,Credit-to-GDP ratios (actual data),2024Q3,200.72378208628
+KR,A,Credit-to-GDP ratios (actual data),2024Q4,199.83692797021
+KR,A,Credit-to-GDP ratios (actual data),2025Q1,200.00594695149
+KR,A,Credit-to-GDP ratios (actual data),2025Q2,199.67691966297
+KR,A,Credit-to-GDP ratios (actual data),2025Q3,199.40624333398
+KR,A,Credit-to-GDP ratios (actual data),2025Q4,198.03369456886
+KR,A,Credit-to-GDP ratios (actual data),2026Q1,191.48130258004
+SG,C,Credit-to-GDP gaps (actual-trend),1980Q4,7.7464
+SG,C,Credit-to-GDP gaps (actual-trend),1981Q1,7.5737
+SG,C,Credit-to-GDP gaps (actual-trend),1981Q2,9.486
+SG,C,Credit-to-GDP gaps (actual-trend),1981Q3,12.3922
+SG,C,Credit-to-GDP gaps (actual-trend),1981Q4,11.9667
+SG,C,Credit-to-GDP gaps (actual-trend),1982Q1,9.6745
+SG,C,Credit-to-GDP gaps (actual-trend),1982Q2,7.0321
+SG,C,Credit-to-GDP gaps (actual-trend),1982Q3,9.5916
+SG,C,Credit-to-GDP gaps (actual-trend),1982Q4,13.261
+SG,C,Credit-to-GDP gaps (actual-trend),1983Q1,11.6219
+SG,C,Credit-to-GDP gaps (actual-trend),1983Q2,12.6903
+SG,C,Credit-to-GDP gaps (actual-trend),1983Q3,10.3799
+SG,C,Credit-to-GDP gaps (actual-trend),1983Q4,14.7035
+SG,C,Credit-to-GDP gaps (actual-trend),1984Q1,12.0209
+SG,C,Credit-to-GDP gaps (actual-trend),1984Q2,9.572
+SG,C,Credit-to-GDP gaps (actual-trend),1984Q3,7.2347
+SG,C,Credit-to-GDP gaps (actual-trend),1984Q4,7.1121
+SG,C,Credit-to-GDP gaps (actual-trend),1985Q1,3.9406
+SG,C,Credit-to-GDP gaps (actual-trend),1985Q2,2.9437
+SG,C,Credit-to-GDP gaps (actual-trend),1985Q3,0.8025
+SG,C,Credit-to-GDP gaps (actual-trend),1985Q4,-2.8427
+SG,C,Credit-to-GDP gaps (actual-trend),1986Q1,-1.2088
+SG,C,Credit-to-GDP gaps (actual-trend),1986Q2,-3.3979
+SG,C,Credit-to-GDP gaps (actual-trend),1986Q3,-5.1646
+SG,C,Credit-to-GDP gaps (actual-trend),1986Q4,-11.0134
+SG,C,Credit-to-GDP gaps (actual-trend),1987Q1,-15.2908
+SG,C,Credit-to-GDP gaps (actual-trend),1987Q2,-14.8307
+SG,C,Credit-to-GDP gaps (actual-trend),1987Q3,-15.055
+SG,C,Credit-to-GDP gaps (actual-trend),1987Q4,-19.6641
+SG,C,Credit-to-GDP gaps (actual-trend),1988Q1,-23.2986
+SG,C,Credit-to-GDP gaps (actual-trend),1988Q2,-19.9348
+SG,C,Credit-to-GDP gaps (actual-trend),1988Q3,-24.5446
+SG,C,Credit-to-GDP gaps (actual-trend),1988Q4,-23.7276
+SG,C,Credit-to-GDP gaps (actual-trend),1989Q1,-23.4722
+SG,C,Credit-to-GDP gaps (actual-trend),1989Q2,-21.1222
+SG,C,Credit-to-GDP gaps (actual-trend),1989Q3,-15.2201
+SG,C,Credit-to-GDP gaps (actual-trend),1989Q4,-12.3807
+SG,C,Credit-to-GDP gaps (actual-trend),1990Q1,-16.3727
+SG,C,Credit-to-GDP gaps (actual-trend),1990Q2,-14.4804
+SG,C,Credit-to-GDP gaps (actual-trend),1990Q3,-16.6233
+SG,C,Credit-to-GDP gaps (actual-trend),1990Q4,-15.9855
+SG,C,Credit-to-GDP gaps (actual-trend),1991Q1,-11.5478
+SG,C,Credit-to-GDP gaps (actual-trend),1991Q2,-15.489
+SG,C,Credit-to-GDP gaps (actual-trend),1991Q3,-14.7829
+SG,C,Credit-to-GDP gaps (actual-trend),1991Q4,-14.1508
+SG,C,Credit-to-GDP gaps (actual-trend),1992Q1,-15.7563
+SG,C,Credit-to-GDP gaps (actual-trend),1992Q2,-11.6504
+SG,C,Credit-to-GDP gaps (actual-trend),1992Q3,-11.8721
+SG,C,Credit-to-GDP gaps (actual-trend),1992Q4,-12.3017
+SG,C,Credit-to-GDP gaps (actual-trend),1993Q1,-12.4155
+SG,C,Credit-to-GDP gaps (actual-trend),1993Q2,-11.138
+SG,C,Credit-to-GDP gaps (actual-trend),1993Q3,-12.0044
+SG,C,Credit-to-GDP gaps (actual-trend),1993Q4,-11.4841
+SG,C,Credit-to-GDP gaps (actual-trend),1994Q1,-12.0572
+SG,C,Credit-to-GDP gaps (actual-trend),1994Q2,-11.4381
+SG,C,Credit-to-GDP gaps (actual-trend),1994Q3,-9.5353
+SG,C,Credit-to-GDP gaps (actual-trend),1994Q4,-11.3548
+SG,C,Credit-to-GDP gaps (actual-trend),1995Q1,-5.5863
+SG,C,Credit-to-GDP gaps (actual-trend),1995Q2,1.2454
+SG,C,Credit-to-GDP gaps (actual-trend),1995Q3,2.119
+SG,C,Credit-to-GDP gaps (actual-trend),1995Q4,6.2603
+SG,C,Credit-to-GDP gaps (actual-trend),1996Q1,6.2587
+SG,C,Credit-to-GDP gaps (actual-trend),1996Q2,11.7745
+SG,C,Credit-to-GDP gaps (actual-trend),1996Q3,12.1159
+SG,C,Credit-to-GDP gaps (actual-trend),1996Q4,12.9153
+SG,C,Credit-to-GDP gaps (actual-trend),1997Q1,14.4682
+SG,C,Credit-to-GDP gaps (actual-trend),1997Q2,13.241
+SG,C,Credit-to-GDP gaps (actual-trend),1997Q3,17.0835
+SG,C,Credit-to-GDP gaps (actual-trend),1997Q4,15.6223
+SG,C,Credit-to-GDP gaps (actual-trend),1998Q1,10.1038
+SG,C,Credit-to-GDP gaps (actual-trend),1998Q2,9.0789
+SG,C,Credit-to-GDP gaps (actual-trend),1998Q3,6.9228
+SG,C,Credit-to-GDP gaps (actual-trend),1998Q4,9.0436
+SG,C,Credit-to-GDP gaps (actual-trend),1999Q1,7.9777
+SG,C,Credit-to-GDP gaps (actual-trend),1999Q2,7.2927
+SG,C,Credit-to-GDP gaps (actual-trend),1999Q3,4.0301
+SG,C,Credit-to-GDP gaps (actual-trend),1999Q4,2.9468
+SG,C,Credit-to-GDP gaps (actual-trend),2000Q1,-2.1059
+SG,C,Credit-to-GDP gaps (actual-trend),2000Q2,-1.0776
+SG,C,Credit-to-GDP gaps (actual-trend),2000Q3,-2.9868
+SG,C,Credit-to-GDP gaps (actual-trend),2000Q4,-3.957
+SG,C,Credit-to-GDP gaps (actual-trend),2001Q1,-2.202
+SG,C,Credit-to-GDP gaps (actual-trend),2001Q2,0.09
+SG,C,Credit-to-GDP gaps (actual-trend),2001Q3,4.2348
+SG,C,Credit-to-GDP gaps (actual-trend),2001Q4,12.174
+SG,C,Credit-to-GDP gaps (actual-trend),2002Q1,10.2388
+SG,C,Credit-to-GDP gaps (actual-trend),2002Q2,9.0586
+SG,C,Credit-to-GDP gaps (actual-trend),2002Q3,8.0473
+SG,C,Credit-to-GDP gaps (actual-trend),2002Q4,4.5429
+SG,C,Credit-to-GDP gaps (actual-trend),2003Q1,1.1975
+SG,C,Credit-to-GDP gaps (actual-trend),2003Q2,8.4552
+SG,C,Credit-to-GDP gaps (actual-trend),2003Q3,6.8329
+SG,C,Credit-to-GDP gaps (actual-trend),2003Q4,6.4549
+SG,C,Credit-to-GDP gaps (actual-trend),2004Q1,-0.7544
+SG,C,Credit-to-GDP gaps (actual-trend),2004Q2,-5.6837
+SG,C,Credit-to-GDP gaps (actual-trend),2004Q3,-10.7654
+SG,C,Credit-to-GDP gaps (actual-trend),2004Q4,-12.8227
+SG,C,Credit-to-GDP gaps (actual-trend),2005Q1,-15.3152
+SG,C,Credit-to-GDP gaps (actual-trend),2005Q2,-15.9455
+SG,C,Credit-to-GDP gaps (actual-trend),2005Q3,-17.2933
+SG,C,Credit-to-GDP gaps (actual-trend),2005Q4,-15.4679
+SG,C,Credit-to-GDP gaps (actual-trend),2006Q1,-16.7582
+SG,C,Credit-to-GDP gaps (actual-trend),2006Q2,-17.2773
+SG,C,Credit-to-GDP gaps (actual-trend),2006Q3,-19.4082
+SG,C,Credit-to-GDP gaps (actual-trend),2006Q4,-22.0697
+SG,C,Credit-to-GDP gaps (actual-trend),2007Q1,-21.0841
+SG,C,Credit-to-GDP gaps (actual-trend),2007Q2,-18.3881
+SG,C,Credit-to-GDP gaps (actual-trend),2007Q3,-20.8131
+SG,C,Credit-to-GDP gaps (actual-trend),2007Q4,-14.5766
+SG,C,Credit-to-GDP gaps (actual-trend),2008Q1,-7.0051
+SG,C,Credit-to-GDP gaps (actual-trend),2008Q2,-4.1891
+SG,C,Credit-to-GDP gaps (actual-trend),2008Q3,-0.7114
+SG,C,Credit-to-GDP gaps (actual-trend),2008Q4,2.4065
+SG,C,Credit-to-GDP gaps (actual-trend),2009Q1,-0.1332
+SG,C,Credit-to-GDP gaps (actual-trend),2009Q2,1.2086
+SG,C,Credit-to-GDP gaps (actual-trend),2009Q3,1.8158
+SG,C,Credit-to-GDP gaps (actual-trend),2009Q4,1.7658
+SG,C,Credit-to-GDP gaps (actual-trend),2010Q1,-4.2163
+SG,C,Credit-to-GDP gaps (actual-trend),2010Q2,-10.2196
+SG,C,Credit-to-GDP gaps (actual-trend),2010Q3,-7.7575
+SG,C,Credit-to-GDP gaps (actual-trend),2010Q4,-6.0085
+SG,C,Credit-to-GDP gaps (actual-trend),2011Q1,1.156
+SG,C,Credit-to-GDP gaps (actual-trend),2011Q2,5.3441
+SG,C,Credit-to-GDP gaps (actual-trend),2011Q3,4.8227
+SG,C,Credit-to-GDP gaps (actual-trend),2011Q4,6.0067
+SG,C,Credit-to-GDP gaps (actual-trend),2012Q1,6.5404
+SG,C,Credit-to-GDP gaps (actual-trend),2012Q2,7.0639
+SG,C,Credit-to-GDP gaps (actual-trend),2012Q3,13.2016
+SG,C,Credit-to-GDP gaps (actual-trend),2012Q4,17.2418
+SG,C,Credit-to-GDP gaps (actual-trend),2013Q1,21.819
+SG,C,Credit-to-GDP gaps (actual-trend),2013Q2,23.3614
+SG,C,Credit-to-GDP gaps (actual-trend),2013Q3,24.5483
+SG,C,Credit-to-GDP gaps (actual-trend),2013Q4,26.4403
+SG,C,Credit-to-GDP gaps (actual-trend),2014Q1,26.1736
+SG,C,Credit-to-GDP gaps (actual-trend),2014Q2,28.759
+SG,C,Credit-to-GDP gaps (actual-trend),2014Q3,31.5547
+SG,C,Credit-to-GDP gaps (actual-trend),2014Q4,27.9594
+SG,C,Credit-to-GDP gaps (actual-trend),2015Q1,22.6435
+SG,C,Credit-to-GDP gaps (actual-trend),2015Q2,23.7402
+SG,C,Credit-to-GDP gaps (actual-trend),2015Q3,21.0386
+SG,C,Credit-to-GDP gaps (actual-trend),2015Q4,23.1994
+SG,C,Credit-to-GDP gaps (actual-trend),2016Q1,20.1489
+SG,C,Credit-to-GDP gaps (actual-trend),2016Q2,19.844
+SG,C,Credit-to-GDP gaps (actual-trend),2016Q3,17.8894
+SG,C,Credit-to-GDP gaps (actual-trend),2016Q4,13.5012
+SG,C,Credit-to-GDP gaps (actual-trend),2017Q1,8.9055
+SG,C,Credit-to-GDP gaps (actual-trend),2017Q2,10.8039
+SG,C,Credit-to-GDP gaps (actual-trend),2017Q3,6.6482
+SG,C,Credit-to-GDP gaps (actual-trend),2017Q4,7.8406
+SG,C,Credit-to-GDP gaps (actual-trend),2018Q1,3.6218
+SG,C,Credit-to-GDP gaps (actual-trend),2018Q2,3.9028
+SG,C,Credit-to-GDP gaps (actual-trend),2018Q3,0.9916
+SG,C,Credit-to-GDP gaps (actual-trend),2018Q4,0.4166
+SG,C,Credit-to-GDP gaps (actual-trend),2019Q1,0.3034
+SG,C,Credit-to-GDP gaps (actual-trend),2019Q2,2.7576
+SG,C,Credit-to-GDP gaps (actual-trend),2019Q3,2.2774
+SG,C,Credit-to-GDP gaps (actual-trend),2019Q4,7.6288
+SG,C,Credit-to-GDP gaps (actual-trend),2020Q1,8.3764
+SG,C,Credit-to-GDP gaps (actual-trend),2020Q2,13.6418
+SG,C,Credit-to-GDP gaps (actual-trend),2020Q3,16.0775
+SG,C,Credit-to-GDP gaps (actual-trend),2020Q4,21.2384
+SG,C,Credit-to-GDP gaps (actual-trend),2021Q1,11.95
+SG,C,Credit-to-GDP gaps (actual-trend),2021Q2,6.9821
+SG,C,Credit-to-GDP gaps (actual-trend),2021Q3,-5.3696
+SG,C,Credit-to-GDP gaps (actual-trend),2021Q4,-14.1889
+SG,C,Credit-to-GDP gaps (actual-trend),2022Q1,-26.9355
+SG,C,Credit-to-GDP gaps (actual-trend),2022Q2,-40.8244
+SG,C,Credit-to-GDP gaps (actual-trend),2022Q3,-45.2443
+SG,C,Credit-to-GDP gaps (actual-trend),2022Q4,-44.6015
+SG,C,Credit-to-GDP gaps (actual-trend),2023Q1,-45.9459
+SG,C,Credit-to-GDP gaps (actual-trend),2023Q2,-33.5243
+SG,C,Credit-to-GDP gaps (actual-trend),2023Q3,-32.6236
+SG,C,Credit-to-GDP gaps (actual-trend),2023Q4,-29.9485
+SG,C,Credit-to-GDP gaps (actual-trend),2024Q1,-32.4991
+SG,C,Credit-to-GDP gaps (actual-trend),2024Q2,-31.4477
+SG,C,Credit-to-GDP gaps (actual-trend),2024Q3,-37.9186
+SG,C,Credit-to-GDP gaps (actual-trend),2024Q4,-36.5409
+SG,C,Credit-to-GDP gaps (actual-trend),2025Q1,-31.7755
+SG,C,Credit-to-GDP gaps (actual-trend),2025Q2,-30.6281
+SG,C,Credit-to-GDP gaps (actual-trend),2025Q3,-26.687
+SG,C,Credit-to-GDP gaps (actual-trend),2025Q4,-19.7626
+SG,C,Credit-to-GDP gaps (actual-trend),2026Q1,-21.975
+SG,B,Credit-to-GDP trend (HP filter),1980Q4,109.5288
+SG,B,Credit-to-GDP trend (HP filter),1981Q1,110.9166
+SG,B,Credit-to-GDP trend (HP filter),1981Q2,112.5085
+SG,B,Credit-to-GDP trend (HP filter),1981Q3,114.4008
+SG,B,Credit-to-GDP trend (HP filter),1981Q4,116.2701
+SG,B,Credit-to-GDP trend (HP filter),1982Q1,117.9403
+SG,B,Credit-to-GDP trend (HP filter),1982Q2,119.3798
+SG,B,Credit-to-GDP trend (HP filter),1982Q3,121.061
+SG,B,Credit-to-GDP trend (HP filter),1982Q4,123.0813
+SG,B,Credit-to-GDP trend (HP filter),1983Q1,124.9764
+SG,B,Credit-to-GDP trend (HP filter),1983Q2,126.9784
+SG,B,Credit-to-GDP trend (HP filter),1983Q3,128.8025
+SG,B,Credit-to-GDP trend (HP filter),1983Q4,130.9981
+SG,B,Credit-to-GDP trend (HP filter),1984Q1,132.9942
+SG,B,Credit-to-GDP trend (HP filter),1984Q2,134.8093
+SG,B,Credit-to-GDP trend (HP filter),1984Q3,136.4521
+SG,B,Credit-to-GDP trend (HP filter),1984Q4,138.0946
+SG,B,Credit-to-GDP trend (HP filter),1985Q1,139.5029
+SG,B,Credit-to-GDP trend (HP filter),1985Q2,140.8407
+SG,B,Credit-to-GDP trend (HP filter),1985Q3,142.0223
+SG,B,Credit-to-GDP trend (HP filter),1985Q4,142.9364
+SG,B,Credit-to-GDP trend (HP filter),1986Q1,143.9657
+SG,B,Credit-to-GDP trend (HP filter),1986Q2,144.8361
+SG,B,Credit-to-GDP trend (HP filter),1986Q3,145.5764
+SG,B,Credit-to-GDP trend (HP filter),1986Q4,145.8988
+SG,B,Credit-to-GDP trend (HP filter),1987Q1,145.9093
+SG,B,Credit-to-GDP trend (HP filter),1987Q2,145.9318
+SG,B,Credit-to-GDP trend (HP filter),1987Q3,145.9198
+SG,B,Credit-to-GDP trend (HP filter),1987Q4,145.5768
+SG,B,Credit-to-GDP trend (HP filter),1988Q1,144.9645
+SG,B,Credit-to-GDP trend (HP filter),1988Q2,144.5451
+SG,B,Credit-to-GDP trend (HP filter),1988Q3,143.7957
+SG,B,Credit-to-GDP trend (HP filter),1988Q4,143.067
+SG,B,Credit-to-GDP trend (HP filter),1989Q1,142.3231
+SG,B,Credit-to-GDP trend (HP filter),1989Q2,141.6991
+SG,B,Credit-to-GDP trend (HP filter),1989Q3,141.4239
+SG,B,Credit-to-GDP trend (HP filter),1989Q4,141.3085
+SG,B,Credit-to-GDP trend (HP filter),1990Q1,140.924
+SG,B,Credit-to-GDP trend (HP filter),1990Q2,140.6356
+SG,B,Credit-to-GDP trend (HP filter),1990Q3,140.1933
+SG,B,Credit-to-GDP trend (HP filter),1990Q4,139.7673
+SG,B,Credit-to-GDP trend (HP filter),1991Q1,139.5932
+SG,B,Credit-to-GDP trend (HP filter),1991Q2,139.1602
+SG,B,Credit-to-GDP trend (HP filter),1991Q3,138.7483
+SG,B,Credit-to-GDP trend (HP filter),1991Q4,138.3538
+SG,B,Credit-to-GDP trend (HP filter),1992Q1,137.8413
+SG,B,Credit-to-GDP trend (HP filter),1992Q2,137.5545
+SG,B,Credit-to-GDP trend (HP filter),1992Q3,137.2372
+SG,B,Credit-to-GDP trend (HP filter),1992Q4,136.8767
+SG,B,Credit-to-GDP trend (HP filter),1993Q1,136.4911
+SG,B,Credit-to-GDP trend (HP filter),1993Q2,136.1635
+SG,B,Credit-to-GDP trend (HP filter),1993Q3,135.7676
+SG,B,Credit-to-GDP trend (HP filter),1993Q4,135.3846
+SG,B,Credit-to-GDP trend (HP filter),1994Q1,134.9503
+SG,B,Credit-to-GDP trend (HP filter),1994Q2,134.5343
+SG,B,Credit-to-GDP trend (HP filter),1994Q3,134.2134
+SG,B,Credit-to-GDP trend (HP filter),1994Q4,133.7705
+SG,B,Credit-to-GDP trend (HP filter),1995Q1,133.6498
+SG,B,Credit-to-GDP trend (HP filter),1995Q2,133.9219
+SG,B,Credit-to-GDP trend (HP filter),1995Q3,134.2472
+SG,B,Credit-to-GDP trend (HP filter),1995Q4,134.8185
+SG,B,Credit-to-GDP trend (HP filter),1996Q1,135.3994
+SG,B,Credit-to-GDP trend (HP filter),1996Q2,136.3126
+SG,B,Credit-to-GDP trend (HP filter),1996Q3,137.2642
+SG,B,Credit-to-GDP trend (HP filter),1996Q4,138.2815
+SG,B,Credit-to-GDP trend (HP filter),1997Q1,139.4097
+SG,B,Credit-to-GDP trend (HP filter),1997Q2,140.4893
+SG,B,Credit-to-GDP trend (HP filter),1997Q3,141.8136
+SG,B,Credit-to-GDP trend (HP filter),1997Q4,143.08
+SG,B,Credit-to-GDP trend (HP filter),1998Q1,144.0505
+SG,B,Credit-to-GDP trend (HP filter),1998Q2,144.9775
+SG,B,Credit-to-GDP trend (HP filter),1998Q3,145.7939
+SG,B,Credit-to-GDP trend (HP filter),1998Q4,146.7444
+SG,B,Credit-to-GDP trend (HP filter),1999Q1,147.6477
+SG,B,Credit-to-GDP trend (HP filter),1999Q2,148.524
+SG,B,Credit-to-GDP trend (HP filter),1999Q3,149.2228
+SG,B,Credit-to-GDP trend (HP filter),1999Q4,149.8653
+SG,B,Credit-to-GDP trend (HP filter),2000Q1,150.2197
+SG,B,Credit-to-GDP trend (HP filter),2000Q2,150.6302
+SG,B,Credit-to-GDP trend (HP filter),2000Q3,150.9284
+SG,B,Credit-to-GDP trend (HP filter),2000Q4,151.1656
+SG,B,Credit-to-GDP trend (HP filter),2001Q1,151.498
+SG,B,Credit-to-GDP trend (HP filter),2001Q2,151.9596
+SG,B,Credit-to-GDP trend (HP filter),2001Q3,152.6614
+SG,B,Credit-to-GDP trend (HP filter),2001Q4,153.8298
+SG,B,Credit-to-GDP trend (HP filter),2002Q1,154.906
+SG,B,Credit-to-GDP trend (HP filter),2002Q2,155.9305
+SG,B,Credit-to-GDP trend (HP filter),2002Q3,156.9111
+SG,B,Credit-to-GDP trend (HP filter),2002Q4,157.7019
+SG,B,Credit-to-GDP trend (HP filter),2003Q1,158.3064
+SG,B,Credit-to-GDP trend (HP filter),2003Q2,159.333
+SG,B,Credit-to-GDP trend (HP filter),2003Q3,160.2795
+SG,B,Credit-to-GDP trend (HP filter),2003Q4,161.2152
+SG,B,Credit-to-GDP trend (HP filter),2004Q1,161.744
+SG,B,Credit-to-GDP trend (HP filter),2004Q2,161.9863
+SG,B,Credit-to-GDP trend (HP filter),2004Q3,161.925
+SG,B,Credit-to-GDP trend (HP filter),2004Q4,161.7271
+SG,B,Credit-to-GDP trend (HP filter),2005Q1,161.3641
+SG,B,Credit-to-GDP trend (HP filter),2005Q2,160.9395
+SG,B,Credit-to-GDP trend (HP filter),2005Q3,160.411
+SG,B,Credit-to-GDP trend (HP filter),2005Q4,159.96
+SG,B,Credit-to-GDP trend (HP filter),2006Q1,159.4091
+SG,B,Credit-to-GDP trend (HP filter),2006Q2,158.8009
+SG,B,Credit-to-GDP trend (HP filter),2006Q3,158.0411
+SG,B,Credit-to-GDP trend (HP filter),2006Q4,157.0957
+SG,B,Credit-to-GDP trend (HP filter),2007Q1,156.1714
+SG,B,Credit-to-GDP trend (HP filter),2007Q2,155.3688
+SG,B,Credit-to-GDP trend (HP filter),2007Q3,154.3959
+SG,B,Credit-to-GDP trend (HP filter),2007Q4,153.7501
+SG,B,Credit-to-GDP trend (HP filter),2008Q1,153.519
+SG,B,Credit-to-GDP trend (HP filter),2008Q2,153.4395
+SG,B,Credit-to-GDP trend (HP filter),2008Q3,153.5545
+SG,B,Credit-to-GDP trend (HP filter),2008Q4,153.8488
+SG,B,Credit-to-GDP trend (HP filter),2009Q1,154.0
+SG,B,Credit-to-GDP trend (HP filter),2009Q2,154.2287
+SG,B,Credit-to-GDP trend (HP filter),2009Q3,154.4946
+SG,B,Credit-to-GDP trend (HP filter),2009Q4,154.7604
+SG,B,Credit-to-GDP trend (HP filter),2010Q1,154.6829
+SG,B,Credit-to-GDP trend (HP filter),2010Q2,154.251
+SG,B,Credit-to-GDP trend (HP filter),2010Q3,153.9449
+SG,B,Credit-to-GDP trend (HP filter),2010Q4,153.7275
+SG,B,Credit-to-GDP trend (HP filter),2011Q1,153.9151
+SG,B,Credit-to-GDP trend (HP filter),2011Q2,154.3469
+SG,B,Credit-to-GDP trend (HP filter),2011Q3,154.7573
+SG,B,Credit-to-GDP trend (HP filter),2011Q4,155.244
+SG,B,Credit-to-GDP trend (HP filter),2012Q1,155.7714
+SG,B,Credit-to-GDP trend (HP filter),2012Q2,156.3397
+SG,B,Credit-to-GDP trend (HP filter),2012Q3,157.2747
+SG,B,Credit-to-GDP trend (HP filter),2012Q4,158.4651
+SG,B,Credit-to-GDP trend (HP filter),2013Q1,159.9484
+SG,B,Credit-to-GDP trend (HP filter),2013Q2,161.5564
+SG,B,Credit-to-GDP trend (HP filter),2013Q3,163.2712
+SG,B,Credit-to-GDP trend (HP filter),2013Q4,165.1353
+SG,B,Credit-to-GDP trend (HP filter),2014Q1,167.027
+SG,B,Credit-to-GDP trend (HP filter),2014Q2,169.1109
+SG,B,Credit-to-GDP trend (HP filter),2014Q3,171.4033
+SG,B,Credit-to-GDP trend (HP filter),2014Q4,173.5389
+SG,B,Credit-to-GDP trend (HP filter),2015Q1,175.4124
+SG,B,Credit-to-GDP trend (HP filter),2015Q2,177.3862
+SG,B,Credit-to-GDP trend (HP filter),2015Q3,179.2423
+SG,B,Credit-to-GDP trend (HP filter),2015Q4,181.2576
+SG,B,Credit-to-GDP trend (HP filter),2016Q1,183.1341
+SG,B,Credit-to-GDP trend (HP filter),2016Q2,185.0257
+SG,B,Credit-to-GDP trend (HP filter),2016Q3,186.8364
+SG,B,Credit-to-GDP trend (HP filter),2016Q4,188.4224
+SG,B,Credit-to-GDP trend (HP filter),2017Q1,189.7644
+SG,B,Credit-to-GDP trend (HP filter),2017Q2,191.2307
+SG,B,Credit-to-GDP trend (HP filter),2017Q3,192.4741
+SG,B,Credit-to-GDP trend (HP filter),2017Q4,193.7973
+SG,B,Credit-to-GDP trend (HP filter),2018Q1,194.8892
+SG,B,Credit-to-GDP trend (HP filter),2018Q2,196.0033
+SG,B,Credit-to-GDP trend (HP filter),2018Q3,196.9552
+SG,B,Credit-to-GDP trend (HP filter),2018Q4,197.8755
+SG,B,Credit-to-GDP trend (HP filter),2019Q1,198.7899
+SG,B,Credit-to-GDP trend (HP filter),2019Q2,199.8468
+SG,B,Credit-to-GDP trend (HP filter),2019Q3,200.8804
+SG,B,Credit-to-GDP trend (HP filter),2019Q4,202.2273
+SG,B,Credit-to-GDP trend (HP filter),2020Q1,203.6298
+SG,B,Credit-to-GDP trend (HP filter),2020Q2,205.3506
+SG,B,Credit-to-GDP trend (HP filter),2020Q3,207.2345
+SG,B,Credit-to-GDP trend (HP filter),2020Q4,209.4431
+SG,B,Credit-to-GDP trend (HP filter),2021Q1,211.1489
+SG,B,Credit-to-GDP trend (HP filter),2021Q2,212.5867
+SG,B,Credit-to-GDP trend (HP filter),2021Q3,213.3213
+SG,B,Credit-to-GDP trend (HP filter),2021Q4,213.537
+SG,B,Credit-to-GDP trend (HP filter),2022Q1,212.9921
+SG,B,Credit-to-GDP trend (HP filter),2022Q2,211.6
+SG,B,Credit-to-GDP trend (HP filter),2022Q3,209.8858
+SG,B,Credit-to-GDP trend (HP filter),2022Q4,208.1352
+SG,B,Credit-to-GDP trend (HP filter),2023Q1,206.2343
+SG,B,Credit-to-GDP trend (HP filter),2023Q2,204.9773
+SG,B,Credit-to-GDP trend (HP filter),2023Q3,203.7178
+SG,B,Credit-to-GDP trend (HP filter),2023Q4,202.5601
+SG,B,Credit-to-GDP trend (HP filter),2024Q1,201.2062
+SG,B,Credit-to-GDP trend (HP filter),2024Q2,199.8602
+SG,B,Credit-to-GDP trend (HP filter),2024Q3,198.0887
+SG,B,Credit-to-GDP trend (HP filter),2024Q4,196.3353
+SG,B,Credit-to-GDP trend (HP filter),2025Q1,194.7981
+SG,B,Credit-to-GDP trend (HP filter),2025Q2,193.2756
+SG,B,Credit-to-GDP trend (HP filter),2025Q3,191.9313
+SG,B,Credit-to-GDP trend (HP filter),2025Q4,190.9442
+SG,B,Credit-to-GDP trend (HP filter),2026Q1,189.797
+AU,C,Credit-to-GDP gaps (actual-trend),1970Q2,-2.389
+AU,C,Credit-to-GDP gaps (actual-trend),1970Q3,-2.5156
+AU,C,Credit-to-GDP gaps (actual-trend),1970Q4,-2.5466
+AU,C,Credit-to-GDP gaps (actual-trend),1971Q1,-2.7026
+AU,C,Credit-to-GDP gaps (actual-trend),1971Q2,-2.6454
+AU,C,Credit-to-GDP gaps (actual-trend),1971Q3,-3.0552
+AU,C,Credit-to-GDP gaps (actual-trend),1971Q4,-3.2097
+AU,C,Credit-to-GDP gaps (actual-trend),1972Q1,-2.8181
+AU,C,Credit-to-GDP gaps (actual-trend),1972Q2,-2.7136
+AU,C,Credit-to-GDP gaps (actual-trend),1972Q3,-2.2899
+AU,C,Credit-to-GDP gaps (actual-trend),1972Q4,-2.3779
+AU,C,Credit-to-GDP gaps (actual-trend),1973Q1,-0.5937
+AU,C,Credit-to-GDP gaps (actual-trend),1973Q2,0.7653
+AU,C,Credit-to-GDP gaps (actual-trend),1973Q3,1.253
+AU,C,Credit-to-GDP gaps (actual-trend),1973Q4,1.0179
+AU,C,Credit-to-GDP gaps (actual-trend),1974Q1,1.8795
+AU,C,Credit-to-GDP gaps (actual-trend),1974Q2,2.9638
+AU,C,Credit-to-GDP gaps (actual-trend),1974Q3,3.6429
+AU,C,Credit-to-GDP gaps (actual-trend),1974Q4,4.2151
+AU,C,Credit-to-GDP gaps (actual-trend),1975Q1,3.6886
+AU,C,Credit-to-GDP gaps (actual-trend),1975Q2,2.6878
+AU,C,Credit-to-GDP gaps (actual-trend),1975Q3,2.1899
+AU,C,Credit-to-GDP gaps (actual-trend),1975Q4,1.6909
+AU,C,Credit-to-GDP gaps (actual-trend),1976Q1,1.2173
+AU,C,Credit-to-GDP gaps (actual-trend),1976Q2,0.6968
+AU,C,Credit-to-GDP gaps (actual-trend),1976Q3,0.0939
+AU,C,Credit-to-GDP gaps (actual-trend),1976Q4,-0.2989
+AU,C,Credit-to-GDP gaps (actual-trend),1977Q1,-1.1694
+AU,C,Credit-to-GDP gaps (actual-trend),1977Q2,-1.8524
+AU,C,Credit-to-GDP gaps (actual-trend),1977Q3,-2.159
+AU,C,Credit-to-GDP gaps (actual-trend),1977Q4,-2.1481
+AU,C,Credit-to-GDP gaps (actual-trend),1978Q1,-1.729
+AU,C,Credit-to-GDP gaps (actual-trend),1978Q2,-0.0707
+AU,C,Credit-to-GDP gaps (actual-trend),1978Q3,-0.364
+AU,C,Credit-to-GDP gaps (actual-trend),1978Q4,-0.0228
+AU,C,Credit-to-GDP gaps (actual-trend),1979Q1,-0.9004
+AU,C,Credit-to-GDP gaps (actual-trend),1979Q2,0.6431
+AU,C,Credit-to-GDP gaps (actual-trend),1979Q3,0.716
+AU,C,Credit-to-GDP gaps (actual-trend),1979Q4,0.4164
+AU,C,Credit-to-GDP gaps (actual-trend),1980Q1,0.8191
+AU,C,Credit-to-GDP gaps (actual-trend),1980Q2,2.3074
+AU,C,Credit-to-GDP gaps (actual-trend),1980Q3,1.6799
+AU,C,Credit-to-GDP gaps (actual-trend),1980Q4,1.6509
+AU,C,Credit-to-GDP gaps (actual-trend),1981Q1,1.6576
+AU,C,Credit-to-GDP gaps (actual-trend),1981Q2,3.114
+AU,C,Credit-to-GDP gaps (actual-trend),1981Q3,2.7805
+AU,C,Credit-to-GDP gaps (actual-trend),1981Q4,2.614
+AU,C,Credit-to-GDP gaps (actual-trend),1982Q1,3.2764
+AU,C,Credit-to-GDP gaps (actual-trend),1982Q2,3.8947
+AU,C,Credit-to-GDP gaps (actual-trend),1982Q3,4.2934
+AU,C,Credit-to-GDP gaps (actual-trend),1982Q4,4.2882
+AU,C,Credit-to-GDP gaps (actual-trend),1983Q1,5.6792
+AU,C,Credit-to-GDP gaps (actual-trend),1983Q2,6.7842
+AU,C,Credit-to-GDP gaps (actual-trend),1983Q3,5.3314
+AU,C,Credit-to-GDP gaps (actual-trend),1983Q4,5.084
+AU,C,Credit-to-GDP gaps (actual-trend),1984Q1,3.7733
+AU,C,Credit-to-GDP gaps (actual-trend),1984Q2,3.0252
+AU,C,Credit-to-GDP gaps (actual-trend),1984Q3,2.929
+AU,C,Credit-to-GDP gaps (actual-trend),1984Q4,3.6927
+AU,C,Credit-to-GDP gaps (actual-trend),1985Q1,4.177
+AU,C,Credit-to-GDP gaps (actual-trend),1985Q2,5.9718
+AU,C,Credit-to-GDP gaps (actual-trend),1985Q3,6.3503
+AU,C,Credit-to-GDP gaps (actual-trend),1985Q4,7.3491
+AU,C,Credit-to-GDP gaps (actual-trend),1986Q1,7.2246
+AU,C,Credit-to-GDP gaps (actual-trend),1986Q2,10.8462
+AU,C,Credit-to-GDP gaps (actual-trend),1986Q3,13.8231
+AU,C,Credit-to-GDP gaps (actual-trend),1986Q4,14.2353
+AU,C,Credit-to-GDP gaps (actual-trend),1987Q1,13.2181
+AU,C,Credit-to-GDP gaps (actual-trend),1987Q2,14.5246
+AU,C,Credit-to-GDP gaps (actual-trend),1987Q3,13.9496
+AU,C,Credit-to-GDP gaps (actual-trend),1987Q4,14.8079
+AU,C,Credit-to-GDP gaps (actual-trend),1988Q1,15.7786
+AU,C,Credit-to-GDP gaps (actual-trend),1988Q2,17.5349
+AU,C,Credit-to-GDP gaps (actual-trend),1988Q3,16.5327
+AU,C,Credit-to-GDP gaps (actual-trend),1988Q4,14.2155
+AU,C,Credit-to-GDP gaps (actual-trend),1989Q1,14.1405
+AU,C,Credit-to-GDP gaps (actual-trend),1989Q2,15.622
+AU,C,Credit-to-GDP gaps (actual-trend),1989Q3,12.1568
+AU,C,Credit-to-GDP gaps (actual-trend),1989Q4,9.7658
+AU,C,Credit-to-GDP gaps (actual-trend),1990Q1,10.2347
+AU,C,Credit-to-GDP gaps (actual-trend),1990Q2,8.8175
+AU,C,Credit-to-GDP gaps (actual-trend),1990Q3,7.0044
+AU,C,Credit-to-GDP gaps (actual-trend),1990Q4,6.2036
+AU,C,Credit-to-GDP gaps (actual-trend),1991Q1,6.5872
+AU,C,Credit-to-GDP gaps (actual-trend),1991Q2,4.5254
+AU,C,Credit-to-GDP gaps (actual-trend),1991Q3,1.5177
+AU,C,Credit-to-GDP gaps (actual-trend),1991Q4,1.2803
+AU,C,Credit-to-GDP gaps (actual-trend),1992Q1,-0.207
+AU,C,Credit-to-GDP gaps (actual-trend),1992Q2,-1.1963
+AU,C,Credit-to-GDP gaps (actual-trend),1992Q3,-0.9333
+AU,C,Credit-to-GDP gaps (actual-trend),1992Q4,-4.2687
+AU,C,Credit-to-GDP gaps (actual-trend),1993Q1,-6.5992
+AU,C,Credit-to-GDP gaps (actual-trend),1993Q2,-9.3734
+AU,C,Credit-to-GDP gaps (actual-trend),1993Q3,-9.5131
+AU,C,Credit-to-GDP gaps (actual-trend),1993Q4,-10.9869
+AU,C,Credit-to-GDP gaps (actual-trend),1994Q1,-11.5518
+AU,C,Credit-to-GDP gaps (actual-trend),1994Q2,-10.9687
+AU,C,Credit-to-GDP gaps (actual-trend),1994Q3,-10.6763
+AU,C,Credit-to-GDP gaps (actual-trend),1994Q4,-10.7804
+AU,C,Credit-to-GDP gaps (actual-trend),1995Q1,-10.6
+AU,C,Credit-to-GDP gaps (actual-trend),1995Q2,-10.3341
+AU,C,Credit-to-GDP gaps (actual-trend),1995Q3,-10.495
+AU,C,Credit-to-GDP gaps (actual-trend),1995Q4,-9.9261
+AU,C,Credit-to-GDP gaps (actual-trend),1996Q1,-9.5709
+AU,C,Credit-to-GDP gaps (actual-trend),1996Q2,-8.7973
+AU,C,Credit-to-GDP gaps (actual-trend),1996Q3,-10.0385
+AU,C,Credit-to-GDP gaps (actual-trend),1996Q4,-8.5341
+AU,C,Credit-to-GDP gaps (actual-trend),1997Q1,-8.7002
+AU,C,Credit-to-GDP gaps (actual-trend),1997Q2,-7.3665
+AU,C,Credit-to-GDP gaps (actual-trend),1997Q3,-6.6679
+AU,C,Credit-to-GDP gaps (actual-trend),1997Q4,-3.9195
+AU,C,Credit-to-GDP gaps (actual-trend),1998Q1,-3.8037
+AU,C,Credit-to-GDP gaps (actual-trend),1998Q2,-1.4462
+AU,C,Credit-to-GDP gaps (actual-trend),1998Q3,-1.1958
+AU,C,Credit-to-GDP gaps (actual-trend),1998Q4,-0.4146
+AU,C,Credit-to-GDP gaps (actual-trend),1999Q1,0.2478
+AU,C,Credit-to-GDP gaps (actual-trend),1999Q2,-0.7067
+AU,C,Credit-to-GDP gaps (actual-trend),1999Q3,0.4754
+AU,C,Credit-to-GDP gaps (actual-trend),1999Q4,2.5819
+AU,C,Credit-to-GDP gaps (actual-trend),2000Q1,2.8809
+AU,C,Credit-to-GDP gaps (actual-trend),2000Q2,4.2882
+AU,C,Credit-to-GDP gaps (actual-trend),2000Q3,4.2172
+AU,C,Credit-to-GDP gaps (actual-trend),2000Q4,6.4082
+AU,C,Credit-to-GDP gaps (actual-trend),2001Q1,7.5602
+AU,C,Credit-to-GDP gaps (actual-trend),2001Q2,5.353
+AU,C,Credit-to-GDP gaps (actual-trend),2001Q3,5.234
+AU,C,Credit-to-GDP gaps (actual-trend),2001Q4,3.2036
+AU,C,Credit-to-GDP gaps (actual-trend),2002Q1,2.163
+AU,C,Credit-to-GDP gaps (actual-trend),2002Q2,4.563
+AU,C,Credit-to-GDP gaps (actual-trend),2002Q3,6.1898
+AU,C,Credit-to-GDP gaps (actual-trend),2002Q4,5.5352
+AU,C,Credit-to-GDP gaps (actual-trend),2003Q1,5.1075
+AU,C,Credit-to-GDP gaps (actual-trend),2003Q2,6.6565
+AU,C,Credit-to-GDP gaps (actual-trend),2003Q3,6.7851
+AU,C,Credit-to-GDP gaps (actual-trend),2003Q4,8.9497
+AU,C,Credit-to-GDP gaps (actual-trend),2004Q1,8.2053
+AU,C,Credit-to-GDP gaps (actual-trend),2004Q2,9.0881
+AU,C,Credit-to-GDP gaps (actual-trend),2004Q3,8.9265
+AU,C,Credit-to-GDP gaps (actual-trend),2004Q4,10.1111
+AU,C,Credit-to-GDP gaps (actual-trend),2005Q1,10.0217
+AU,C,Credit-to-GDP gaps (actual-trend),2005Q2,12.5842
+AU,C,Credit-to-GDP gaps (actual-trend),2005Q3,13.0822
+AU,C,Credit-to-GDP gaps (actual-trend),2005Q4,14.5196
+AU,C,Credit-to-GDP gaps (actual-trend),2006Q1,13.7192
+AU,C,Credit-to-GDP gaps (actual-trend),2006Q2,15.8684
+AU,C,Credit-to-GDP gaps (actual-trend),2006Q3,16.6236
+AU,C,Credit-to-GDP gaps (actual-trend),2006Q4,16.8355
+AU,C,Credit-to-GDP gaps (actual-trend),2007Q1,15.6807
+AU,C,Credit-to-GDP gaps (actual-trend),2007Q2,16.3546
+AU,C,Credit-to-GDP gaps (actual-trend),2007Q3,17.9853
+AU,C,Credit-to-GDP gaps (actual-trend),2007Q4,17.9168
+AU,C,Credit-to-GDP gaps (actual-trend),2008Q1,16.918
+AU,C,Credit-to-GDP gaps (actual-trend),2008Q2,15.0747
+AU,C,Credit-to-GDP gaps (actual-trend),2008Q3,12.5896
+AU,C,Credit-to-GDP gaps (actual-trend),2008Q4,10.8951
+AU,C,Credit-to-GDP gaps (actual-trend),2009Q1,7.0074
+AU,C,Credit-to-GDP gaps (actual-trend),2009Q2,4.2517
+AU,C,Credit-to-GDP gaps (actual-trend),2009Q3,3.954
+AU,C,Credit-to-GDP gaps (actual-trend),2009Q4,3.4979
+AU,C,Credit-to-GDP gaps (actual-trend),2010Q1,1.7939
+AU,C,Credit-to-GDP gaps (actual-trend),2010Q2,-0.8423
+AU,C,Credit-to-GDP gaps (actual-trend),2010Q3,-4.5094
+AU,C,Credit-to-GDP gaps (actual-trend),2010Q4,-8.7336
+AU,C,Credit-to-GDP gaps (actual-trend),2011Q1,-10.6455
+AU,C,Credit-to-GDP gaps (actual-trend),2011Q2,-12.9543
+AU,C,Credit-to-GDP gaps (actual-trend),2011Q3,-13.2522
+AU,C,Credit-to-GDP gaps (actual-trend),2011Q4,-14.7519
+AU,C,Credit-to-GDP gaps (actual-trend),2012Q1,-14.9185
+AU,C,Credit-to-GDP gaps (actual-trend),2012Q2,-14.1203
+AU,C,Credit-to-GDP gaps (actual-trend),2012Q3,-14.0008
+AU,C,Credit-to-GDP gaps (actual-trend),2012Q4,-13.4847
+AU,C,Credit-to-GDP gaps (actual-trend),2013Q1,-13.4009
+AU,C,Credit-to-GDP gaps (actual-trend),2013Q2,-10.3456
+AU,C,Credit-to-GDP gaps (actual-trend),2013Q3,-10.8347
+AU,C,Credit-to-GDP gaps (actual-trend),2013Q4,-8.8989
+AU,C,Credit-to-GDP gaps (actual-trend),2014Q1,-10.2529
+AU,C,Credit-to-GDP gaps (actual-trend),2014Q2,-8.6627
+AU,C,Credit-to-GDP gaps (actual-trend),2014Q3,-7.0495
+AU,C,Credit-to-GDP gaps (actual-trend),2014Q4,-5.1246
+AU,C,Credit-to-GDP gaps (actual-trend),2015Q1,-1.6712
+AU,C,Credit-to-GDP gaps (actual-trend),2015Q2,0.1127
+AU,C,Credit-to-GDP gaps (actual-trend),2015Q3,1.6307
+AU,C,Credit-to-GDP gaps (actual-trend),2015Q4,1.7785
+AU,C,Credit-to-GDP gaps (actual-trend),2016Q1,2.4222
+AU,C,Credit-to-GDP gaps (actual-trend),2016Q2,2.7185
+AU,C,Credit-to-GDP gaps (actual-trend),2016Q3,1.8359
+AU,C,Credit-to-GDP gaps (actual-trend),2016Q4,-0.2255
+AU,C,Credit-to-GDP gaps (actual-trend),2017Q1,-4.1875
+AU,C,Credit-to-GDP gaps (actual-trend),2017Q2,-4.9632
+AU,C,Credit-to-GDP gaps (actual-trend),2017Q3,-7.0005
+AU,C,Credit-to-GDP gaps (actual-trend),2017Q4,-6.9345
+AU,C,Credit-to-GDP gaps (actual-trend),2018Q1,-6.6065
+AU,C,Credit-to-GDP gaps (actual-trend),2018Q2,-7.6114
+AU,C,Credit-to-GDP gaps (actual-trend),2018Q3,-7.8875
+AU,C,Credit-to-GDP gaps (actual-trend),2018Q4,-8.6505
+AU,C,Credit-to-GDP gaps (actual-trend),2019Q1,-9.5168
+AU,C,Credit-to-GDP gaps (actual-trend),2019Q2,-10.7117
+AU,C,Credit-to-GDP gaps (actual-trend),2019Q3,-12.027
+AU,C,Credit-to-GDP gaps (actual-trend),2019Q4,-13.2614
+AU,C,Credit-to-GDP gaps (actual-trend),2020Q1,-10.2014
+AU,C,Credit-to-GDP gaps (actual-trend),2020Q2,-9.9859
+AU,C,Credit-to-GDP gaps (actual-trend),2020Q3,-9.6087
+AU,C,Credit-to-GDP gaps (actual-trend),2020Q4,-11.1265
+AU,C,Credit-to-GDP gaps (actual-trend),2021Q1,-11.8426
+AU,C,Credit-to-GDP gaps (actual-trend),2021Q2,-16.1674
+AU,C,Credit-to-GDP gaps (actual-trend),2021Q3,-18.1853
+AU,C,Credit-to-GDP gaps (actual-trend),2021Q4,-19.9279
+AU,C,Credit-to-GDP gaps (actual-trend),2022Q1,-21.9833
+AU,C,Credit-to-GDP gaps (actual-trend),2022Q2,-22.443
+AU,C,Credit-to-GDP gaps (actual-trend),2022Q3,-24.3522
+AU,C,Credit-to-GDP gaps (actual-trend),2022Q4,-26.9616
+AU,C,Credit-to-GDP gaps (actual-trend),2023Q1,-27.5865
+AU,C,Credit-to-GDP gaps (actual-trend),2023Q2,-26.3497
+AU,C,Credit-to-GDP gaps (actual-trend),2023Q3,-25.1427
+AU,C,Credit-to-GDP gaps (actual-trend),2023Q4,-23.6466
+AU,C,Credit-to-GDP gaps (actual-trend),2024Q1,-21.3375
+AU,C,Credit-to-GDP gaps (actual-trend),2024Q2,-19.8715
+AU,C,Credit-to-GDP gaps (actual-trend),2024Q3,-18.3458
+AU,C,Credit-to-GDP gaps (actual-trend),2024Q4,-15.1572
+AU,C,Credit-to-GDP gaps (actual-trend),2025Q1,-13.493
+AU,C,Credit-to-GDP gaps (actual-trend),2025Q2,-11.4918
+AU,C,Credit-to-GDP gaps (actual-trend),2025Q3,-11.1114
+AU,C,Credit-to-GDP gaps (actual-trend),2025Q4,-9.9633
+AU,C,Credit-to-GDP gaps (actual-trend),2026Q1,-9.6849
+AU,B,Credit-to-GDP trend (HP filter),1970Q2,64.7806
+AU,B,Credit-to-GDP trend (HP filter),1970Q3,64.8384
+AU,B,Credit-to-GDP trend (HP filter),1970Q4,64.8891
+AU,B,Credit-to-GDP trend (HP filter),1971Q1,64.9207
+AU,B,Credit-to-GDP trend (HP filter),1971Q2,64.9539
+AU,B,Credit-to-GDP trend (HP filter),1971Q3,64.9446
+AU,B,Credit-to-GDP trend (HP filter),1971Q4,64.9168
+AU,B,Credit-to-GDP trend (HP filter),1972Q1,64.92
+AU,B,Credit-to-GDP trend (HP filter),1972Q2,64.9286
+AU,B,Credit-to-GDP trend (HP filter),1972Q3,64.9707
+AU,B,Credit-to-GDP trend (HP filter),1972Q4,65.0021
+AU,B,Credit-to-GDP trend (HP filter),1973Q1,65.1806
+AU,B,Credit-to-GDP trend (HP filter),1973Q2,65.4709
+AU,B,Credit-to-GDP trend (HP filter),1973Q3,65.8019
+AU,B,Credit-to-GDP trend (HP filter),1973Q4,66.1157
+AU,B,Credit-to-GDP trend (HP filter),1974Q1,66.4988
+AU,B,Credit-to-GDP trend (HP filter),1974Q2,66.9687
+AU,B,Credit-to-GDP trend (HP filter),1974Q3,67.4944
+AU,B,Credit-to-GDP trend (HP filter),1974Q4,68.068
+AU,B,Credit-to-GDP trend (HP filter),1975Q1,68.6076
+AU,B,Credit-to-GDP trend (HP filter),1975Q2,69.0782
+AU,B,Credit-to-GDP trend (HP filter),1975Q3,69.5159
+AU,B,Credit-to-GDP trend (HP filter),1975Q4,69.9205
+AU,B,Credit-to-GDP trend (HP filter),1976Q1,70.2936
+AU,B,Credit-to-GDP trend (HP filter),1976Q2,70.6316
+AU,B,Credit-to-GDP trend (HP filter),1976Q3,70.9285
+AU,B,Credit-to-GDP trend (HP filter),1976Q4,71.1985
+AU,B,Credit-to-GDP trend (HP filter),1977Q1,71.4087
+AU,B,Credit-to-GDP trend (HP filter),1977Q2,71.5713
+AU,B,Credit-to-GDP trend (HP filter),1977Q3,71.7108
+AU,B,Credit-to-GDP trend (HP filter),1977Q4,71.8483
+AU,B,Credit-to-GDP trend (HP filter),1978Q1,72.0105
+AU,B,Credit-to-GDP trend (HP filter),1978Q2,72.2788
+AU,B,Credit-to-GDP trend (HP filter),1978Q3,72.528
+AU,B,Credit-to-GDP trend (HP filter),1978Q4,72.7987
+AU,B,Credit-to-GDP trend (HP filter),1979Q1,73.0132
+AU,B,Credit-to-GDP trend (HP filter),1979Q2,73.3246
+AU,B,Credit-to-GDP trend (HP filter),1979Q3,73.6415
+AU,B,Credit-to-GDP trend (HP filter),1979Q4,73.9405
+AU,B,Credit-to-GDP trend (HP filter),1980Q1,74.2653
+AU,B,Credit-to-GDP trend (HP filter),1980Q2,74.6837
+AU,B,Credit-to-GDP trend (HP filter),1980Q3,75.0665
+AU,B,Credit-to-GDP trend (HP filter),1980Q4,75.4499
+AU,B,Credit-to-GDP trend (HP filter),1981Q1,75.8361
+AU,B,Credit-to-GDP trend (HP filter),1981Q2,76.3135
+AU,B,Credit-to-GDP trend (HP filter),1981Q3,76.7752
+AU,B,Credit-to-GDP trend (HP filter),1981Q4,77.2308
+AU,B,Credit-to-GDP trend (HP filter),1982Q1,77.7302
+AU,B,Credit-to-GDP trend (HP filter),1982Q2,78.2715
+AU,B,Credit-to-GDP trend (HP filter),1982Q3,78.8426
+AU,B,Credit-to-GDP trend (HP filter),1982Q4,79.4197
+AU,B,Credit-to-GDP trend (HP filter),1983Q1,80.0861
+AU,B,Credit-to-GDP trend (HP filter),1983Q2,80.8267
+AU,B,Credit-to-GDP trend (HP filter),1983Q3,81.4914
+AU,B,Credit-to-GDP trend (HP filter),1983Q4,82.1495
+AU,B,Credit-to-GDP trend (HP filter),1984Q1,82.738
+AU,B,Credit-to-GDP trend (HP filter),1984Q2,83.2881
+AU,B,Credit-to-GDP trend (HP filter),1984Q3,83.8372
+AU,B,Credit-to-GDP trend (HP filter),1984Q4,84.4356
+AU,B,Credit-to-GDP trend (HP filter),1985Q1,85.0683
+AU,B,Credit-to-GDP trend (HP filter),1985Q2,85.8125
+AU,B,Credit-to-GDP trend (HP filter),1985Q3,86.5883
+AU,B,Credit-to-GDP trend (HP filter),1985Q4,87.4323
+AU,B,Credit-to-GDP trend (HP filter),1986Q1,88.2807
+AU,B,Credit-to-GDP trend (HP filter),1986Q2,89.3516
+AU,B,Credit-to-GDP trend (HP filter),1986Q3,90.6133
+AU,B,Credit-to-GDP trend (HP filter),1986Q4,91.9208
+AU,B,Credit-to-GDP trend (HP filter),1987Q1,93.1916
+AU,B,Credit-to-GDP trend (HP filter),1987Q2,94.5595
+AU,B,Credit-to-GDP trend (HP filter),1987Q3,95.9171
+AU,B,Credit-to-GDP trend (HP filter),1987Q4,97.3468
+AU,B,Credit-to-GDP trend (HP filter),1988Q1,98.8566
+AU,B,Credit-to-GDP trend (HP filter),1988Q2,100.4937
+AU,B,Credit-to-GDP trend (HP filter),1988Q3,102.1007
+AU,B,Credit-to-GDP trend (HP filter),1988Q4,103.5998
+AU,B,Credit-to-GDP trend (HP filter),1989Q1,105.1175
+AU,B,Credit-to-GDP trend (HP filter),1989Q2,106.7438
+AU,B,Credit-to-GDP trend (HP filter),1989Q3,108.1945
+AU,B,Credit-to-GDP trend (HP filter),1989Q4,109.5263
+AU,B,Credit-to-GDP trend (HP filter),1990Q1,110.901
+AU,B,Credit-to-GDP trend (HP filter),1990Q2,112.2102
+AU,B,Credit-to-GDP trend (HP filter),1990Q3,113.4286
+AU,B,Credit-to-GDP trend (HP filter),1990Q4,114.612
+AU,B,Credit-to-GDP trend (HP filter),1991Q1,115.8277
+AU,B,Credit-to-GDP trend (HP filter),1991Q2,116.9346
+AU,B,Credit-to-GDP trend (HP filter),1991Q3,117.8748
+AU,B,Credit-to-GDP trend (HP filter),1991Q4,118.8036
+AU,B,Credit-to-GDP trend (HP filter),1992Q1,119.6484
+AU,B,Credit-to-GDP trend (HP filter),1992Q2,120.4356
+AU,B,Credit-to-GDP trend (HP filter),1992Q3,121.2361
+AU,B,Credit-to-GDP trend (HP filter),1992Q4,121.842
+AU,B,Credit-to-GDP trend (HP filter),1993Q1,122.3059
+AU,B,Credit-to-GDP trend (HP filter),1993Q2,122.5985
+AU,B,Credit-to-GDP trend (HP filter),1993Q3,122.8678
+AU,B,Credit-to-GDP trend (HP filter),1993Q4,123.0362
+AU,B,Credit-to-GDP trend (HP filter),1994Q1,123.1541
+AU,B,Credit-to-GDP trend (HP filter),1994Q2,123.2869
+AU,B,Credit-to-GDP trend (HP filter),1994Q3,123.4187
+AU,B,Credit-to-GDP trend (HP filter),1994Q4,123.5272
+AU,B,Credit-to-GDP trend (HP filter),1995Q1,123.6285
+AU,B,Credit-to-GDP trend (HP filter),1995Q2,123.728
+AU,B,Credit-to-GDP trend (HP filter),1995Q3,123.8013
+AU,B,Credit-to-GDP trend (HP filter),1995Q4,123.8904
+AU,B,Credit-to-GDP trend (HP filter),1996Q1,123.984
+AU,B,Credit-to-GDP trend (HP filter),1996Q2,124.1067
+AU,B,Credit-to-GDP trend (HP filter),1996Q3,124.1433
+AU,B,Credit-to-GDP trend (HP filter),1996Q4,124.2506
+AU,B,Credit-to-GDP trend (HP filter),1997Q1,124.3344
+AU,B,Credit-to-GDP trend (HP filter),1997Q2,124.4812
+AU,B,Credit-to-GDP trend (HP filter),1997Q3,124.6565
+AU,B,Credit-to-GDP trend (HP filter),1997Q4,124.9801
+AU,B,Credit-to-GDP trend (HP filter),1998Q1,125.304
+AU,B,Credit-to-GDP trend (HP filter),1998Q2,125.7582
+AU,B,Credit-to-GDP trend (HP filter),1998Q3,126.2245
+AU,B,Credit-to-GDP trend (HP filter),1998Q4,126.7341
+AU,B,Credit-to-GDP trend (HP filter),1999Q1,127.2813
+AU,B,Credit-to-GDP trend (HP filter),1999Q2,127.7737
+AU,B,Credit-to-GDP trend (HP filter),1999Q3,128.3334
+AU,B,Credit-to-GDP trend (HP filter),1999Q4,129.0158
+AU,B,Credit-to-GDP trend (HP filter),2000Q1,129.7197
+AU,B,Credit-to-GDP trend (HP filter),2000Q2,130.5098
+AU,B,Credit-to-GDP trend (HP filter),2000Q3,131.3027
+AU,B,Credit-to-GDP trend (HP filter),2000Q4,132.2293
+AU,B,Credit-to-GDP trend (HP filter),2001Q1,133.233
+AU,B,Credit-to-GDP trend (HP filter),2001Q2,134.1213
+AU,B,Credit-to-GDP trend (HP filter),2001Q3,135.0114
+AU,B,Credit-to-GDP trend (HP filter),2001Q4,135.7924
+AU,B,Credit-to-GDP trend (HP filter),2002Q1,136.5185
+AU,B,Credit-to-GDP trend (HP filter),2002Q2,137.387
+AU,B,Credit-to-GDP trend (HP filter),2002Q3,138.357
+AU,B,Credit-to-GDP trend (HP filter),2002Q4,139.2992
+AU,B,Credit-to-GDP trend (HP filter),2003Q1,140.2257
+AU,B,Credit-to-GDP trend (HP filter),2003Q2,141.2501
+AU,B,Credit-to-GDP trend (HP filter),2003Q3,142.2928
+AU,B,Credit-to-GDP trend (HP filter),2003Q4,143.4718
+AU,B,Credit-to-GDP trend (HP filter),2004Q1,144.6223
+AU,B,Credit-to-GDP trend (HP filter),2004Q2,145.8372
+AU,B,Credit-to-GDP trend (HP filter),2004Q3,147.0575
+AU,B,Credit-to-GDP trend (HP filter),2004Q4,148.3609
+AU,B,Credit-to-GDP trend (HP filter),2005Q1,149.6755
+AU,B,Credit-to-GDP trend (HP filter),2005Q2,151.1547
+AU,B,Credit-to-GDP trend (HP filter),2005Q3,152.6832
+AU,B,Credit-to-GDP trend (HP filter),2005Q4,154.3161
+AU,B,Credit-to-GDP trend (HP filter),2006Q1,155.9264
+AU,B,Credit-to-GDP trend (HP filter),2006Q2,157.6833
+AU,B,Credit-to-GDP trend (HP filter),2006Q3,159.5096
+AU,B,Credit-to-GDP trend (HP filter),2006Q4,161.3753
+AU,B,Credit-to-GDP trend (HP filter),2007Q1,163.2015
+AU,B,Credit-to-GDP trend (HP filter),2007Q2,165.0923
+AU,B,Credit-to-GDP trend (HP filter),2007Q3,167.1039
+AU,B,Credit-to-GDP trend (HP filter),2007Q4,169.1408
+AU,B,Credit-to-GDP trend (HP filter),2008Q1,171.1491
+AU,B,Credit-to-GDP trend (HP filter),2008Q2,173.0782
+AU,B,Credit-to-GDP trend (HP filter),2008Q3,174.8881
+AU,B,Credit-to-GDP trend (HP filter),2008Q4,176.6204
+AU,B,Credit-to-GDP trend (HP filter),2009Q1,178.1455
+AU,B,Credit-to-GDP trend (HP filter),2009Q2,179.5225
+AU,B,Credit-to-GDP trend (HP filter),2009Q3,180.8893
+AU,B,Credit-to-GDP trend (HP filter),2009Q4,182.2361
+AU,B,Credit-to-GDP trend (HP filter),2010Q1,183.4899
+AU,B,Credit-to-GDP trend (HP filter),2010Q2,184.5942
+AU,B,Credit-to-GDP trend (HP filter),2010Q3,185.485
+AU,B,Credit-to-GDP trend (HP filter),2010Q4,186.1241
+AU,B,Credit-to-GDP trend (HP filter),2011Q1,186.6383
+AU,B,Credit-to-GDP trend (HP filter),2011Q2,187.0017
+AU,B,Credit-to-GDP trend (HP filter),2011Q3,187.3267
+AU,B,Credit-to-GDP trend (HP filter),2011Q4,187.5435
+AU,B,Credit-to-GDP trend (HP filter),2012Q1,187.7266
+AU,B,Credit-to-GDP trend (HP filter),2012Q2,187.9317
+AU,B,Credit-to-GDP trend (HP filter),2012Q3,188.1207
+AU,B,Credit-to-GDP trend (HP filter),2012Q4,188.3168
+AU,B,Credit-to-GDP trend (HP filter),2013Q1,188.4958
+AU,B,Credit-to-GDP trend (HP filter),2013Q2,188.8298
+AU,B,Credit-to-GDP trend (HP filter),2013Q3,189.1186
+AU,B,Credit-to-GDP trend (HP filter),2013Q4,189.5019
+AU,B,Credit-to-GDP trend (HP filter),2014Q1,189.7923
+AU,B,Credit-to-GDP trend (HP filter),2014Q2,190.158
+AU,B,Credit-to-GDP trend (HP filter),2014Q3,190.603
+AU,B,Credit-to-GDP trend (HP filter),2014Q4,191.1479
+AU,B,Credit-to-GDP trend (HP filter),2015Q1,191.8842
+AU,B,Credit-to-GDP trend (HP filter),2015Q2,192.721
+AU,B,Credit-to-GDP trend (HP filter),2015Q3,193.6458
+AU,B,Credit-to-GDP trend (HP filter),2015Q4,194.5818
+AU,B,Credit-to-GDP trend (HP filter),2016Q1,195.558
+AU,B,Credit-to-GDP trend (HP filter),2016Q2,196.5552
+AU,B,Credit-to-GDP trend (HP filter),2016Q3,197.5058
+AU,B,Credit-to-GDP trend (HP filter),2016Q4,198.3401
+AU,B,Credit-to-GDP trend (HP filter),2017Q1,198.9448
+AU,B,Credit-to-GDP trend (HP filter),2017Q2,199.4979
+AU,B,Credit-to-GDP trend (HP filter),2017Q3,199.925
+AU,B,Credit-to-GDP trend (HP filter),2017Q4,200.3446
+AU,B,Credit-to-GDP trend (HP filter),2018Q1,200.7718
+AU,B,Credit-to-GDP trend (HP filter),2018Q2,201.1302
+AU,B,Credit-to-GDP trend (HP filter),2018Q3,201.4603
+AU,B,Credit-to-GDP trend (HP filter),2018Q4,201.7333
+AU,B,Credit-to-GDP trend (HP filter),2019Q1,201.9422
+AU,B,Credit-to-GDP trend (HP filter),2019Q2,202.0665
+AU,B,Credit-to-GDP trend (HP filter),2019Q3,202.0973
+AU,B,Credit-to-GDP trend (HP filter),2019Q4,202.0371
+AU,B,Credit-to-GDP trend (HP filter),2020Q1,202.1324
+AU,B,Credit-to-GDP trend (HP filter),2020Q2,202.2235
+AU,B,Credit-to-GDP trend (HP filter),2020Q3,202.3202
+AU,B,Credit-to-GDP trend (HP filter),2020Q4,202.3135
+AU,B,Credit-to-GDP trend (HP filter),2021Q1,202.2473
+AU,B,Credit-to-GDP trend (HP filter),2021Q2,201.9116
+AU,B,Credit-to-GDP trend (HP filter),2021Q3,201.4329
+AU,B,Credit-to-GDP trend (HP filter),2021Q4,200.8238
+AU,B,Credit-to-GDP trend (HP filter),2022Q1,200.0635
+AU,B,Credit-to-GDP trend (HP filter),2022Q2,199.2407
+AU,B,Credit-to-GDP trend (HP filter),2022Q3,198.271
+AU,B,Credit-to-GDP trend (HP filter),2022Q4,197.1108
+AU,B,Credit-to-GDP trend (HP filter),2023Q1,195.8706
+AU,B,Credit-to-GDP trend (HP filter),2023Q2,194.657
+AU,B,Credit-to-GDP trend (HP filter),2023Q3,193.4705
+AU,B,Credit-to-GDP trend (HP filter),2023Q4,192.3296
+AU,B,Credit-to-GDP trend (HP filter),2024Q1,191.2838
+AU,B,Credit-to-GDP trend (HP filter),2024Q2,190.2881
+AU,B,Credit-to-GDP trend (HP filter),2024Q3,189.3484
+AU,B,Credit-to-GDP trend (HP filter),2024Q4,188.5633
+AU,B,Credit-to-GDP trend (HP filter),2025Q1,187.8498
+AU,B,Credit-to-GDP trend (HP filter),2025Q2,187.2301
+AU,B,Credit-to-GDP trend (HP filter),2025Q3,186.6138
+AU,B,Credit-to-GDP trend (HP filter),2025Q4,186.0458
+AU,B,Credit-to-GDP trend (HP filter),2026Q1,185.4777
+SG,A,Credit-to-GDP ratios (actual data),1970Q4,81.294010556588
+SG,A,Credit-to-GDP ratios (actual data),1971Q1,82.607436990053
+SG,A,Credit-to-GDP ratios (actual data),1971Q2,80.471500334579
+SG,A,Credit-to-GDP ratios (actual data),1971Q3,82.732280093944
+SG,A,Credit-to-GDP ratios (actual data),1971Q4,82.941349251844
+SG,A,Credit-to-GDP ratios (actual data),1972Q1,84.484812071093
+SG,A,Credit-to-GDP ratios (actual data),1972Q2,85.197714117802
+SG,A,Credit-to-GDP ratios (actual data),1972Q3,89.737073812503
+SG,A,Credit-to-GDP ratios (actual data),1972Q4,95.905780194707
+SG,A,Credit-to-GDP ratios (actual data),1973Q1,106.01126739815
+SG,A,Credit-to-GDP ratios (actual data),1973Q2,103.79341160265
+SG,A,Credit-to-GDP ratios (actual data),1973Q3,104.51101685378
+SG,A,Credit-to-GDP ratios (actual data),1973Q4,105.90937645504
+SG,A,Credit-to-GDP ratios (actual data),1974Q1,102.96875981935
+SG,A,Credit-to-GDP ratios (actual data),1974Q2,99.857186100721
+SG,A,Credit-to-GDP ratios (actual data),1974Q3,95.04895697896
+SG,A,Credit-to-GDP ratios (actual data),1974Q4,90.584047835883
+SG,A,Credit-to-GDP ratios (actual data),1975Q1,88.976249316521
+SG,A,Credit-to-GDP ratios (actual data),1975Q2,88.964116190393
+SG,A,Credit-to-GDP ratios (actual data),1975Q3,93.910421904277
+SG,A,Credit-to-GDP ratios (actual data),1975Q4,95.317898276641
+SG,A,Credit-to-GDP ratios (actual data),1976Q1,95.120425821351
+SG,A,Credit-to-GDP ratios (actual data),1976Q2,93.087417753222
+SG,A,Credit-to-GDP ratios (actual data),1976Q3,94.662076693162
+SG,A,Credit-to-GDP ratios (actual data),1976Q4,97.574179261098
+SG,A,Credit-to-GDP ratios (actual data),1977Q1,97.945536347858
+SG,A,Credit-to-GDP ratios (actual data),1977Q2,97.173292897194
+SG,A,Credit-to-GDP ratios (actual data),1977Q3,99.245685535292
+SG,A,Credit-to-GDP ratios (actual data),1977Q4,98.960874895331
+SG,A,Credit-to-GDP ratios (actual data),1978Q1,99.687981394702
+SG,A,Credit-to-GDP ratios (actual data),1978Q2,100.03412805547
+SG,A,Credit-to-GDP ratios (actual data),1978Q3,103.11567708367
+SG,A,Credit-to-GDP ratios (actual data),1978Q4,102.45010012319
+SG,A,Credit-to-GDP ratios (actual data),1979Q1,102.26707696342
+SG,A,Credit-to-GDP ratios (actual data),1979Q2,102.89203586322
+SG,A,Credit-to-GDP ratios (actual data),1979Q3,104.99062156761
+SG,A,Credit-to-GDP ratios (actual data),1979Q4,109.94853535338
+SG,A,Credit-to-GDP ratios (actual data),1980Q1,112.21172581557
+SG,A,Credit-to-GDP ratios (actual data),1980Q2,110.74256774752
+SG,A,Credit-to-GDP ratios (actual data),1980Q3,114.60123887808
+SG,A,Credit-to-GDP ratios (actual data),1980Q4,117.27519670254
+SG,A,Credit-to-GDP ratios (actual data),1981Q1,118.49025936984
+SG,A,Credit-to-GDP ratios (actual data),1981Q2,121.99446462891
+SG,A,Credit-to-GDP ratios (actual data),1981Q3,126.79298807104
+SG,A,Credit-to-GDP ratios (actual data),1981Q4,128.23674827428
+SG,A,Credit-to-GDP ratios (actual data),1982Q1,127.6147691954
+SG,A,Credit-to-GDP ratios (actual data),1982Q2,126.41188921867
+SG,A,Credit-to-GDP ratios (actual data),1982Q3,130.65256640964
+SG,A,Credit-to-GDP ratios (actual data),1982Q4,136.34224391138
+SG,A,Credit-to-GDP ratios (actual data),1983Q1,136.59832379147
+SG,A,Credit-to-GDP ratios (actual data),1983Q2,139.66872242358
+SG,A,Credit-to-GDP ratios (actual data),1983Q3,139.1823964301
+SG,A,Credit-to-GDP ratios (actual data),1983Q4,145.70163727576
+SG,A,Credit-to-GDP ratios (actual data),1984Q1,145.01512667976
+SG,A,Credit-to-GDP ratios (actual data),1984Q2,144.38131352041
+SG,A,Credit-to-GDP ratios (actual data),1984Q3,143.68686217064
+SG,A,Credit-to-GDP ratios (actual data),1984Q4,145.20672008704
+SG,A,Credit-to-GDP ratios (actual data),1985Q1,143.44349265409
+SG,A,Credit-to-GDP ratios (actual data),1985Q2,143.78435024759
+SG,A,Credit-to-GDP ratios (actual data),1985Q3,142.82482320593
+SG,A,Credit-to-GDP ratios (actual data),1985Q4,140.09369838069
+SG,A,Credit-to-GDP ratios (actual data),1986Q1,142.7569720885
+SG,A,Credit-to-GDP ratios (actual data),1986Q2,141.43816428066
+SG,A,Credit-to-GDP ratios (actual data),1986Q3,140.41186755803
+SG,A,Credit-to-GDP ratios (actual data),1986Q4,134.88542055246
+SG,A,Credit-to-GDP ratios (actual data),1987Q1,130.61853005023
+SG,A,Credit-to-GDP ratios (actual data),1987Q2,131.10110520986
+SG,A,Credit-to-GDP ratios (actual data),1987Q3,130.8648376326
+SG,A,Credit-to-GDP ratios (actual data),1987Q4,125.91267300041
+SG,A,Credit-to-GDP ratios (actual data),1988Q1,121.66590783605
+SG,A,Credit-to-GDP ratios (actual data),1988Q2,124.61028080639
+SG,A,Credit-to-GDP ratios (actual data),1988Q3,119.25108079779
+SG,A,Credit-to-GDP ratios (actual data),1988Q4,119.33938652605
+SG,A,Credit-to-GDP ratios (actual data),1989Q1,118.8509271121
+SG,A,Credit-to-GDP ratios (actual data),1989Q2,120.57689863858
+SG,A,Credit-to-GDP ratios (actual data),1989Q3,126.20381412523
+SG,A,Credit-to-GDP ratios (actual data),1989Q4,128.92779863716
+SG,A,Credit-to-GDP ratios (actual data),1990Q1,124.55123615942
+SG,A,Credit-to-GDP ratios (actual data),1990Q2,126.15523320953
+SG,A,Credit-to-GDP ratios (actual data),1990Q3,123.57001863549
+SG,A,Credit-to-GDP ratios (actual data),1990Q4,123.7818736768
+SG,A,Credit-to-GDP ratios (actual data),1991Q1,128.04544331625
+SG,A,Credit-to-GDP ratios (actual data),1991Q2,123.67116329567
+SG,A,Credit-to-GDP ratios (actual data),1991Q3,123.96548204577
+SG,A,Credit-to-GDP ratios (actual data),1991Q4,124.20304155563
+SG,A,Credit-to-GDP ratios (actual data),1992Q1,122.08507118343
+SG,A,Credit-to-GDP ratios (actual data),1992Q2,125.9040572038
+SG,A,Credit-to-GDP ratios (actual data),1992Q3,125.36509871576
+SG,A,Credit-to-GDP ratios (actual data),1992Q4,124.57500951148
+SG,A,Credit-to-GDP ratios (actual data),1993Q1,124.07562226717
+SG,A,Credit-to-GDP ratios (actual data),1993Q2,125.02548029089
+SG,A,Credit-to-GDP ratios (actual data),1993Q3,123.76322424593
+SG,A,Credit-to-GDP ratios (actual data),1993Q4,123.90051772552
+SG,A,Credit-to-GDP ratios (actual data),1994Q1,122.8930351376
+SG,A,Credit-to-GDP ratios (actual data),1994Q2,123.09619038462
+SG,A,Credit-to-GDP ratios (actual data),1994Q3,124.6780404918
+SG,A,Credit-to-GDP ratios (actual data),1994Q4,122.41568819805
+SG,A,Credit-to-GDP ratios (actual data),1995Q1,128.0634392046
+SG,A,Credit-to-GDP ratios (actual data),1995Q2,135.16726187055
+SG,A,Credit-to-GDP ratios (actual data),1995Q3,136.36616965756
+SG,A,Credit-to-GDP ratios (actual data),1995Q4,141.07873459776
+SG,A,Credit-to-GDP ratios (actual data),1996Q1,141.65810855059
+SG,A,Credit-to-GDP ratios (actual data),1996Q2,148.08715993803
+SG,A,Credit-to-GDP ratios (actual data),1996Q3,149.38006594985
+SG,A,Credit-to-GDP ratios (actual data),1996Q4,151.19677341014
+SG,A,Credit-to-GDP ratios (actual data),1997Q1,153.87786777261
+SG,A,Credit-to-GDP ratios (actual data),1997Q2,153.73031786292
+SG,A,Credit-to-GDP ratios (actual data),1997Q3,158.89706934039
+SG,A,Credit-to-GDP ratios (actual data),1997Q4,158.70229490973
+SG,A,Credit-to-GDP ratios (actual data),1998Q1,154.15431139456
+SG,A,Credit-to-GDP ratios (actual data),1998Q2,154.05644247365
+SG,A,Credit-to-GDP ratios (actual data),1998Q3,152.71667948761
+SG,A,Credit-to-GDP ratios (actual data),1998Q4,155.7880236315
+SG,A,Credit-to-GDP ratios (actual data),1999Q1,155.62537510592
+SG,A,Credit-to-GDP ratios (actual data),1999Q2,155.81663829147
+SG,A,Credit-to-GDP ratios (actual data),1999Q3,153.25286573022
+SG,A,Credit-to-GDP ratios (actual data),1999Q4,152.81205806821
+SG,A,Credit-to-GDP ratios (actual data),2000Q1,148.1137508909
+SG,A,Credit-to-GDP ratios (actual data),2000Q2,149.55259392001
+SG,A,Credit-to-GDP ratios (actual data),2000Q3,147.94164916786
+SG,A,Credit-to-GDP ratios (actual data),2000Q4,147.20852930785
+SG,A,Credit-to-GDP ratios (actual data),2001Q1,149.29602589915
+SG,A,Credit-to-GDP ratios (actual data),2001Q2,152.04961651703
+SG,A,Credit-to-GDP ratios (actual data),2001Q3,156.89615897455
+SG,A,Credit-to-GDP ratios (actual data),2001Q4,166.00385180171
+SG,A,Credit-to-GDP ratios (actual data),2002Q1,165.1447901982
+SG,A,Credit-to-GDP ratios (actual data),2002Q2,164.98906702894
+SG,A,Credit-to-GDP ratios (actual data),2002Q3,164.95834350939
+SG,A,Credit-to-GDP ratios (actual data),2002Q4,162.24477704658
+SG,A,Credit-to-GDP ratios (actual data),2003Q1,159.50382613172
+SG,A,Credit-to-GDP ratios (actual data),2003Q2,167.78821942154
+SG,A,Credit-to-GDP ratios (actual data),2003Q3,167.11239813267
+SG,A,Credit-to-GDP ratios (actual data),2003Q4,167.67013112375
+SG,A,Credit-to-GDP ratios (actual data),2004Q1,160.98967714159
+SG,A,Credit-to-GDP ratios (actual data),2004Q2,156.30257182796
+SG,A,Credit-to-GDP ratios (actual data),2004Q3,151.15959004215
+SG,A,Credit-to-GDP ratios (actual data),2004Q4,148.90446007279
+SG,A,Credit-to-GDP ratios (actual data),2005Q1,146.04890119685
+SG,A,Credit-to-GDP ratios (actual data),2005Q2,144.9939925474
+SG,A,Credit-to-GDP ratios (actual data),2005Q3,143.11770266372
+SG,A,Credit-to-GDP ratios (actual data),2005Q4,144.49216335908
+SG,A,Credit-to-GDP ratios (actual data),2006Q1,142.65095914878
+SG,A,Credit-to-GDP ratios (actual data),2006Q2,141.52355906418
+SG,A,Credit-to-GDP ratios (actual data),2006Q3,138.63290773687
+SG,A,Credit-to-GDP ratios (actual data),2006Q4,135.02599835496
+SG,A,Credit-to-GDP ratios (actual data),2007Q1,135.0872586333
+SG,A,Credit-to-GDP ratios (actual data),2007Q2,136.98066545819
+SG,A,Credit-to-GDP ratios (actual data),2007Q3,133.58271631312
+SG,A,Credit-to-GDP ratios (actual data),2007Q4,139.17348098817
+SG,A,Credit-to-GDP ratios (actual data),2008Q1,146.51383295305
+SG,A,Credit-to-GDP ratios (actual data),2008Q2,149.25041049249
+SG,A,Credit-to-GDP ratios (actual data),2008Q3,152.84301502167
+SG,A,Credit-to-GDP ratios (actual data),2008Q4,156.25532190745
+SG,A,Credit-to-GDP ratios (actual data),2009Q1,153.86688246931
+SG,A,Credit-to-GDP ratios (actual data),2009Q2,155.43739186697
+SG,A,Credit-to-GDP ratios (actual data),2009Q3,156.31038059751
+SG,A,Credit-to-GDP ratios (actual data),2009Q4,156.52628188833
+SG,A,Credit-to-GDP ratios (actual data),2010Q1,150.4666252038
+SG,A,Credit-to-GDP ratios (actual data),2010Q2,144.03140162598
+SG,A,Credit-to-GDP ratios (actual data),2010Q3,146.18742449955
+SG,A,Credit-to-GDP ratios (actual data),2010Q4,147.71903847758
+SG,A,Credit-to-GDP ratios (actual data),2011Q1,155.07105313097
+SG,A,Credit-to-GDP ratios (actual data),2011Q2,159.69102936558
+SG,A,Credit-to-GDP ratios (actual data),2011Q3,159.57991327452
+SG,A,Credit-to-GDP ratios (actual data),2011Q4,161.25063340241
+SG,A,Credit-to-GDP ratios (actual data),2012Q1,162.31171766019
+SG,A,Credit-to-GDP ratios (actual data),2012Q2,163.40357643709
+SG,A,Credit-to-GDP ratios (actual data),2012Q3,170.47628295972
+SG,A,Credit-to-GDP ratios (actual data),2012Q4,175.70689650882
+SG,A,Credit-to-GDP ratios (actual data),2013Q1,181.76737734127
+SG,A,Credit-to-GDP ratios (actual data),2013Q2,184.91787113492
+SG,A,Credit-to-GDP ratios (actual data),2013Q3,187.81948529206
+SG,A,Credit-to-GDP ratios (actual data),2013Q4,191.57554382421
+SG,A,Credit-to-GDP ratios (actual data),2014Q1,193.20063178165
+SG,A,Credit-to-GDP ratios (actual data),2014Q2,197.86985413387
+SG,A,Credit-to-GDP ratios (actual data),2014Q3,202.95800423759
+SG,A,Credit-to-GDP ratios (actual data),2014Q4,201.49834764462
+SG,A,Credit-to-GDP ratios (actual data),2015Q1,198.05590638523
+SG,A,Credit-to-GDP ratios (actual data),2015Q2,201.12639920634
+SG,A,Credit-to-GDP ratios (actual data),2015Q3,200.2808392822
+SG,A,Credit-to-GDP ratios (actual data),2015Q4,204.45692484774
+SG,A,Credit-to-GDP ratios (actual data),2016Q1,203.28297100647
+SG,A,Credit-to-GDP ratios (actual data),2016Q2,204.86962211044
+SG,A,Credit-to-GDP ratios (actual data),2016Q3,204.72585162611
+SG,A,Credit-to-GDP ratios (actual data),2016Q4,201.92355339372
+SG,A,Credit-to-GDP ratios (actual data),2017Q1,198.66987270836
+SG,A,Credit-to-GDP ratios (actual data),2017Q2,202.03458042044
+SG,A,Credit-to-GDP ratios (actual data),2017Q3,199.12235209044
+SG,A,Credit-to-GDP ratios (actual data),2017Q4,201.63789018669
+SG,A,Credit-to-GDP ratios (actual data),2018Q1,198.51102546392
+SG,A,Credit-to-GDP ratios (actual data),2018Q2,199.90609305343
+SG,A,Credit-to-GDP ratios (actual data),2018Q3,197.9467626648
+SG,A,Credit-to-GDP ratios (actual data),2018Q4,198.29202891072
+SG,A,Credit-to-GDP ratios (actual data),2019Q1,199.09324283638
+SG,A,Credit-to-GDP ratios (actual data),2019Q2,202.60432138396
+SG,A,Credit-to-GDP ratios (actual data),2019Q3,203.15779279948
+SG,A,Credit-to-GDP ratios (actual data),2019Q4,209.85609493512
+SG,A,Credit-to-GDP ratios (actual data),2020Q1,212.0062334244
+SG,A,Credit-to-GDP ratios (actual data),2020Q2,218.9924703083
+SG,A,Credit-to-GDP ratios (actual data),2020Q3,223.31198273267
+SG,A,Credit-to-GDP ratios (actual data),2020Q4,230.68149640849
+SG,A,Credit-to-GDP ratios (actual data),2021Q1,223.09896156458
+SG,A,Credit-to-GDP ratios (actual data),2021Q2,219.56886460371
+SG,A,Credit-to-GDP ratios (actual data),2021Q3,207.95173605559
+SG,A,Credit-to-GDP ratios (actual data),2021Q4,199.34811960736
+SG,A,Credit-to-GDP ratios (actual data),2022Q1,186.05664987656
+SG,A,Credit-to-GDP ratios (actual data),2022Q2,170.77557006806
+SG,A,Credit-to-GDP ratios (actual data),2022Q3,164.64151622659
+SG,A,Credit-to-GDP ratios (actual data),2022Q4,163.53369363525
+SG,A,Credit-to-GDP ratios (actual data),2023Q1,160.28839458873
+SG,A,Credit-to-GDP ratios (actual data),2023Q2,171.45299901944
+SG,A,Credit-to-GDP ratios (actual data),2023Q3,171.09420276175
+SG,A,Credit-to-GDP ratios (actual data),2023Q4,172.61165880125
+SG,A,Credit-to-GDP ratios (actual data),2024Q1,168.7070336723
+SG,A,Credit-to-GDP ratios (actual data),2024Q2,168.41245448448
+SG,A,Credit-to-GDP ratios (actual data),2024Q3,160.17005002758
+SG,A,Credit-to-GDP ratios (actual data),2024Q4,159.79438698477
+SG,A,Credit-to-GDP ratios (actual data),2025Q1,163.02257791422
+SG,A,Credit-to-GDP ratios (actual data),2025Q2,162.64752744159
+SG,A,Credit-to-GDP ratios (actual data),2025Q3,165.24433359968
+SG,A,Credit-to-GDP ratios (actual data),2025Q4,171.18158196282
+SG,A,Credit-to-GDP ratios (actual data),2026Q1,167.8219916952
+JP,A,Credit-to-GDP ratios (actual data),1964Q4,110.78082460454
+JP,A,Credit-to-GDP ratios (actual data),1965Q1,111.58131897571
+JP,A,Credit-to-GDP ratios (actual data),1965Q2,111.53095817091
+JP,A,Credit-to-GDP ratios (actual data),1965Q3,114.02626042685
+JP,A,Credit-to-GDP ratios (actual data),1965Q4,117.83482249142
+JP,A,Credit-to-GDP ratios (actual data),1966Q1,118.19403086863
+JP,A,Credit-to-GDP ratios (actual data),1966Q2,116.38349175681
+JP,A,Credit-to-GDP ratios (actual data),1966Q3,117.50915832969
+JP,A,Credit-to-GDP ratios (actual data),1966Q4,118.37341237939
+JP,A,Credit-to-GDP ratios (actual data),1967Q1,117.51956768534
+JP,A,Credit-to-GDP ratios (actual data),1967Q2,117.03575610284
+JP,A,Credit-to-GDP ratios (actual data),1967Q3,117.99755158096
+JP,A,Credit-to-GDP ratios (actual data),1967Q4,119.21055798827
+JP,A,Credit-to-GDP ratios (actual data),1968Q1,118.12276362407
+JP,A,Credit-to-GDP ratios (actual data),1968Q2,116.70806206931
+JP,A,Credit-to-GDP ratios (actual data),1968Q3,116.69235773216
+JP,A,Credit-to-GDP ratios (actual data),1968Q4,116.94333597225
+JP,A,Credit-to-GDP ratios (actual data),1969Q1,116.44599214727
+JP,A,Credit-to-GDP ratios (actual data),1969Q2,115.9970838501
+JP,A,Credit-to-GDP ratios (actual data),1969Q3,116.52723693019
+JP,A,Credit-to-GDP ratios (actual data),1969Q4,118.75208606688
+JP,A,Credit-to-GDP ratios (actual data),1970Q1,116.36456870183
+JP,A,Credit-to-GDP ratios (actual data),1970Q2,115.63348236695
+JP,A,Credit-to-GDP ratios (actual data),1970Q3,116.11511263619
+JP,A,Credit-to-GDP ratios (actual data),1970Q4,118.83010777064
+JP,A,Credit-to-GDP ratios (actual data),1971Q1,120.03051071155
+JP,A,Credit-to-GDP ratios (actual data),1971Q2,122.33538076877
+JP,A,Credit-to-GDP ratios (actual data),1971Q3,126.20817937178
+JP,A,Credit-to-GDP ratios (actual data),1971Q4,131.85864007382
+JP,A,Credit-to-GDP ratios (actual data),1972Q1,132.71513567263
+JP,A,Credit-to-GDP ratios (actual data),1972Q2,133.33451244292
+JP,A,Credit-to-GDP ratios (actual data),1972Q3,136.42207622522
+JP,A,Credit-to-GDP ratios (actual data),1972Q4,140.74996935253
+JP,A,Credit-to-GDP ratios (actual data),1973Q1,140.4497234456
+JP,A,Credit-to-GDP ratios (actual data),1973Q2,139.15087867017
+JP,A,Credit-to-GDP ratios (actual data),1973Q3,139.14646194291
+JP,A,Credit-to-GDP ratios (actual data),1973Q4,139.29394803748
+JP,A,Credit-to-GDP ratios (actual data),1974Q1,137.49513551455
+JP,A,Credit-to-GDP ratios (actual data),1974Q2,134.9930692502
+JP,A,Credit-to-GDP ratios (actual data),1974Q3,132.74504274271
+JP,A,Credit-to-GDP ratios (actual data),1974Q4,133.086191446
+JP,A,Credit-to-GDP ratios (actual data),1975Q1,131.95447350333
+JP,A,Credit-to-GDP ratios (actual data),1975Q2,132.07193082983
+JP,A,Credit-to-GDP ratios (actual data),1975Q3,134.06394614933
+JP,A,Credit-to-GDP ratios (actual data),1975Q4,137.44037738093
+JP,A,Credit-to-GDP ratios (actual data),1976Q1,137.10555975804
+JP,A,Credit-to-GDP ratios (actual data),1976Q2,136.47327959925
+JP,A,Credit-to-GDP ratios (actual data),1976Q3,136.79341564156
+JP,A,Credit-to-GDP ratios (actual data),1976Q4,138.469279219
+JP,A,Credit-to-GDP ratios (actual data),1977Q1,137.13647311587
+JP,A,Credit-to-GDP ratios (actual data),1977Q2,135.68178558107
+JP,A,Credit-to-GDP ratios (actual data),1977Q3,136.06363587095
+JP,A,Credit-to-GDP ratios (actual data),1977Q4,136.9869908956
+JP,A,Credit-to-GDP ratios (actual data),1978Q1,135.61316352629
+JP,A,Credit-to-GDP ratios (actual data),1978Q2,134.0262562945
+JP,A,Credit-to-GDP ratios (actual data),1978Q3,134.12205157198
+JP,A,Credit-to-GDP ratios (actual data),1978Q4,136.01177794623
+JP,A,Credit-to-GDP ratios (actual data),1979Q1,134.62654503007
+JP,A,Credit-to-GDP ratios (actual data),1979Q2,134.03464228948
+JP,A,Credit-to-GDP ratios (actual data),1979Q3,135.71361559161
+JP,A,Credit-to-GDP ratios (actual data),1979Q4,138.48761862464
+JP,A,Credit-to-GDP ratios (actual data),1980Q1,138.99322924564
+JP,A,Credit-to-GDP ratios (actual data),1980Q2,138.96510151723
+JP,A,Credit-to-GDP ratios (actual data),1980Q3,139.11459117241
+JP,A,Credit-to-GDP ratios (actual data),1980Q4,140.14524865923
+JP,A,Credit-to-GDP ratios (actual data),1981Q1,139.4250016851
+JP,A,Credit-to-GDP ratios (actual data),1981Q2,138.32430468284
+JP,A,Credit-to-GDP ratios (actual data),1981Q3,140.11031541892
+JP,A,Credit-to-GDP ratios (actual data),1981Q4,143.49236535501
+JP,A,Credit-to-GDP ratios (actual data),1982Q1,143.87835560049
+JP,A,Credit-to-GDP ratios (actual data),1982Q2,143.79485206196
+JP,A,Credit-to-GDP ratios (actual data),1982Q3,146.16184608036
+JP,A,Credit-to-GDP ratios (actual data),1982Q4,149.17802842917
+JP,A,Credit-to-GDP ratios (actual data),1983Q1,151.16861245254
+JP,A,Credit-to-GDP ratios (actual data),1983Q2,151.00068509505
+JP,A,Credit-to-GDP ratios (actual data),1983Q3,152.88337459415
+JP,A,Credit-to-GDP ratios (actual data),1983Q4,155.72745647914
+JP,A,Credit-to-GDP ratios (actual data),1984Q1,156.59062128825
+JP,A,Credit-to-GDP ratios (actual data),1984Q2,155.37776153264
+JP,A,Credit-to-GDP ratios (actual data),1984Q3,158.04361555971
+JP,A,Credit-to-GDP ratios (actual data),1984Q4,159.3826691144
+JP,A,Credit-to-GDP ratios (actual data),1985Q1,160.41215539202
+JP,A,Credit-to-GDP ratios (actual data),1985Q2,158.98621103295
+JP,A,Credit-to-GDP ratios (actual data),1985Q3,160.30555648588
+JP,A,Credit-to-GDP ratios (actual data),1985Q4,162.03992660688
+JP,A,Credit-to-GDP ratios (actual data),1986Q1,162.30790142758
+JP,A,Credit-to-GDP ratios (actual data),1986Q2,161.8448779305
+JP,A,Credit-to-GDP ratios (actual data),1986Q3,164.49516646679
+JP,A,Credit-to-GDP ratios (actual data),1986Q4,168.25194170784
+JP,A,Credit-to-GDP ratios (actual data),1987Q1,170.19095581982
+JP,A,Credit-to-GDP ratios (actual data),1987Q2,176.32222473685
+JP,A,Credit-to-GDP ratios (actual data),1987Q3,180.26151628473
+JP,A,Credit-to-GDP ratios (actual data),1987Q4,183.67325767247
+JP,A,Credit-to-GDP ratios (actual data),1988Q1,183.06176325307
+JP,A,Credit-to-GDP ratios (actual data),1988Q2,183.52592443471
+JP,A,Credit-to-GDP ratios (actual data),1988Q3,186.30729349696
+JP,A,Credit-to-GDP ratios (actual data),1988Q4,190.02157943379
+JP,A,Credit-to-GDP ratios (actual data),1989Q1,191.16998887123
+JP,A,Credit-to-GDP ratios (actual data),1989Q2,192.57971265966
+JP,A,Credit-to-GDP ratios (actual data),1989Q3,197.1525148787
+JP,A,Credit-to-GDP ratios (actual data),1989Q4,201.04987632718
+JP,A,Credit-to-GDP ratios (actual data),1990Q1,205.94288303815
+JP,A,Credit-to-GDP ratios (actual data),1990Q2,204.25663161848
+JP,A,Credit-to-GDP ratios (actual data),1990Q3,205.95318700117
+JP,A,Credit-to-GDP ratios (actual data),1990Q4,207.64690855134
+JP,A,Credit-to-GDP ratios (actual data),1991Q1,205.5657857441
+JP,A,Credit-to-GDP ratios (actual data),1991Q2,204.46314907995
+JP,A,Credit-to-GDP ratios (actual data),1991Q3,204.63115594108
+JP,A,Credit-to-GDP ratios (actual data),1991Q4,206.27475432956
+JP,A,Credit-to-GDP ratios (actual data),1992Q1,204.85485284119
+JP,A,Credit-to-GDP ratios (actual data),1992Q2,204.75272624061
+JP,A,Credit-to-GDP ratios (actual data),1992Q3,205.42326928436
+JP,A,Credit-to-GDP ratios (actual data),1992Q4,208.58685277267
+JP,A,Credit-to-GDP ratios (actual data),1993Q1,208.51763863071
+JP,A,Credit-to-GDP ratios (actual data),1993Q2,209.17049604253
+JP,A,Credit-to-GDP ratios (actual data),1993Q3,211.25385827663
+JP,A,Credit-to-GDP ratios (actual data),1993Q4,213.56459618363
+JP,A,Credit-to-GDP ratios (actual data),1994Q1,211.40456515717
+JP,A,Credit-to-GDP ratios (actual data),1994Q2,208.95194214215
+JP,A,Credit-to-GDP ratios (actual data),1994Q3,209.29853301666
+JP,A,Credit-to-GDP ratios (actual data),1994Q4,209.79583617418
+JP,A,Credit-to-GDP ratios (actual data),1995Q1,209.18121097872
+JP,A,Credit-to-GDP ratios (actual data),1995Q2,207.37067760383
+JP,A,Credit-to-GDP ratios (actual data),1995Q3,207.96914274328
+JP,A,Credit-to-GDP ratios (actual data),1995Q4,208.97109898084
+JP,A,Credit-to-GDP ratios (actual data),1996Q1,207.06370315875
+JP,A,Credit-to-GDP ratios (actual data),1996Q2,204.94560184777
+JP,A,Credit-to-GDP ratios (actual data),1996Q3,203.71232710015
+JP,A,Credit-to-GDP ratios (actual data),1996Q4,204.42481646243
+JP,A,Credit-to-GDP ratios (actual data),1997Q1,201.07367018565
+JP,A,Credit-to-GDP ratios (actual data),1997Q2,199.91779063953
+JP,A,Credit-to-GDP ratios (actual data),1997Q3,199.33275652921
+JP,A,Credit-to-GDP ratios (actual data),1997Q4,202.25804281311
+JP,A,Credit-to-GDP ratios (actual data),1998Q1,199.64566140655
+JP,A,Credit-to-GDP ratios (actual data),1998Q2,199.59869303468
+JP,A,Credit-to-GDP ratios (actual data),1998Q3,200.90407781653
+JP,A,Credit-to-GDP ratios (actual data),1998Q4,196.77383524785
+JP,A,Credit-to-GDP ratios (actual data),1999Q1,193.58887756037
+JP,A,Credit-to-GDP ratios (actual data),1999Q2,191.68732953827
+JP,A,Credit-to-GDP ratios (actual data),1999Q3,191.26525687624
+JP,A,Credit-to-GDP ratios (actual data),1999Q4,194.02738447384
+JP,A,Credit-to-GDP ratios (actual data),2000Q1,191.23272855781
+JP,A,Credit-to-GDP ratios (actual data),2000Q2,187.2142790566
+JP,A,Credit-to-GDP ratios (actual data),2000Q3,186.45331183904
+JP,A,Credit-to-GDP ratios (actual data),2000Q4,184.74973849913
+JP,A,Credit-to-GDP ratios (actual data),2001Q1,182.17721628938
+JP,A,Credit-to-GDP ratios (actual data),2001Q2,179.63146192699
+JP,A,Credit-to-GDP ratios (actual data),2001Q3,179.4886663116
+JP,A,Credit-to-GDP ratios (actual data),2001Q4,180.14052208276
+JP,A,Credit-to-GDP ratios (actual data),2002Q1,179.34115195704
+JP,A,Credit-to-GDP ratios (actual data),2002Q2,178.14108043299
+JP,A,Credit-to-GDP ratios (actual data),2002Q3,175.7310127805
+JP,A,Credit-to-GDP ratios (actual data),2002Q4,176.39791201868
+JP,A,Credit-to-GDP ratios (actual data),2003Q1,174.19095517537
+JP,A,Credit-to-GDP ratios (actual data),2003Q2,171.16111352554
+JP,A,Credit-to-GDP ratios (actual data),2003Q3,168.97653399432
+JP,A,Credit-to-GDP ratios (actual data),2003Q4,169.03917903632
+JP,A,Credit-to-GDP ratios (actual data),2004Q1,166.01523527184
+JP,A,Credit-to-GDP ratios (actual data),2004Q2,163.58180425158
+JP,A,Credit-to-GDP ratios (actual data),2004Q3,162.03514705882
+JP,A,Credit-to-GDP ratios (actual data),2004Q4,162.37738458291
+JP,A,Credit-to-GDP ratios (actual data),2005Q1,163.22962807741
+JP,A,Credit-to-GDP ratios (actual data),2005Q2,161.17313942912
+JP,A,Credit-to-GDP ratios (actual data),2005Q3,161.97407520663
+JP,A,Credit-to-GDP ratios (actual data),2005Q4,162.23484824347
+JP,A,Credit-to-GDP ratios (actual data),2006Q1,161.46247962745
+JP,A,Credit-to-GDP ratios (actual data),2006Q2,160.63588232888
+JP,A,Credit-to-GDP ratios (actual data),2006Q3,161.26169624775
+JP,A,Credit-to-GDP ratios (actual data),2006Q4,161.32790832351
+JP,A,Credit-to-GDP ratios (actual data),2007Q1,160.39524598233
+JP,A,Credit-to-GDP ratios (actual data),2007Q2,157.33194935925
+JP,A,Credit-to-GDP ratios (actual data),2007Q3,158.04014722222
+JP,A,Credit-to-GDP ratios (actual data),2007Q4,159.04409092904
+JP,A,Credit-to-GDP ratios (actual data),2008Q1,157.19724461094
+JP,A,Credit-to-GDP ratios (actual data),2008Q2,159.37065946592
+JP,A,Credit-to-GDP ratios (actual data),2008Q3,159.91399811468
+JP,A,Credit-to-GDP ratios (actual data),2008Q4,163.9742706367
+JP,A,Credit-to-GDP ratios (actual data),2009Q1,165.36360238343
+JP,A,Credit-to-GDP ratios (actual data),2009Q2,167.12156066333
+JP,A,Credit-to-GDP ratios (actual data),2009Q3,169.26596314489
+JP,A,Credit-to-GDP ratios (actual data),2009Q4,170.60969462943
+JP,A,Credit-to-GDP ratios (actual data),2010Q1,167.75862034543
+JP,A,Credit-to-GDP ratios (actual data),2010Q2,166.05215008533
+JP,A,Credit-to-GDP ratios (actual data),2010Q3,163.49129716181
+JP,A,Credit-to-GDP ratios (actual data),2010Q4,161.89096797048
+JP,A,Credit-to-GDP ratios (actual data),2011Q1,160.85641576778
+JP,A,Credit-to-GDP ratios (actual data),2011Q2,160.96032174027
+JP,A,Credit-to-GDP ratios (actual data),2011Q3,161.81619071017
+JP,A,Credit-to-GDP ratios (actual data),2011Q4,162.24425030297
+JP,A,Credit-to-GDP ratios (actual data),2012Q1,160.96746341276
+JP,A,Credit-to-GDP ratios (actual data),2012Q2,157.86677734543
+JP,A,Credit-to-GDP ratios (actual data),2012Q3,158.8215609006
+JP,A,Credit-to-GDP ratios (actual data),2012Q4,160.01282611495
+JP,A,Credit-to-GDP ratios (actual data),2013Q1,160.05983902482
+JP,A,Credit-to-GDP ratios (actual data),2013Q2,158.72178865426
+JP,A,Credit-to-GDP ratios (actual data),2013Q3,158.36125864449
+JP,A,Credit-to-GDP ratios (actual data),2013Q4,158.44226074341
+JP,A,Credit-to-GDP ratios (actual data),2014Q1,157.21818371699
+JP,A,Credit-to-GDP ratios (actual data),2014Q2,155.18229305538
+JP,A,Credit-to-GDP ratios (actual data),2014Q3,155.16742829506
+JP,A,Credit-to-GDP ratios (actual data),2014Q4,155.5568684627
+JP,A,Credit-to-GDP ratios (actual data),2015Q1,154.02991369679
+JP,A,Credit-to-GDP ratios (actual data),2015Q2,151.55130619402
+JP,A,Credit-to-GDP ratios (actual data),2015Q3,150.85860997451
+JP,A,Credit-to-GDP ratios (actual data),2015Q4,151.195424626
+JP,A,Credit-to-GDP ratios (actual data),2016Q1,150.16616713619
+JP,A,Credit-to-GDP ratios (actual data),2016Q2,150.67872765498
+JP,A,Credit-to-GDP ratios (actual data),2016Q3,152.04757579169
+JP,A,Credit-to-GDP ratios (actual data),2016Q4,153.47083447346
+JP,A,Credit-to-GDP ratios (actual data),2017Q1,153.91388354514
+JP,A,Credit-to-GDP ratios (actual data),2017Q2,153.21035416768
+JP,A,Credit-to-GDP ratios (actual data),2017Q3,153.1954126065
+JP,A,Credit-to-GDP ratios (actual data),2017Q4,153.44134702776
+JP,A,Credit-to-GDP ratios (actual data),2018Q1,152.94370907185
+JP,A,Credit-to-GDP ratios (actual data),2018Q2,153.52044630385
+JP,A,Credit-to-GDP ratios (actual data),2018Q3,154.7623860943
+JP,A,Credit-to-GDP ratios (actual data),2018Q4,156.37195946675
+JP,A,Credit-to-GDP ratios (actual data),2019Q1,156.75867627713
+JP,A,Credit-to-GDP ratios (actual data),2019Q2,157.20755213759
+JP,A,Credit-to-GDP ratios (actual data),2019Q3,158.59165995904
+JP,A,Credit-to-GDP ratios (actual data),2019Q4,160.98717781191
+JP,A,Credit-to-GDP ratios (actual data),2020Q1,161.8836113884
+JP,A,Credit-to-GDP ratios (actual data),2020Q2,173.38464367735
+JP,A,Credit-to-GDP ratios (actual data),2020Q3,176.96360138775
+JP,A,Credit-to-GDP ratios (actual data),2020Q4,179.05740539116
+JP,A,Credit-to-GDP ratios (actual data),2021Q1,179.82537628818
+JP,A,Credit-to-GDP ratios (actual data),2021Q2,177.3296274301
+JP,A,Credit-to-GDP ratios (actual data),2021Q3,176.73241819949
+JP,A,Credit-to-GDP ratios (actual data),2021Q4,177.74708712016
+JP,A,Credit-to-GDP ratios (actual data),2022Q1,177.51429479489
+JP,A,Credit-to-GDP ratios (actual data),2022Q2,178.44018394121
+JP,A,Credit-to-GDP ratios (actual data),2022Q3,178.44935496122
+JP,A,Credit-to-GDP ratios (actual data),2022Q4,178.85203263436
+JP,A,Credit-to-GDP ratios (actual data),2023Q1,177.1887254904
+JP,A,Credit-to-GDP ratios (actual data),2023Q2,175.97588267757
+JP,A,Credit-to-GDP ratios (actual data),2023Q3,175.05433672986
+JP,A,Credit-to-GDP ratios (actual data),2023Q4,174.52252834751
+JP,A,Credit-to-GDP ratios (actual data),2024Q1,174.73095208437
+JP,A,Credit-to-GDP ratios (actual data),2024Q2,174.40379963387
+JP,A,Credit-to-GDP ratios (actual data),2024Q3,172.17327726542
+JP,A,Credit-to-GDP ratios (actual data),2024Q4,173.22004694116
+JP,A,Credit-to-GDP ratios (actual data),2025Q1,170.98782192565
+JP,A,Credit-to-GDP ratios (actual data),2025Q2,170.0553158581
+JP,A,Credit-to-GDP ratios (actual data),2025Q3,171.27248583764
+JP,A,Credit-to-GDP ratios (actual data),2025Q4,173.44612259558
+JP,A,Credit-to-GDP ratios (actual data),2026Q1,173.72715189629
+KR,C,Credit-to-GDP gaps (actual-trend),1972Q4,-3.8925
+KR,C,Credit-to-GDP gaps (actual-trend),1973Q1,-4.5068
+KR,C,Credit-to-GDP gaps (actual-trend),1973Q2,-4.3669
+KR,C,Credit-to-GDP gaps (actual-trend),1973Q3,-4.8415
+KR,C,Credit-to-GDP gaps (actual-trend),1973Q4,-5.3252
+KR,C,Credit-to-GDP gaps (actual-trend),1974Q1,-6.242
+KR,C,Credit-to-GDP gaps (actual-trend),1974Q2,-6.2243
+KR,C,Credit-to-GDP gaps (actual-trend),1974Q3,-4.7388
+KR,C,Credit-to-GDP gaps (actual-trend),1974Q4,-5.517
+KR,C,Credit-to-GDP gaps (actual-trend),1975Q1,-9.5301
+KR,C,Credit-to-GDP gaps (actual-trend),1975Q2,-10.8254
+KR,C,Credit-to-GDP gaps (actual-trend),1975Q3,-11.2403
+KR,C,Credit-to-GDP gaps (actual-trend),1975Q4,-12.4455
+KR,C,Credit-to-GDP gaps (actual-trend),1976Q1,-12.9758
+KR,C,Credit-to-GDP gaps (actual-trend),1976Q2,-14.6538
+KR,C,Credit-to-GDP gaps (actual-trend),1976Q3,-13.8505
+KR,C,Credit-to-GDP gaps (actual-trend),1976Q4,-14.2645
+KR,C,Credit-to-GDP gaps (actual-trend),1977Q1,-14.3292
+KR,C,Credit-to-GDP gaps (actual-trend),1977Q2,-13.567
+KR,C,Credit-to-GDP gaps (actual-trend),1977Q3,-11.9423
+KR,C,Credit-to-GDP gaps (actual-trend),1977Q4,-12.5359
+KR,C,Credit-to-GDP gaps (actual-trend),1978Q1,-10.5397
+KR,C,Credit-to-GDP gaps (actual-trend),1978Q2,-8.7274
+KR,C,Credit-to-GDP gaps (actual-trend),1978Q3,-8.6804
+KR,C,Credit-to-GDP gaps (actual-trend),1978Q4,-8.2219
+KR,C,Credit-to-GDP gaps (actual-trend),1979Q1,-7.7698
+KR,C,Credit-to-GDP gaps (actual-trend),1979Q2,-7.3078
+KR,C,Credit-to-GDP gaps (actual-trend),1979Q3,-4.4928
+KR,C,Credit-to-GDP gaps (actual-trend),1979Q4,-2.819
+KR,C,Credit-to-GDP gaps (actual-trend),1980Q1,3.2347
+KR,C,Credit-to-GDP gaps (actual-trend),1980Q2,4.6648
+KR,C,Credit-to-GDP gaps (actual-trend),1980Q3,6.8442
+KR,C,Credit-to-GDP gaps (actual-trend),1980Q4,8.312
+KR,C,Credit-to-GDP gaps (actual-trend),1981Q1,7.7963
+KR,C,Credit-to-GDP gaps (actual-trend),1981Q2,8.407
+KR,C,Credit-to-GDP gaps (actual-trend),1981Q3,8.1706
+KR,C,Credit-to-GDP gaps (actual-trend),1981Q4,9.436
+KR,C,Credit-to-GDP gaps (actual-trend),1982Q1,9.3195
+KR,C,Credit-to-GDP gaps (actual-trend),1982Q2,7.9437
+KR,C,Credit-to-GDP gaps (actual-trend),1982Q3,9.5654
+KR,C,Credit-to-GDP gaps (actual-trend),1982Q4,14.1295
+KR,C,Credit-to-GDP gaps (actual-trend),1983Q1,13.7823
+KR,C,Credit-to-GDP gaps (actual-trend),1983Q2,13.5418
+KR,C,Credit-to-GDP gaps (actual-trend),1983Q3,10.7144
+KR,C,Credit-to-GDP gaps (actual-trend),1983Q4,10.2282
+KR,C,Credit-to-GDP gaps (actual-trend),1984Q1,9.3327
+KR,C,Credit-to-GDP gaps (actual-trend),1984Q2,9.216
+KR,C,Credit-to-GDP gaps (actual-trend),1984Q3,8.4617
+KR,C,Credit-to-GDP gaps (actual-trend),1984Q4,8.5972
+KR,C,Credit-to-GDP gaps (actual-trend),1985Q1,9.7532
+KR,C,Credit-to-GDP gaps (actual-trend),1985Q2,11.3805
+KR,C,Credit-to-GDP gaps (actual-trend),1985Q3,12.2875
+KR,C,Credit-to-GDP gaps (actual-trend),1985Q4,9.2863
+KR,C,Credit-to-GDP gaps (actual-trend),1986Q1,6.6082
+KR,C,Credit-to-GDP gaps (actual-trend),1986Q2,6.6393
+KR,C,Credit-to-GDP gaps (actual-trend),1986Q3,3.9402
+KR,C,Credit-to-GDP gaps (actual-trend),1986Q4,2.2698
+KR,C,Credit-to-GDP gaps (actual-trend),1987Q1,-0.2336
+KR,C,Credit-to-GDP gaps (actual-trend),1987Q2,-1.7103
+KR,C,Credit-to-GDP gaps (actual-trend),1987Q3,-2.9994
+KR,C,Credit-to-GDP gaps (actual-trend),1987Q4,-5.3877
+KR,C,Credit-to-GDP gaps (actual-trend),1988Q1,-9.2211
+KR,C,Credit-to-GDP gaps (actual-trend),1988Q2,-7.988
+KR,C,Credit-to-GDP gaps (actual-trend),1988Q3,-9.7263
+KR,C,Credit-to-GDP gaps (actual-trend),1988Q4,-11.4052
+KR,C,Credit-to-GDP gaps (actual-trend),1989Q1,-8.8486
+KR,C,Credit-to-GDP gaps (actual-trend),1989Q2,-4.0788
+KR,C,Credit-to-GDP gaps (actual-trend),1989Q3,-1.7622
+KR,C,Credit-to-GDP gaps (actual-trend),1989Q4,-1.4586
+KR,C,Credit-to-GDP gaps (actual-trend),1990Q1,-1.9835
+KR,C,Credit-to-GDP gaps (actual-trend),1990Q2,-1.1075
+KR,C,Credit-to-GDP gaps (actual-trend),1990Q3,-1.5743
+KR,C,Credit-to-GDP gaps (actual-trend),1990Q4,2.6931
+KR,C,Credit-to-GDP gaps (actual-trend),1991Q1,5.2611
+KR,C,Credit-to-GDP gaps (actual-trend),1991Q2,4.3539
+KR,C,Credit-to-GDP gaps (actual-trend),1991Q3,5.2514
+KR,C,Credit-to-GDP gaps (actual-trend),1991Q4,4.1757
+KR,C,Credit-to-GDP gaps (actual-trend),1992Q1,3.6842
+KR,C,Credit-to-GDP gaps (actual-trend),1992Q2,2.9302
+KR,C,Credit-to-GDP gaps (actual-trend),1992Q3,3.3587
+KR,C,Credit-to-GDP gaps (actual-trend),1992Q4,3.8389
+KR,C,Credit-to-GDP gaps (actual-trend),1993Q1,3.983
+KR,C,Credit-to-GDP gaps (actual-trend),1993Q2,4.4704
+KR,C,Credit-to-GDP gaps (actual-trend),1993Q3,6.3142
+KR,C,Credit-to-GDP gaps (actual-trend),1993Q4,3.5996
+KR,C,Credit-to-GDP gaps (actual-trend),1994Q1,3.2387
+KR,C,Credit-to-GDP gaps (actual-trend),1994Q2,3.6205
+KR,C,Credit-to-GDP gaps (actual-trend),1994Q3,5.2588
+KR,C,Credit-to-GDP gaps (actual-trend),1994Q4,3.1355
+KR,C,Credit-to-GDP gaps (actual-trend),1995Q1,2.6203
+KR,C,Credit-to-GDP gaps (actual-trend),1995Q2,2.3081
+KR,C,Credit-to-GDP gaps (actual-trend),1995Q3,1.4045
+KR,C,Credit-to-GDP gaps (actual-trend),1995Q4,0.113
+KR,C,Credit-to-GDP gaps (actual-trend),1996Q1,0.4468
+KR,C,Credit-to-GDP gaps (actual-trend),1996Q2,1.8966
+KR,C,Credit-to-GDP gaps (actual-trend),1996Q3,4.9731
+KR,C,Credit-to-GDP gaps (actual-trend),1996Q4,4.512
+KR,C,Credit-to-GDP gaps (actual-trend),1997Q1,8.1576
+KR,C,Credit-to-GDP gaps (actual-trend),1997Q2,7.5327
+KR,C,Credit-to-GDP gaps (actual-trend),1997Q3,7.7384
+KR,C,Credit-to-GDP gaps (actual-trend),1997Q4,12.7814
+KR,C,Credit-to-GDP gaps (actual-trend),1998Q1,9.7483
+KR,C,Credit-to-GDP gaps (actual-trend),1998Q2,7.8972
+KR,C,Credit-to-GDP gaps (actual-trend),1998Q3,9.9849
+KR,C,Credit-to-GDP gaps (actual-trend),1998Q4,5.3466
+KR,C,Credit-to-GDP gaps (actual-trend),1999Q1,9.0939
+KR,C,Credit-to-GDP gaps (actual-trend),1999Q2,0.2965
+KR,C,Credit-to-GDP gaps (actual-trend),1999Q3,-4.1083
+KR,C,Credit-to-GDP gaps (actual-trend),1999Q4,-12.6898
+KR,C,Credit-to-GDP gaps (actual-trend),2000Q1,-13.1799
+KR,C,Credit-to-GDP gaps (actual-trend),2000Q2,-16.4022
+KR,C,Credit-to-GDP gaps (actual-trend),2000Q3,-16.6306
+KR,C,Credit-to-GDP gaps (actual-trend),2000Q4,-19.2163
+KR,C,Credit-to-GDP gaps (actual-trend),2001Q1,-18.2051
+KR,C,Credit-to-GDP gaps (actual-trend),2001Q2,-18.4239
+KR,C,Credit-to-GDP gaps (actual-trend),2001Q3,-16.4496
+KR,C,Credit-to-GDP gaps (actual-trend),2001Q4,-17.4797
+KR,C,Credit-to-GDP gaps (actual-trend),2002Q1,-14.7831
+KR,C,Credit-to-GDP gaps (actual-trend),2002Q2,-12.7581
+KR,C,Credit-to-GDP gaps (actual-trend),2002Q3,-11.4161
+KR,C,Credit-to-GDP gaps (actual-trend),2002Q4,-11.4438
+KR,C,Credit-to-GDP gaps (actual-trend),2003Q1,-11.5929
+KR,C,Credit-to-GDP gaps (actual-trend),2003Q2,-12.5455
+KR,C,Credit-to-GDP gaps (actual-trend),2003Q3,-13.3129
+KR,C,Credit-to-GDP gaps (actual-trend),2003Q4,-14.3881
+KR,C,Credit-to-GDP gaps (actual-trend),2004Q1,-15.9829
+KR,C,Credit-to-GDP gaps (actual-trend),2004Q2,-18.0348
+KR,C,Credit-to-GDP gaps (actual-trend),2004Q3,-18.8212
+KR,C,Credit-to-GDP gaps (actual-trend),2004Q4,-20.9925
+KR,C,Credit-to-GDP gaps (actual-trend),2005Q1,-20.9016
+KR,C,Credit-to-GDP gaps (actual-trend),2005Q2,-18.7913
+KR,C,Credit-to-GDP gaps (actual-trend),2005Q3,-17.9958
+KR,C,Credit-to-GDP gaps (actual-trend),2005Q4,-16.7221
+KR,C,Credit-to-GDP gaps (actual-trend),2006Q1,-15.3056
+KR,C,Credit-to-GDP gaps (actual-trend),2006Q2,-11.507
+KR,C,Credit-to-GDP gaps (actual-trend),2006Q3,-8.7015
+KR,C,Credit-to-GDP gaps (actual-trend),2006Q4,-5.4521
+KR,C,Credit-to-GDP gaps (actual-trend),2007Q1,-3.7427
+KR,C,Credit-to-GDP gaps (actual-trend),2007Q2,-2.3537
+KR,C,Credit-to-GDP gaps (actual-trend),2007Q3,-1.7012
+KR,C,Credit-to-GDP gaps (actual-trend),2007Q4,-0.7106
+KR,C,Credit-to-GDP gaps (actual-trend),2008Q1,2.189
+KR,C,Credit-to-GDP gaps (actual-trend),2008Q2,5.1056
+KR,C,Credit-to-GDP gaps (actual-trend),2008Q3,7.4096
+KR,C,Credit-to-GDP gaps (actual-trend),2008Q4,10.0163
+KR,C,Credit-to-GDP gaps (actual-trend),2009Q1,11.1928
+KR,C,Credit-to-GDP gaps (actual-trend),2009Q2,12.4496
+KR,C,Credit-to-GDP gaps (actual-trend),2009Q3,12.377
+KR,C,Credit-to-GDP gaps (actual-trend),2009Q4,10.7041
+KR,C,Credit-to-GDP gaps (actual-trend),2010Q1,7.8106
+KR,C,Credit-to-GDP gaps (actual-trend),2010Q2,6.3886
+KR,C,Credit-to-GDP gaps (actual-trend),2010Q3,4.9068
+KR,C,Credit-to-GDP gaps (actual-trend),2010Q4,2.6393
+KR,C,Credit-to-GDP gaps (actual-trend),2011Q1,2.3068
+KR,C,Credit-to-GDP gaps (actual-trend),2011Q2,2.8168
+KR,C,Credit-to-GDP gaps (actual-trend),2011Q3,4.5512
+KR,C,Credit-to-GDP gaps (actual-trend),2011Q4,3.7558
+KR,C,Credit-to-GDP gaps (actual-trend),2012Q1,3.4207
+KR,C,Credit-to-GDP gaps (actual-trend),2012Q2,3.7867
+KR,C,Credit-to-GDP gaps (actual-trend),2012Q3,4.4573
+KR,C,Credit-to-GDP gaps (actual-trend),2012Q4,2.8751
+KR,C,Credit-to-GDP gaps (actual-trend),2013Q1,3.9735
+KR,C,Credit-to-GDP gaps (actual-trend),2013Q2,3.3185
+KR,C,Credit-to-GDP gaps (actual-trend),2013Q3,2.2093
+KR,C,Credit-to-GDP gaps (actual-trend),2013Q4,0.5911
+KR,C,Credit-to-GDP gaps (actual-trend),2014Q1,0.239
+KR,C,Credit-to-GDP gaps (actual-trend),2014Q2,-0.232
+KR,C,Credit-to-GDP gaps (actual-trend),2014Q3,1.0514
+KR,C,Credit-to-GDP gaps (actual-trend),2014Q4,1.1718
+KR,C,Credit-to-GDP gaps (actual-trend),2015Q1,0.4363
+KR,C,Credit-to-GDP gaps (actual-trend),2015Q2,-0.1366
+KR,C,Credit-to-GDP gaps (actual-trend),2015Q3,0.315
+KR,C,Credit-to-GDP gaps (actual-trend),2015Q4,-0.2169
+KR,C,Credit-to-GDP gaps (actual-trend),2016Q1,-0.9925
+KR,C,Credit-to-GDP gaps (actual-trend),2016Q2,-1.2371
+KR,C,Credit-to-GDP gaps (actual-trend),2016Q3,-1.7414
+KR,C,Credit-to-GDP gaps (actual-trend),2016Q4,-1.858
+KR,C,Credit-to-GDP gaps (actual-trend),2017Q1,-2.853
+KR,C,Credit-to-GDP gaps (actual-trend),2017Q2,-2.0149
+KR,C,Credit-to-GDP gaps (actual-trend),2017Q3,-2.6217
+KR,C,Credit-to-GDP gaps (actual-trend),2017Q4,-3.3889
+KR,C,Credit-to-GDP gaps (actual-trend),2018Q1,-3.008
+KR,C,Credit-to-GDP gaps (actual-trend),2018Q2,-2.3839
+KR,C,Credit-to-GDP gaps (actual-trend),2018Q3,-1.0797
+KR,C,Credit-to-GDP gaps (actual-trend),2018Q4,-0.5733
+KR,C,Credit-to-GDP gaps (actual-trend),2019Q1,0.1207
+KR,C,Credit-to-GDP gaps (actual-trend),2019Q2,1.9053
+KR,C,Credit-to-GDP gaps (actual-trend),2019Q3,3.4251
+KR,C,Credit-to-GDP gaps (actual-trend),2019Q4,4.5682
+KR,C,Credit-to-GDP gaps (actual-trend),2020Q1,7.0848
+KR,C,Credit-to-GDP gaps (actual-trend),2020Q2,11.2729
+KR,C,Credit-to-GDP gaps (actual-trend),2020Q3,13.9902
+KR,C,Credit-to-GDP gaps (actual-trend),2020Q4,15.0815
+KR,C,Credit-to-GDP gaps (actual-trend),2021Q1,15.579
+KR,C,Credit-to-GDP gaps (actual-trend),2021Q2,15.311
+KR,C,Credit-to-GDP gaps (actual-trend),2021Q3,15.0027
+KR,C,Credit-to-GDP gaps (actual-trend),2021Q4,13.7711
+KR,C,Credit-to-GDP gaps (actual-trend),2022Q1,11.494
+KR,C,Credit-to-GDP gaps (actual-trend),2022Q2,11.3505
+KR,C,Credit-to-GDP gaps (actual-trend),2022Q3,11.8718
+KR,C,Credit-to-GDP gaps (actual-trend),2022Q4,11.2411
+KR,C,Credit-to-GDP gaps (actual-trend),2023Q1,9.548
+KR,C,Credit-to-GDP gaps (actual-trend),2023Q2,8.3705
+KR,C,Credit-to-GDP gaps (actual-trend),2023Q3,7.5262
+KR,C,Credit-to-GDP gaps (actual-trend),2023Q4,3.696
+KR,C,Credit-to-GDP gaps (actual-trend),2024Q1,0.0975
+KR,C,Credit-to-GDP gaps (actual-trend),2024Q2,-2.253
+KR,C,Credit-to-GDP gaps (actual-trend),2024Q3,-3.7729
+KR,C,Credit-to-GDP gaps (actual-trend),2024Q4,-5.1964
+KR,C,Credit-to-GDP gaps (actual-trend),2025Q1,-5.5359
+KR,C,Credit-to-GDP gaps (actual-trend),2025Q2,-6.3192
+KR,C,Credit-to-GDP gaps (actual-trend),2025Q3,-6.9947
+KR,C,Credit-to-GDP gaps (actual-trend),2025Q4,-8.6642
+KR,C,Credit-to-GDP gaps (actual-trend),2026Q1,-15.1257
+KR,B,Credit-to-GDP trend (HP filter),1972Q4,61.2001
+KR,B,Credit-to-GDP trend (HP filter),1973Q1,61.8888
+KR,B,Credit-to-GDP trend (HP filter),1973Q2,62.5847
+KR,B,Credit-to-GDP trend (HP filter),1973Q3,63.2274
+KR,B,Credit-to-GDP trend (HP filter),1973Q4,63.8165
+KR,B,Credit-to-GDP trend (HP filter),1974Q1,64.3114
+KR,B,Credit-to-GDP trend (HP filter),1974Q2,64.7992
+KR,B,Credit-to-GDP trend (HP filter),1974Q3,65.4131
+KR,B,Credit-to-GDP trend (HP filter),1974Q4,65.9513
+KR,B,Credit-to-GDP trend (HP filter),1975Q1,66.132
+KR,B,Credit-to-GDP trend (HP filter),1975Q2,66.1891
+KR,B,Credit-to-GDP trend (HP filter),1975Q3,66.1971
+KR,B,Credit-to-GDP trend (HP filter),1975Q4,66.0907
+KR,B,Credit-to-GDP trend (HP filter),1976Q1,65.925
+KR,B,Credit-to-GDP trend (HP filter),1976Q2,65.6082
+KR,B,Credit-to-GDP trend (HP filter),1976Q3,65.336
+KR,B,Credit-to-GDP trend (HP filter),1976Q4,65.0141
+KR,B,Credit-to-GDP trend (HP filter),1977Q1,64.669
+KR,B,Credit-to-GDP trend (HP filter),1977Q2,64.3635
+KR,B,Credit-to-GDP trend (HP filter),1977Q3,64.1621
+KR,B,Credit-to-GDP trend (HP filter),1977Q4,63.9018
+KR,B,Credit-to-GDP trend (HP filter),1978Q1,63.7709
+KR,B,Credit-to-GDP trend (HP filter),1978Q2,63.757
+KR,B,Credit-to-GDP trend (HP filter),1978Q3,63.7353
+KR,B,Credit-to-GDP trend (HP filter),1978Q4,63.7348
+KR,B,Credit-to-GDP trend (HP filter),1979Q1,63.7553
+KR,B,Credit-to-GDP trend (HP filter),1979Q2,63.7975
+KR,B,Credit-to-GDP trend (HP filter),1979Q3,64.0224
+KR,B,Credit-to-GDP trend (HP filter),1979Q4,64.3545
+KR,B,Credit-to-GDP trend (HP filter),1980Q1,65.0885
+KR,B,Credit-to-GDP trend (HP filter),1980Q2,65.9218
+KR,B,Credit-to-GDP trend (HP filter),1980Q3,66.9047
+KR,B,Credit-to-GDP trend (HP filter),1980Q4,67.9927
+KR,B,Credit-to-GDP trend (HP filter),1981Q1,69.0584
+KR,B,Credit-to-GDP trend (HP filter),1981Q2,70.1739
+KR,B,Credit-to-GDP trend (HP filter),1981Q3,71.2856
+KR,B,Credit-to-GDP trend (HP filter),1981Q4,72.489
+KR,B,Credit-to-GDP trend (HP filter),1982Q1,73.6979
+KR,B,Credit-to-GDP trend (HP filter),1982Q2,74.8333
+KR,B,Credit-to-GDP trend (HP filter),1982Q3,76.081
+KR,B,Credit-to-GDP trend (HP filter),1982Q4,77.6256
+KR,B,Credit-to-GDP trend (HP filter),1983Q1,79.1687
+KR,B,Credit-to-GDP trend (HP filter),1983Q2,80.7165
+KR,B,Credit-to-GDP trend (HP filter),1983Q3,82.1104
+KR,B,Credit-to-GDP trend (HP filter),1983Q4,83.4901
+KR,B,Credit-to-GDP trend (HP filter),1984Q1,84.8302
+KR,B,Credit-to-GDP trend (HP filter),1984Q2,86.1767
+KR,B,Credit-to-GDP trend (HP filter),1984Q3,87.4912
+KR,B,Credit-to-GDP trend (HP filter),1984Q4,88.8263
+KR,B,Credit-to-GDP trend (HP filter),1985Q1,90.2434
+KR,B,Credit-to-GDP trend (HP filter),1985Q2,91.7722
+KR,B,Credit-to-GDP trend (HP filter),1985Q3,93.3721
+KR,B,Credit-to-GDP trend (HP filter),1985Q4,94.812
+KR,B,Credit-to-GDP trend (HP filter),1986Q1,96.107
+KR,B,Credit-to-GDP trend (HP filter),1986Q2,97.4139
+KR,B,Credit-to-GDP trend (HP filter),1986Q3,98.5715
+KR,B,Credit-to-GDP trend (HP filter),1986Q4,99.6366
+KR,B,Credit-to-GDP trend (HP filter),1987Q1,100.5579
+KR,B,Credit-to-GDP trend (HP filter),1987Q2,101.392
+KR,B,Credit-to-GDP trend (HP filter),1987Q3,102.1478
+KR,B,Credit-to-GDP trend (HP filter),1987Q4,102.759
+KR,B,Credit-to-GDP trend (HP filter),1988Q1,103.1375
+KR,B,Credit-to-GDP trend (HP filter),1988Q2,103.5736
+KR,B,Credit-to-GDP trend (HP filter),1988Q3,103.8957
+KR,B,Credit-to-GDP trend (HP filter),1988Q4,104.1045
+KR,B,Credit-to-GDP trend (HP filter),1989Q1,104.4444
+KR,B,Credit-to-GDP trend (HP filter),1989Q2,105.0481
+KR,B,Credit-to-GDP trend (HP filter),1989Q3,105.7801
+KR,B,Credit-to-GDP trend (HP filter),1989Q4,106.527
+KR,B,Credit-to-GDP trend (HP filter),1990Q1,107.2411
+KR,B,Credit-to-GDP trend (HP filter),1990Q2,108.003
+KR,B,Credit-to-GDP trend (HP filter),1990Q3,108.7359
+KR,B,Credit-to-GDP trend (HP filter),1990Q4,109.7141
+KR,B,Credit-to-GDP trend (HP filter),1991Q1,110.8456
+KR,B,Credit-to-GDP trend (HP filter),1991Q2,111.9329
+KR,B,Credit-to-GDP trend (HP filter),1991Q3,113.0793
+KR,B,Credit-to-GDP trend (HP filter),1991Q4,114.1718
+KR,B,Credit-to-GDP trend (HP filter),1992Q1,115.2425
+KR,B,Credit-to-GDP trend (HP filter),1992Q2,116.2755
+KR,B,Credit-to-GDP trend (HP filter),1992Q3,117.338
+KR,B,Credit-to-GDP trend (HP filter),1992Q4,118.4338
+KR,B,Credit-to-GDP trend (HP filter),1993Q1,119.5442
+KR,B,Credit-to-GDP trend (HP filter),1993Q2,120.6893
+KR,B,Credit-to-GDP trend (HP filter),1993Q3,121.9484
+KR,B,Credit-to-GDP trend (HP filter),1993Q4,123.0605
+KR,B,Credit-to-GDP trend (HP filter),1994Q1,124.1576
+KR,B,Credit-to-GDP trend (HP filter),1994Q2,125.282
+KR,B,Credit-to-GDP trend (HP filter),1994Q3,126.5072
+KR,B,Credit-to-GDP trend (HP filter),1994Q4,127.6181
+KR,B,Credit-to-GDP trend (HP filter),1995Q1,128.7041
+KR,B,Credit-to-GDP trend (HP filter),1995Q2,129.7764
+KR,B,Credit-to-GDP trend (HP filter),1995Q3,130.8001
+KR,B,Credit-to-GDP trend (HP filter),1995Q4,131.7513
+KR,B,Credit-to-GDP trend (HP filter),1996Q1,132.7221
+KR,B,Credit-to-GDP trend (HP filter),1996Q2,133.7774
+KR,B,Credit-to-GDP trend (HP filter),1996Q3,135.014
+KR,B,Credit-to-GDP trend (HP filter),1996Q4,136.232
+KR,B,Credit-to-GDP trend (HP filter),1997Q1,137.6685
+KR,B,Credit-to-GDP trend (HP filter),1997Q2,139.082
+KR,B,Credit-to-GDP trend (HP filter),1997Q3,140.5197
+KR,B,Credit-to-GDP trend (HP filter),1997Q4,142.262
+KR,B,Credit-to-GDP trend (HP filter),1998Q1,143.8494
+KR,B,Credit-to-GDP trend (HP filter),1998Q2,145.3456
+KR,B,Credit-to-GDP trend (HP filter),1998Q3,146.9756
+KR,B,Credit-to-GDP trend (HP filter),1998Q4,148.3532
+KR,B,Credit-to-GDP trend (HP filter),1999Q1,149.9565
+KR,B,Credit-to-GDP trend (HP filter),1999Q2,151.0653
+KR,B,Credit-to-GDP trend (HP filter),1999Q3,151.9196
+KR,B,Credit-to-GDP trend (HP filter),1999Q4,152.2703
+KR,B,Credit-to-GDP trend (HP filter),2000Q1,152.5721
+KR,B,Credit-to-GDP trend (HP filter),2000Q2,152.6658
+KR,B,Credit-to-GDP trend (HP filter),2000Q3,152.7196
+KR,B,Credit-to-GDP trend (HP filter),2000Q4,152.5966
+KR,B,Credit-to-GDP trend (HP filter),2001Q1,152.5009
+KR,B,Credit-to-GDP trend (HP filter),2001Q2,152.3629
+KR,B,Credit-to-GDP trend (HP filter),2001Q3,152.3092
+KR,B,Credit-to-GDP trend (HP filter),2001Q4,152.1691
+KR,B,Credit-to-GDP trend (HP filter),2002Q1,152.1567
+KR,B,Credit-to-GDP trend (HP filter),2002Q2,152.2374
+KR,B,Credit-to-GDP trend (HP filter),2002Q3,152.375
+KR,B,Credit-to-GDP trend (HP filter),2002Q4,152.4925
+KR,B,Credit-to-GDP trend (HP filter),2003Q1,152.5828
+KR,B,Credit-to-GDP trend (HP filter),2003Q2,152.599
+KR,B,Credit-to-GDP trend (HP filter),2003Q3,152.5504
+KR,B,Credit-to-GDP trend (HP filter),2003Q4,152.4179
+KR,B,Credit-to-GDP trend (HP filter),2004Q1,152.1698
+KR,B,Credit-to-GDP trend (HP filter),2004Q2,151.7768
+KR,B,Credit-to-GDP trend (HP filter),2004Q3,151.309
+KR,B,Credit-to-GDP trend (HP filter),2004Q4,150.685
+KR,B,Credit-to-GDP trend (HP filter),2005Q1,150.032
+KR,B,Credit-to-GDP trend (HP filter),2005Q2,149.4672
+KR,B,Credit-to-GDP trend (HP filter),2005Q3,148.9179
+KR,B,Credit-to-GDP trend (HP filter),2005Q4,148.4131
+KR,B,Credit-to-GDP trend (HP filter),2006Q1,147.963
+KR,B,Credit-to-GDP trend (HP filter),2006Q2,147.7079
+KR,B,Credit-to-GDP trend (HP filter),2006Q3,147.5964
+KR,B,Credit-to-GDP trend (HP filter),2006Q4,147.6588
+KR,B,Credit-to-GDP trend (HP filter),2007Q1,147.8112
+KR,B,Credit-to-GDP trend (HP filter),2007Q2,148.038
+KR,B,Credit-to-GDP trend (HP filter),2007Q3,148.2987
+KR,B,Credit-to-GDP trend (HP filter),2007Q4,148.6139
+KR,B,Credit-to-GDP trend (HP filter),2008Q1,149.0958
+KR,B,Credit-to-GDP trend (HP filter),2008Q2,149.7499
+KR,B,Credit-to-GDP trend (HP filter),2008Q3,150.5457
+KR,B,Credit-to-GDP trend (HP filter),2008Q4,151.5044
+KR,B,Credit-to-GDP trend (HP filter),2009Q1,152.5475
+KR,B,Credit-to-GDP trend (HP filter),2009Q2,153.6814
+KR,B,Credit-to-GDP trend (HP filter),2009Q3,154.8314
+KR,B,Credit-to-GDP trend (HP filter),2009Q4,155.9047
+KR,B,Credit-to-GDP trend (HP filter),2010Q1,156.8281
+KR,B,Credit-to-GDP trend (HP filter),2010Q2,157.6818
+KR,B,Credit-to-GDP trend (HP filter),2010Q3,158.4602
+KR,B,Credit-to-GDP trend (HP filter),2010Q4,159.1154
+KR,B,Credit-to-GDP trend (HP filter),2011Q1,159.7556
+KR,B,Credit-to-GDP trend (HP filter),2011Q2,160.4291
+KR,B,Credit-to-GDP trend (HP filter),2011Q3,161.2075
+KR,B,Credit-to-GDP trend (HP filter),2011Q4,161.9473
+KR,B,Credit-to-GDP trend (HP filter),2012Q1,162.6738
+KR,B,Credit-to-GDP trend (HP filter),2012Q2,163.4271
+KR,B,Credit-to-GDP trend (HP filter),2012Q3,164.2253
+KR,B,Credit-to-GDP trend (HP filter),2012Q4,164.9392
+KR,B,Credit-to-GDP trend (HP filter),2013Q1,165.7213
+KR,B,Credit-to-GDP trend (HP filter),2013Q2,166.4721
+KR,B,Credit-to-GDP trend (HP filter),2013Q3,167.164
+KR,B,Credit-to-GDP trend (HP filter),2013Q4,167.7659
+KR,B,Credit-to-GDP trend (HP filter),2014Q1,168.3484
+KR,B,Credit-to-GDP trend (HP filter),2014Q2,168.904
+KR,B,Credit-to-GDP trend (HP filter),2014Q3,169.5335
+KR,B,Credit-to-GDP trend (HP filter),2014Q4,170.1717
+KR,B,Credit-to-GDP trend (HP filter),2015Q1,170.7693
+KR,B,Credit-to-GDP trend (HP filter),2015Q2,171.3344
+KR,B,Credit-to-GDP trend (HP filter),2015Q3,171.9254
+KR,B,Credit-to-GDP trend (HP filter),2015Q4,172.4861
+KR,B,Credit-to-GDP trend (HP filter),2016Q1,173.0017
+KR,B,Credit-to-GDP trend (HP filter),2016Q2,173.5014
+KR,B,Credit-to-GDP trend (HP filter),2016Q3,173.97
+KR,B,Credit-to-GDP trend (HP filter),2016Q4,174.429
+KR,B,Credit-to-GDP trend (HP filter),2017Q1,174.8275
+KR,B,Credit-to-GDP trend (HP filter),2017Q2,175.2697
+KR,B,Credit-to-GDP trend (HP filter),2017Q3,175.6736
+KR,B,Credit-to-GDP trend (HP filter),2017Q4,176.0288
+KR,B,Credit-to-GDP trend (HP filter),2018Q1,176.4006
+KR,B,Credit-to-GDP trend (HP filter),2018Q2,176.8036
+KR,B,Credit-to-GDP trend (HP filter),2018Q3,177.2781
+KR,B,Credit-to-GDP trend (HP filter),2018Q4,177.7802
+KR,B,Credit-to-GDP trend (HP filter),2019Q1,178.3215
+KR,B,Credit-to-GDP trend (HP filter),2019Q2,178.9663
+KR,B,Credit-to-GDP trend (HP filter),2019Q3,179.702
+KR,B,Credit-to-GDP trend (HP filter),2019Q4,180.5095
+KR,B,Credit-to-GDP trend (HP filter),2020Q1,181.4699
+KR,B,Credit-to-GDP trend (HP filter),2020Q2,182.6842
+KR,B,Credit-to-GDP trend (HP filter),2020Q3,184.074
+KR,B,Credit-to-GDP trend (HP filter),2020Q4,185.5497
+KR,B,Credit-to-GDP trend (HP filter),2021Q1,187.0787
+KR,B,Credit-to-GDP trend (HP filter),2021Q2,188.6175
+KR,B,Credit-to-GDP trend (HP filter),2021Q3,190.1634
+KR,B,Credit-to-GDP trend (HP filter),2021Q4,191.6624
+KR,B,Credit-to-GDP trend (HP filter),2022Q1,193.0521
+KR,B,Credit-to-GDP trend (HP filter),2022Q2,194.4522
+KR,B,Credit-to-GDP trend (HP filter),2022Q3,195.9009
+KR,B,Credit-to-GDP trend (HP filter),2022Q4,197.3324
+KR,B,Credit-to-GDP trend (HP filter),2023Q1,198.6842
+KR,B,Credit-to-GDP trend (HP filter),2023Q2,199.9835
+KR,B,Credit-to-GDP trend (HP filter),2023Q3,201.2475
+KR,B,Credit-to-GDP trend (HP filter),2023Q4,202.3022
+KR,B,Credit-to-GDP trend (HP filter),2024Q1,203.1548
+KR,B,Credit-to-GDP trend (HP filter),2024Q2,203.8715
+KR,B,Credit-to-GDP trend (HP filter),2024Q3,204.4966
+KR,B,Credit-to-GDP trend (HP filter),2024Q4,205.0333
+KR,B,Credit-to-GDP trend (HP filter),2025Q1,205.5419
+KR,B,Credit-to-GDP trend (HP filter),2025Q2,205.9961
+KR,B,Credit-to-GDP trend (HP filter),2025Q3,206.401
+KR,B,Credit-to-GDP trend (HP filter),2025Q4,206.6979
+KR,B,Credit-to-GDP trend (HP filter),2026Q1,206.607
