@@ -310,3 +310,45 @@ def test_sensitivity_rejects_non_finite_values():
             n_bootstrap=10,
         )
 
+
+def test_bootstrap_rejects_non_finite_values():
+    module = load_bootstrap_inference_module()
+
+    x = np.arange(1.0, 11.0)
+    y = np.arange(1.0, 11.0)
+    y[4] = np.inf
+
+    with pytest.raises(ValueError, match="finite values"):
+        module.bootstrap_correlations(
+            x=x,
+            y=y,
+            block_length=2,
+            n_bootstrap=10,
+            rng=np.random.default_rng(123),
+        )
+
+
+def test_bootstrap_rejects_zero_repetitions():
+    module = load_bootstrap_inference_module()
+
+    with pytest.raises(ValueError, match="n_bootstrap"):
+        module.bootstrap_correlations(
+            x=np.arange(1.0, 11.0),
+            y=np.arange(2.0, 12.0),
+            block_length=2,
+            n_bootstrap=0,
+            rng=np.random.default_rng(123),
+        )
+
+
+def test_bootstrap_rejects_multidimensional_input():
+    module = load_bootstrap_inference_module()
+
+    with pytest.raises(ValueError, match="one-dimensional"):
+        module.bootstrap_correlations(
+            x=np.ones((5, 1)),
+            y=np.arange(5.0),
+            block_length=2,
+            n_bootstrap=10,
+            rng=np.random.default_rng(123),
+        )
